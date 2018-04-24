@@ -10,14 +10,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.2}光子在气体中的原初电离过程}{2}{subsection.1.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2.3}气体探测器中电子和离子的漂移过程}{3}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.3}气体探测器中电子和离子的漂移扩散过程}{3}{subsection.1.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{结论}{5}{chapter*.5}
+\contentsline {subsection}{\numberline {1.2.4}电子在探测器中的雪崩倍增过程}{4}{subsection.1.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{文献列表}{7}{appendix*.7}
+\contentsline {chapter}{结论}{7}{chapter*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{9}{appendix.A}
+\contentsline {chapter}{文献列表}{9}{appendix*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{11}{appendix*.8}
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{11}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{13}{appendix*.9}
+\contentsline {chapter}{致谢}{13}{appendix*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{15}{appendix*.10}

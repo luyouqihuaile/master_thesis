@@ -1,17 +1,17 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'thesis.blg'
-[21] biber:313> INFO - === Sat Apr 21, 2018, 21:22:10
-[37] Biber.pm:371> INFO - Reading 'thesis.bcf'
-[87] Biber.pm:857> INFO - Found 3 citekeys in bib section 0
-[98] Biber.pm:3976> INFO - Processing section 0
-[107] Biber.pm:4136> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[108] bibtex.pm:1500> INFO - LaTeX decoding ...
-[111] bibtex.pm:1316> INFO - Found BibTeX data source 'thesis.bib'
-[118] Utils.pm:193> WARN - I didn't find a database entry for 'test-zh' (section 0)
-[127] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[127] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[127] Biber.pm:3804> INFO - Sorting list 'ecnty/global//global/global' of type 'entry' with template 'ecnty' and locale 'en-US'
-[127] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[129] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[130] bbl.pm:720> INFO - Output to thesis.bbl
-[130] Biber.pm:110> INFO - WARNINGS: 1
+[37] biber:313> INFO - === Tue Apr 24, 2018, 19:22:55
+[62] Biber.pm:371> INFO - Reading 'thesis.bcf'
+[129] Biber.pm:857> INFO - Found 3 citekeys in bib section 0
+[145] Biber.pm:3976> INFO - Processing section 0
+[155] Biber.pm:4136> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[156] bibtex.pm:1500> INFO - LaTeX decoding ...
+[161] bibtex.pm:1316> INFO - Found BibTeX data source 'thesis.bib'
+[170] Utils.pm:193> WARN - I didn't find a database entry for 'test-zh' (section 0)
+[183] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[183] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[183] Biber.pm:3804> INFO - Sorting list 'ecnty/global//global/global' of type 'entry' with template 'ecnty' and locale 'en-US'
+[184] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[187] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[188] bbl.pm:720> INFO - Output to thesis.bbl
+[188] Biber.pm:110> INFO - WARNINGS: 1
