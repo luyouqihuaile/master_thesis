@@ -822,6 +822,17 @@ INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong79.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong61.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntxexx.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/txexs.tfm
+INPUT example.eps
+INPUT ./example.eps
+INPUT ./example.eps
+INPUT ./example-eps-converted-to.pdf
+INPUT ./example-eps-converted-to.pdf
+INPUT ./example.eps
+INPUT ./example-eps-converted-to.pdf
+INPUT ./example-eps-converted-to.pdf
+INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong54.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6b.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6f.tfm
 OUTPUT chap/conclusion.aux
 INPUT chap/conclusion.tex
 INPUT chap/conclusion.tex
@@ -881,7 +892,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong99.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong67.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong60.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong66.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong54.tfm
 INPUT /usr/share/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
 INPUT thesis.aux

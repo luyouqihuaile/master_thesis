@@ -14,12 +14,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2.4}电子在探测器中的雪崩倍增过程}{4}{subsection.1.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{结论}{7}{chapter*.6}
+\contentsline {chapter}{结论}{7}{chapter*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{文献列表}{9}{appendix*.8}
+\contentsline {chapter}{文献列表}{9}{appendix*.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{11}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{13}{appendix*.9}
+\contentsline {chapter}{致谢}{13}{appendix*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{15}{appendix*.10}
+\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{15}{appendix*.11}
