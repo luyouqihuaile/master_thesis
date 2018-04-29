@@ -18,64 +18,105 @@
 
 
 \refsection{0}
-  \datalist[entry]{ecnty/global//global/global}
-    \entry{test-en}{article}{}
+  \datalist[entry]{none/global//global/global}
+    \entry{1}{article}{}
       \name{author}{1}{}{%
-        {{hash=a517747c3d12f99244ae598910d979c5}{%
-           family={Author},
-           familyi={A\bibinitperiod}}}%
+        {{hash=d53abf58ea88654e668f79454465c5ca}{%
+           family={H.Geiger},
+           familyi={H\bibinitperiod}}}%
       }
       \list{language}{1}{%
         {english}%
       }
-      \strng{namehash}{a517747c3d12f99244ae598910d979c5}
-      \strng{fullhash}{a517747c3d12f99244ae598910d979c5}
-      \strng{bibnamehash}{a517747c3d12f99244ae598910d979c5}
-      \strng{authorbibnamehash}{a517747c3d12f99244ae598910d979c5}
-      \strng{authornamehash}{a517747c3d12f99244ae598910d979c5}
-      \strng{authorfullhash}{a517747c3d12f99244ae598910d979c5}
-      \field{sortinit}{e}
-      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \strng{namehash}{d53abf58ea88654e668f79454465c5ca}
+      \strng{fullhash}{d53abf58ea88654e668f79454465c5ca}
+      \strng{bibnamehash}{d53abf58ea88654e668f79454465c5ca}
+      \strng{authorbibnamehash}{d53abf58ea88654e668f79454465c5ca}
+      \strng{authornamehash}{d53abf58ea88654e668f79454465c5ca}
+      \strng{authorfullhash}{d53abf58ea88654e668f79454465c5ca}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{1}
-      \field{journaltitle}{Journal}
-      \field{month}{4}
-      \field{title}{Title}
+      \field{journaltitle}{Proc.Roy.Soc.Lond.A 81 (1908) 141}
+      \field{title}{An electrical method of counting the number of alpha particles from radioactive substances}
       \field{type}{J}
       \field{userf}{en}
-      \field{year}{2014}
-      \field{dateera}{ce}
     \endentry
     \entry{2}{article}{}
       \name{author}{1}{}{%
-        {{hash=24102deec299f9a611267ce691870c24}{%
-           family={何绍坤},
-           familyi={何\bibinitperiod}}}%
+        {{hash=320fdf171075142eb4e4b782ddc89675}{%
+           family={G.Charpack},
+           familyi={G\bibinitperiod}}}%
       }
       \list{language}{1}{%
-        {chinese}%
+        {english}%
       }
-      \strng{namehash}{24102deec299f9a611267ce691870c24}
-      \strng{fullhash}{24102deec299f9a611267ce691870c24}
-      \strng{bibnamehash}{24102deec299f9a611267ce691870c24}
-      \strng{authorbibnamehash}{24102deec299f9a611267ce691870c24}
-      \strng{authornamehash}{24102deec299f9a611267ce691870c24}
-      \strng{authorfullhash}{24102deec299f9a611267ce691870c24}
-      \field{sortinit}{z}
-      \field{sortinithash}{35589aa085e881766b72503e53fd4c97}
+      \strng{namehash}{320fdf171075142eb4e4b782ddc89675}
+      \strng{fullhash}{320fdf171075142eb4e4b782ddc89675}
+      \strng{bibnamehash}{320fdf171075142eb4e4b782ddc89675}
+      \strng{authorbibnamehash}{320fdf171075142eb4e4b782ddc89675}
+      \strng{authornamehash}{320fdf171075142eb4e4b782ddc89675}
+      \strng{authorfullhash}{320fdf171075142eb4e4b782ddc89675}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{day}{1}
-      \field{journaltitle}{期刊}
-      \field{month}{4}
-      \field{title}{测试}
+      \field{journaltitle}{Nucl.Instr.Meth.62 (1968) 262}
+      \field{title}{The use of multiwire proportional counters to select and localize charged particles}
       \field{type}{J}
-      \field{userf}{zh}
-      \field{year}{2014}
-      \field{dateera}{ce}
+      \field{userf}{en}
+    \endentry
+    \entry{3}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0fdcf8efcd532b1363b7e39844d779c5}{%
+           family={Y.Giomataris},
+           familyi={Y\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{0fdcf8efcd532b1363b7e39844d779c5}
+      \strng{fullhash}{0fdcf8efcd532b1363b7e39844d779c5}
+      \strng{bibnamehash}{0fdcf8efcd532b1363b7e39844d779c5}
+      \strng{authorbibnamehash}{0fdcf8efcd532b1363b7e39844d779c5}
+      \strng{authornamehash}{0fdcf8efcd532b1363b7e39844d779c5}
+      \strng{authorfullhash}{0fdcf8efcd532b1363b7e39844d779c5}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucl.Instr.Meth.A 376 (1996) 29}
+      \field{title}{Micromegas: A high granularity position sensitive gaseous detector for high particle flux environments}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{4}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f9fee5c419f0ade9592a68564b9a626c}{%
+           family={F.Sauli},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{f9fee5c419f0ade9592a68564b9a626c}
+      \strng{fullhash}{f9fee5c419f0ade9592a68564b9a626c}
+      \strng{bibnamehash}{f9fee5c419f0ade9592a68564b9a626c}
+      \strng{authorbibnamehash}{f9fee5c419f0ade9592a68564b9a626c}
+      \strng{authornamehash}{f9fee5c419f0ade9592a68564b9a626c}
+      \strng{authorfullhash}{f9fee5c419f0ade9592a68564b9a626c}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucl.Instr.Meth.A 386 (1997) 531}
+      \field{title}{GEM: A new concept for electron amplification in gas detectors}
+      \field{type}{J}
+      \field{userf}{en}
     \endentry
   \enddatalist
+  \missing{test-en}
   \missing{test-zh}
 \endrefsection
 \endinput

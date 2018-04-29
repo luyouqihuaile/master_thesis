@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  24 APR 2018 21:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  29 APR 2018 22:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2258,7 +2258,14 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
  (./thesis.bbl
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 49.
+(Font)              scaled to size 10.53937pt on input line 45.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                test-en
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
 
 
 Package biblatex Warning: The following entry could not be found
@@ -2268,6 +2275,10 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
+
+Package biblatex Warning: citation 'test-en' was not found at all in the .bbl, 
+bibliography labels cannot be generated, please correct the citation.
+
 
 Package biblatex Warning: citation 'test-zh' was not found at all in the .bbl, 
 bibliography labels cannot be generated, please correct the citation.
@@ -2392,43 +2403,20 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 \openout2 = `chap/abstract.aux'.
 
  (./chap/abstract.tex
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.045pt on input line 5.
-Package CJKpunct Info: use punctuation spaces for family 'zhkai' with punctstyl
-e (quanjiao) on input line 5.
-LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 5.
-
-(/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
-File: t1ntxtt.fd 2012/04/20 v3.1
-)
-LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 12.045pt on input line 5.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12.045> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 5.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.045pt on input line 5.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 5.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 5.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 5.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 5.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <8> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 8.0pt on input line 5.
+(Font)              scaled to size 12.045pt on input line 6.
  [1
 
 
 
-] [2
+]
+[2
 
 ]
 LaTeX Font Info:    Try loading font information for T1+qhv on input line 8.
-
-(/usr/share/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
+ (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <18.06749> not available
@@ -2444,10 +2432,16 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 ] [4
 
 
-] (./thesis.toc)
+] (./thesis.toc
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.045pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 3.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 3.
+)
 \tf@toc=\write7
 \openout7 = `thesis.toc'.
-
 
 [5
 
@@ -2465,26 +2459,80 @@ e
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 15.05624pt on input line 9.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.05249pt on input line 16.
-LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
-e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 16.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.05249pt on input line 16.
+Package epstopdf Info: Source file: <example.eps>
+(epstopdf)                    date: 2018-04-20 09:18:22
+(epstopdf)                    size: 308 bytes
+(epstopdf)             Output file: <example-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-04-24 17:22:50
+(epstopdf)                    size: 2217 bytes
+(epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
+df example.eps>
+(epstopdf)             \includegraphics on input line 13.
+Package epstopdf Info: Output file is already uptodate.
+<example-eps-converted-to.pdf, id=310, 202.7575pt x 202.7575pt>
+File: example-eps-converted-to.pdf Graphic file (type pdf)
+<use example-eps-converted-to.pdf>
+Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 13.
+(pdftex.def)             Requested size: 202.757pt x 202.757pt.
+Package epstopdf Info: Source file: <example.eps>
+(epstopdf)                    date: 2018-04-20 09:18:22
+(epstopdf)                    size: 308 bytes
+(epstopdf)             Output file: <example-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-04-24 17:22:50
+(epstopdf)                    size: 2217 bytes
+(epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
+df example.eps>
+(epstopdf)             \includegraphics on input line 22.
+Package epstopdf Info: Output file is already uptodate.
+File: example-eps-converted-to.pdf Graphic file (type pdf)
+<use example-eps-converted-to.pdf>
+Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 22.
+(pdftex.def)             Requested size: 202.757pt x 202.757pt.
+
+Overfull \hbox (2.67564pt too wide) in paragraph at lines 17--25
+[]\T1/ntxtlf/m/n/12.045 1968\C70/rm/m/n/12.045/5e t\T1/ntxtlf/m/n/12.045 G.Char
+pack\C70/rm/m/n/12.045/53 — \C70/rm/m/n/12.045/66 ^^N \C70/rm/m/n/12.045/4e Ü \
+C70/rm/m/n/12.045/59 ^^Z \C70/rm/m/n/12.045/4e ^^] \C70/rm/m/n/12.045/6b c ‘ \C
+70/rm/m/n/12.045/5b §\T1/ntxtlf/m/n/12.045 (MWPC,Multi Wire Pro-por-tional Cham
+-ber)[[]2[]],\C70/rm/m/n/12.045/4f ^^?
+ []
+
+
+Overfull \hbox (8.66196pt too wide) in paragraph at lines 26--31
+\C70/rm/m/n/12.045/56 h |\C70/rm/m/n/12.045/ff ^^H|\T1/ntxtlf/m/n/12.045 MPGD, 
+Mi-cro Pat-tern Gaseous De-tec-tor|\C70/rm/m/n/12.045/ff 	| \T1/ntxtlf/m/n/12.0
+45 .\C70/rm/m/n/12.045/51 x \C70/rm/m/n/12.045/57 ã \C70/rm/m/n/12.045/76 Ñ \C7
+0/rm/m/n/12.045/4e „ \C70/rm/m/n/12.045/88 h \C70/rm/m/n/12.045/4e : \C70/rm/m/
+n/12.045/57 ˙ \C70/rm/m/n/12.045/4e é \C70/rm/m/n/12.045/5f Æ \C70/rm/m/n/12.04
+5/7f Q \C70/rm/m/n/12.045/7e ” \C70/rm/m/n/12.045/67 Ñ \C70/rm/m/n/12.045/76 Ñ\
+T1/ntxtlf/m/n/12.045 Micromegas[[]3[]]
+ []
+
 [1
 
 
-] [2]
-LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 7
-8.
- (/usr/share/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+] [2 <./example-eps-converted-to.pdf>]
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.05249pt on input line 39.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
+e
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 39.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.05249pt on input line 39.
+ [3]
+Underfull \vbox (badness 4168) has occurred while \output is active []
+
+ [4]
+LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 1
+01.
+
+(/usr/share/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 78.
+(Font)              scaled to size 12.045pt on input line 101.
 
-Overfull \hbox (12.57391pt too wide) in paragraph at lines 86--89
+Overfull \hbox (12.57391pt too wide) in paragraph at lines 109--112
 \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/5d Â \C70/rm
 /m/n/12.045/4f \ \C70/rm/m/n/12.045/6c ^^T \C70/rm/m/n/12.045/4f S \C70/rm/m/n/
 12.045/79 Õ \C70/rm/m/n/12.045/7c { \C70/rm/m/n/12.045/67 	 \C70/rm/m/n/12.045/
@@ -2500,7 +2548,7 @@ txmi/m/it/12.045 cm\LMS/ntxsy/m/n/12.045 ù\OML/ntxmi/m/it/12.045 s$|\C70/rm/m/n
 /12.045/30 ^^B|
  []
 
-[3]
+[5]
 Package epstopdf Info: Source file: <example.eps>
 (epstopdf)                    date: 2018-04-20 09:18:22
 (epstopdf)                    size: 308 bytes
@@ -2509,17 +2557,13 @@ Package epstopdf Info: Source file: <example.eps>
 (epstopdf)                    size: 2217 bytes
 (epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
 df example.eps>
-(epstopdf)             \includegraphics on input line 114.
+(epstopdf)             \includegraphics on input line 137.
 Package epstopdf Info: Output file is already uptodate.
-<example-eps-converted-to.pdf, id=393, 202.7575pt x 202.7575pt>
 File: example-eps-converted-to.pdf Graphic file (type pdf)
 <use example-eps-converted-to.pdf>
-Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 114.
+Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 137.
 (pdftex.def)             Requested size: 202.757pt x 202.757pt.
-
-Underfull \vbox (badness 2600) has occurred while \output is active []
-
- [4]
+ [6]
 Package epstopdf Info: Source file: <example.eps>
 (epstopdf)                    date: 2018-04-20 09:18:22
 (epstopdf)                    size: 308 bytes
@@ -2528,62 +2572,69 @@ Package epstopdf Info: Source file: <example.eps>
 (epstopdf)                    size: 2217 bytes
 (epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
 df example.eps>
-(epstopdf)             \includegraphics on input line 136.
+(epstopdf)             \includegraphics on input line 159.
 Package epstopdf Info: Output file is already uptodate.
 File: example-eps-converted-to.pdf Graphic file (type pdf)
 <use example-eps-converted-to.pdf>
-Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 136.
+Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 159.
 (pdftex.def)             Requested size: 202.757pt x 202.757pt.
-)
-Underfull \vbox (badness 1755) has occurred while \output is active []
-
- [5 <./example-eps-converted-to.pdf>] [6]
+) [7] [8]
 \openout2 = `chap/conclusion.aux'.
 
- (./chap/conclusion.tex) [7
+ (./chap/conclusion.tex
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 12.045pt on input line 5.
+Package CJKpunct Info: use punctuation spaces for family 'zhkai' with punctstyl
+e (quanjiao) on input line 5.
+LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 5.
+
+(/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+File: t1ntxtt.fd 2012/04/20 v3.1
+)
+LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
+(Font)              scaled to size 12.045pt on input line 5.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 5.
+LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <8> not available
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 8.0pt on input line 5.
+) [9
 
 
 
-] [8
+] [10
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.53937pt on input line 103.
-
-
-Package biblatex Warning: '\mkdaterangeiso8601' is deprecated.
-(biblatex)                Please use '\mkdaterangeiso'.
-
-
-Package biblatex Warning: '\mkdaterangeiso8601' is deprecated.
-(biblatex)                Please use '\mkdaterangeiso'.
-
-[9]
+ [11]
 \openout2 = `chap/encl1.aux'.
 
- (./chap/encl1.tex [10
+
+(./chap/encl1.tex [12
 
 
 ]
 ÈôÑÂΩï A
-) [11] [12
+) [13] [14
 
 
 ]
 \openout2 = `chap/acknowledge.aux'.
 
- (./chap/acknowledge.tex) [13
+ (./chap/acknowledge.tex) [15
 
 
 ]
 \openout2 = `chap/originauth.aux'.
 
- (./chap/originauth.tex [14
+ (./chap/originauth.tex [16
 
 
 
-]) [15]
+]) [17]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
 
@@ -2593,61 +2644,60 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 60BC17BCB798BBB00CC562E2B3DBA8FB;1814.
+(rerunfilecheck)             Checksum: 24A2E7F18C79B11135BBF9FE50835BD6;1831.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45627 strings out of 492982
- 829983 string characters out of 6138579
- 1183197 words of memory out of 5000000
- 47940 multiletter control sequences out of 15000+600000
- 716364 words of font info for 441 fonts, out of 8000000 for 9000
+ 45725 strings out of 492982
+ 831190 string characters out of 6138579
+ 1183245 words of memory out of 5000000
+ 48040 multiletter control sequences out of 15000+600000
+ 715014 words of font info for 436 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,12n,102p,10519b,1297s stack positions out of 5000i,500n,10000p,200000b,80000s
-<simsun.ttc><simkai.ttf><simkai.ttf><simkai.ttf><simhei.ttf>{/usr/share/texmf
--dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}<simsun.ttc><simhei.ttf><simsun.ttc><s
-imsun.ttc>{/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<simsun.
-ttc>{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}<simsun.ttc><simsun.ttc>
-<simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei
-.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><s
-imhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.t
-tc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf>{/us
-r/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}<simsun.ttc><simhei.ttf><s
-imhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.t
-tc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sim
-sun.ttc><simsun.ttc><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf
-><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf>{/usr/share/texmf-
-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<simhei.ttf><simhei.ttf><simsun.ttc><
+ 64i,12n,102p,10519b,1289s stack positions out of 5000i,500n,10000p,200000b,80000s
+<simsun.ttc><simsun.ttc><simsun.ttc><simkai.ttf><simkai.ttf><simkai.ttf><simk
+ai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf>
+{/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<simhei.ttf>{/usr/s
+hare/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}<simsun.ttc><simhei.ttf><sim
+sun.ttc>{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}<simsun.ttc><simhei.
+ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc>{/usr/share/tex
+mf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<simsun.ttc><simsun.ttc><simsun.t
+tc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simsun.ttc><sim
+sun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc
+><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsu
+n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
+simsun.ttc><simhei.ttf><simhei.ttf>{/usr/share/texmf-dist/fonts/enc/dvips/tex-g
+yre/q-ec.enc}<simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhe
+i.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
 simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
 ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><si
 msun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.tt
-c><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
-un.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc>
-<simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simhei.ttf><simfang.ttf><s
-imfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simhei.ttf><sim
-fang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simhei.ttf><simhei.ttf><simfan
-g.ttf><simfang.ttf><simfang.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf
+c><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simh
+ei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simfang.ttf><simfang.ttf><simfang.t
+tf><simfang.ttf><simhei.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf
+><simfang.ttf><simfang.ttf><simhei.ttf><simfang.ttf><simfang.ttf><simfang.ttf><
+simfang.ttf><simhei.ttf><simhei.ttf><simfang.ttf><simfang.ttf><simfang.ttf><sim
+hei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf
 ><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhe
-i.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><
-simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.
-ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf></usr/share/tex
-mf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf-dist/fonts/type1
-/public/tex-gyre/qtmb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qt
-mr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb></usr/share
-/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></usr/share/texmf-dist/fonts/t
-ype1/public/txfonts/rtxmi.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/r
-txmi7.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/texmf-dist/fonts/
-type1/public/newtx/txexs.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/
-txmia.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/sha
-re/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/texmf-dist/fonts/t
-ype1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (25 pages, 719985 bytes).
+i.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><
+simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.
+ttf><simhei.ttf><simhei.ttf></usr/share/texmf-dist/fonts/type1/public/tex-gyre/
+qhvb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/shar
+e/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/
+type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/type1/public/newtx
+/rntxmi7.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/
+share/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb></usr/share/texmf-dist/fon
+ts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfo
+nts/t1xtt.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/txfonts/txmia.pfb></usr/share/texmf-dist/fon
+ts/type1/public/txfonts/txsya.pfb></usr/share/texmf-dist/fonts/type1/public/new
+tx/txsys.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (27 pages, 736121 bytes).
 PDF statistics:
- 997 PDF objects out of 1000 (max. 8388607)
- 722 compressed objects within 8 object streams
- 66 named destinations out of 1000 (max. 500000)
+ 994 PDF objects out of 1000 (max. 8388607)
+ 720 compressed objects within 8 object streams
+ 72 named destinations out of 1000 (max. 500000)
  444 words of extra memory for PDF output out of 10000 (max. 10000000)
 
