@@ -115,6 +115,238 @@
       \field{type}{J}
       \field{userf}{en}
     \endentry
+    \entry{5}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dc6cf6269e33bf7896b79b0e389ac086}{%
+           family={Pinto},
+           familyi={P\bibinitperiod},
+           given={Serge\bibnamedelima Duarte},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{dc6cf6269e33bf7896b79b0e389ac086}
+      \strng{fullhash}{dc6cf6269e33bf7896b79b0e389ac086}
+      \strng{bibnamehash}{dc6cf6269e33bf7896b79b0e389ac086}
+      \strng{authorbibnamehash}{dc6cf6269e33bf7896b79b0e389ac086}
+      \strng{authornamehash}{dc6cf6269e33bf7896b79b0e389ac086}
+      \strng{authorfullhash}{dc6cf6269e33bf7896b79b0e389ac086}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv:0907.2673}
+      \field{title}{RD51, an Research and Development collaboration for micropattern gaseous detectors}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{6}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e742ba4e105e5341464c3528b118ff41}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={CMS},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{fullhash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{bibnamehash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{authorbibnamehash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{authornamehash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{authorfullhash}{e742ba4e105e5341464c3528b118ff41}
+      \field{sortinit}{6}
+      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CERN-LHCC-2015-10}
+      \field{title}{Technical proposal for the Phase-II upgrade of the Compact Muon Solenoid}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{7}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f6ebc860b80d3dddd17223c06976def8}{%
+           family={D.Abbaneo},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{fullhash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{bibnamehash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{authorbibnamehash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{authornamehash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{authorfullhash}{f6ebc860b80d3dddd17223c06976def8}
+      \field{sortinit}{7}
+      \field{sortinithash}{6ac7fe70cdec8cba8f65694411ce2532}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucl.Instr.Meth.A 824 (2016)}
+      \field{title}{Status report of the upgrade of the CMS muon system with Triple-GEM detectors}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{8}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1be11048398e4134f087bae55dae1d4d}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={R.\bibnamedelimi De},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{1be11048398e4134f087bae55dae1d4d}
+      \strng{fullhash}{1be11048398e4134f087bae55dae1d4d}
+      \strng{bibnamehash}{1be11048398e4134f087bae55dae1d4d}
+      \strng{authorbibnamehash}{1be11048398e4134f087bae55dae1d4d}
+      \strng{authornamehash}{1be11048398e4134f087bae55dae1d4d}
+      \strng{authorfullhash}{1be11048398e4134f087bae55dae1d4d}
+      \field{sortinit}{8}
+      \field{sortinithash}{2f1b0e69e7617f99664f1cd00bb9603c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arxiv: 1503.05330v1(2015)}
+      \field{title}{A novel fast timing micropattern gaseous detector:FTM}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{9}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e5541c000410a43a06ae0ef00c012bb4}{%
+           family={Bencivenni},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{e5541c000410a43a06ae0ef00c012bb4}
+      \strng{fullhash}{e5541c000410a43a06ae0ef00c012bb4}
+      \strng{bibnamehash}{e5541c000410a43a06ae0ef00c012bb4}
+      \strng{authorbibnamehash}{e5541c000410a43a06ae0ef00c012bb4}
+      \strng{authornamehash}{e5541c000410a43a06ae0ef00c012bb4}
+      \strng{authorfullhash}{e5541c000410a43a06ae0ef00c012bb4}
+      \field{sortinit}{9}
+      \field{sortinithash}{2999ebab86052e6d71b434385f8b4ed2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IOP PUBLISHING FOR SISSA MEDIALAB(2015)}
+      \field{title}{The micro-Resistive WELL detector: a compact spark-protected single amplification-stage MPGD}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{10}{article}{}
+      \name{author}{1}{}{%
+        {{hash=883e03e48d037870e3f3141bee9f2100}{%
+           family={Altunbas},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{883e03e48d037870e3f3141bee9f2100}
+      \strng{fullhash}{883e03e48d037870e3f3141bee9f2100}
+      \strng{bibnamehash}{883e03e48d037870e3f3141bee9f2100}
+      \strng{authorbibnamehash}{883e03e48d037870e3f3141bee9f2100}
+      \strng{authornamehash}{883e03e48d037870e3f3141bee9f2100}
+      \strng{authorfullhash}{883e03e48d037870e3f3141bee9f2100}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucl. Instr. and Meth. A 490 (2002) 177}
+      \field{title}{Construction, test and commissioning of the Triple-GEM tracking detector for COMPASS}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{11}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d68c52365a3c14f4e1dda3ccb681e48a}{%
+           family={Bachmann},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{d68c52365a3c14f4e1dda3ccb681e48a}
+      \strng{fullhash}{d68c52365a3c14f4e1dda3ccb681e48a}
+      \strng{bibnamehash}{d68c52365a3c14f4e1dda3ccb681e48a}
+      \strng{authorbibnamehash}{d68c52365a3c14f4e1dda3ccb681e48a}
+      \strng{authornamehash}{d68c52365a3c14f4e1dda3ccb681e48a}
+      \strng{authorfullhash}{d68c52365a3c14f4e1dda3ccb681e48a}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucl. Instr. and Meth. A 438 (1999) 376}
+      \field{title}{Charge amplification and transfer processes in the Gas Electron Multiplier}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{12}{article}{}
+      \name{author}{1}{}{%
+        {{hash=87c484bf59651795fbf20ded91fdcdb3}{%
+           family={Guedes},
+           familyi={G\bibinitperiod},
+           given={GP},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{87c484bf59651795fbf20ded91fdcdb3}
+      \strng{fullhash}{87c484bf59651795fbf20ded91fdcdb3}
+      \strng{bibnamehash}{87c484bf59651795fbf20ded91fdcdb3}
+      \strng{authorbibnamehash}{87c484bf59651795fbf20ded91fdcdb3}
+      \strng{authornamehash}{87c484bf59651795fbf20ded91fdcdb3}
+      \strng{authorfullhash}{87c484bf59651795fbf20ded91fdcdb3}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nucl. Instr. and Meth. A 497 (2003) 305-313}
+      \field{title}{Effects of the induction gap parameters on the signal in a double-GEM detector}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
+    \entry{13}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8f82e8fe1e8c3504f7be903c17322986}{%
+           family={P},
+           familyi={P\bibinitperiod},
+           given={Lautridou},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{8f82e8fe1e8c3504f7be903c17322986}
+      \strng{fullhash}{8f82e8fe1e8c3504f7be903c17322986}
+      \strng{bibnamehash}{8f82e8fe1e8c3504f7be903c17322986}
+      \strng{authorbibnamehash}{8f82e8fe1e8c3504f7be903c17322986}
+      \strng{authornamehash}{8f82e8fe1e8c3504f7be903c17322986}
+      \strng{authorfullhash}{8f82e8fe1e8c3504f7be903c17322986}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ecole des Mines de Nantes (1997)}
+      \field{title}{Test of a Micromegas detector for the Moun Tracking Chanmbers of ALICE}
+      \field{type}{J}
+      \field{userf}{en}
+    \endentry
   \enddatalist
   \missing{test-en}
   \missing{test-zh}
