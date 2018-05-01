@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  1 MAY 2018 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  1 MAY 2018 22:42
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**thesis.tex
-(./thesis.tex
+**/home/hsk/Documents/Master_thesis_Git_hub/pkuthss/doc/example/thesis.tex
+(/home/hsk/Documents/Master_thesis_Git_hub/pkuthss/doc/example/thesis.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./pkuthss.cls
@@ -2043,8 +2044,8 @@ File: UTF8.enc 2015/04/18 4.8.4
 File: UTF8.chr 2015/04/18 4.8.4
 ) (./thesis.aux
 (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
-(./chap/chap2.aux) (./chap/conclusion.aux) (./chap/encl1.aux)
-(./chap/acknowledge.aux) (./chap/originauth.aux))
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/conclusion.aux) (./chap/encl1.aux
+) (./chap/acknowledge.aux) (./chap/originauth.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 68.
@@ -2263,13 +2264,6 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                14
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                test-en
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -2283,10 +2277,6 @@ Package biblatex Warning: The following entry could not be found
 
 )
 
-Package biblatex Warning: citation '14' was not found at all in the .bbl, bibli
-ography labels cannot be generated, please correct the citation.
-
-
 Package biblatex Warning: citation 'test-en' was not found at all in the .bbl, 
 bibliography labels cannot be generated, please correct the citation.
 
@@ -2298,12 +2288,12 @@ Package biblatex Info: Reference section=0 on input line 68.
 Package biblatex Info: Reference segment=0 on input line 68.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 26.09749pt on input line 76.
-<pkulogo.pdf, id=83, 401.5pt x 401.5pt>
+<pkulogo.pdf, id=99, 401.5pt x 401.5pt>
 File: pkulogo.pdf Graphic file (type pdf)
 <use pkulogo.pdf>
 Package pdftex.def Info: pkulogo.pdf  used on input line 76.
 (pdftex.def)             Requested size: 62.63007pt x 62.6338pt.
-<pkuword.pdf, id=84, 526.96875pt x 150.5625pt>
+<pkuword.pdf, id=100, 526.96875pt x 150.5625pt>
 File: pkuword.pdf Graphic file (type pdf)
 <use pkuword.pdf>
 Package pdftex.def Info: pkuword.pdf  used on input line 76.
@@ -2480,7 +2470,7 @@ Package epstopdf Info: Source file: <example.eps>
 df example.eps>
 (epstopdf)             \includegraphics on input line 13.
 Package epstopdf Info: Output file is already uptodate.
-<example-eps-converted-to.pdf, id=327, 202.7575pt x 202.7575pt>
+<example-eps-converted-to.pdf, id=349, 202.7575pt x 202.7575pt>
 File: example-eps-converted-to.pdf Graphic file (type pdf)
 <use example-eps-converted-to.pdf>
 Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 13.
@@ -2680,38 +2670,37 @@ Overfull \hbox (0.14487pt too wide) in paragraph at lines 5--8
 2.045 RWELL(micro Re-sis-tive WELL struc-
  []
 
-<gem_foil.png, id=440, 455.7025pt x 342.27875pt>
+<gem_foil.png, id=460, 455.7025pt x 342.27875pt>
 File: gem_foil.png Graphic file (type png)
 <use gem_foil.png>
 Package pdftex.def Info: gem_foil.png  used on input line 13.
-(pdftex.def)             Requested size: 361.34999pt x 271.41566pt.
-<gem_field.png, id=443, 427.5975pt x 410.2828pt>
+(pdftex.def)             Requested size: 289.07999pt x 217.13045pt.
+<gem_field.png, id=463, 423.83344pt x 406.51875pt>
 File: gem_field.png Graphic file (type png)
 <use gem_field.png>
 Package pdftex.def Info: gem_field.png  used on input line 18.
-(pdftex.def)             Requested size: 361.34999pt x 346.71991pt.
-<gem_new.png, id=446, 905.784pt x 519.8622pt>
+(pdftex.def)             Requested size: 216.81pt x 207.95451pt.
+<gem_new.png, id=466, 905.784pt x 519.8622pt>
 File: gem_new.png Graphic file (type png)
 <use gem_new.png>
 Package pdftex.def Info: gem_new.png  used on input line 26.
-(pdftex.def)             Requested size: 361.34999pt x 207.38591pt.
+(pdftex.def)             Requested size: 289.07999pt x 165.90715pt.
 [9
 
 
 
-]
-<ftm.png, id=463, 874.467pt x 460.119pt>
+] [10 <./gem_foil.png> <./gem_field.png (PNG copy)>]
+<ftm.png, id=491, 874.467pt x 460.119pt>
 File: ftm.png Graphic file (type png)
 <use ftm.png>
 Package pdftex.def Info: ftm.png  used on input line 44.
-(pdftex.def)             Requested size: 361.34999pt x 190.13141pt.
- [10 <./gem_foil.png>] [11 <./gem_field.png> <./gem_new.png>]
-<beam_test.png, id=480, 569.12625pt x 425.59pt>
+(pdftex.def)             Requested size: 289.07999pt x 152.10652pt.
+ [11 <./gem_new.png>]
+<beam_test.png, id=501, 569.12625pt x 425.59pt>
 File: beam_test.png Graphic file (type png)
 <use beam_test.png>
 Package pdftex.def Info: beam_test.png  used on input line 58.
-(pdftex.def)             Requested size: 361.34999pt x 270.22716pt.
- [12 <./ftm.png>]
+(pdftex.def)             Requested size: 289.07999pt x 216.18431pt.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 15.05624pt on input line 62.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -2729,21 +2718,113 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 62.
 
-) [13 <./beam_test.png>]
-\openout2 = `chap/conclusion.aux'.
+<mrwell.png, id=502, 878.8032pt x 522.753pt>
+File: mrwell.png Graphic file (type png)
+<use mrwell.png>
+Package pdftex.def Info: mrwell.png  used on input line 67.
+(pdftex.def)             Requested size: 289.07999pt x 171.95863pt.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.0pt on input line 68.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 68.
+[12 <./ftm.png>] [13 <./beam_test.png> <./mrwell.png>]
+<well_pcb.png, id=520, 725.71124pt x 542.025pt>
+File: well_pcb.png Graphic file (type png)
+<use well_pcb.png>
+Package pdftex.def Info: well_pcb.png  used on input line 78.
+(pdftex.def)             Requested size: 289.07999pt x 215.91292pt.
+<well.png, id=521, 751.80875pt x 501.875pt>
+File: well.png Graphic file (type png)
+<use well.png>
+Package pdftex.def Info: well.png  used on input line 82.
+(pdftex.def)             Requested size: 289.07999pt x 192.98123pt.
+) [14 <./well_pcb.png>]
+[15 <./well.png>]
+\openout2 = `chap/chap3.aux'.
 
- (./chap/conclusion.tex [14
+ (./chap/chap3.tex [16
 
 
 
 ]
+Á¨¨‰∏âÁ´†
+[17]
+Overfull \hbox (0.98958pt too wide) in paragraph at lines 26--29
+\C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12.045/72 y \C70/rm/m/n/12.045/60 '|\C70/rm
+/m/n/12.045/30 ^^A| \C70/rm/m/n/12.045/62 i \C70/rm/m/n/12.045/65 c \C70/rm/m/n
+/12.045/72 y \C70/rm/m/n/12.045/60 '|\C70/rm/m/n/12.045/30 ^^A| \C70/rm/m/n/12.
+045/96 Í \C70/rm/m/n/12.045/5d ) \C70/rm/m/n/12.045/50 ^^M \C70/rm/m/n/12.045/5
+8 û \C70/rm/m/n/12.045/72 y \C70/rm/m/n/12.045/60 ' \C70/rm/m/n/12.045/7b I|\C7
+0/rm/m/n/12.045/30 ^^B| \C70/rm/m/n/12.045/6b d \C70/rm/m/n/12.045/59 ^^V\T1/nt
+xtlf/m/n/12.045 GARFIELD\C70/rm/m/n/12.045/8f ÿ \C70/rm/m/n/12.045/7e Ÿ\T1/ntxt
+lf/m/n/12.045 Heed[[]19[]]\C70/rm/m/n/12.045/63 – \C70/rm/m/n/12.045/4f õ \C70/
+rm/m/n/12.045/63 • \C70/rm/m/n/12.045/53 „|\C70/rm/m/n/12.045/ff ^^L| \T1/ntxtl
+f/m/n/12.045 Heed\C70/rm/m/n/12.045/66 /
+ []
+
+[18]
+<simulation_process1.png, id=562, 942.4008pt x 531.4254pt>
+File: simulation_process1.png Graphic file (type png)
+<use simulation_process1.png>
+Package pdftex.def Info: simulation_process1.png  used on input line 43.
+(pdftex.def)             Requested size: 289.07999pt x 163.01297pt.
+<gem_ansys.png, id=563, 895.6662pt x 492.8814pt>
+File: gem_ansys.png Graphic file (type png)
+<use gem_ansys.png>
+Package pdftex.def Info: gem_ansys.png  used on input line 53.
+(pdftex.def)             Requested size: 289.07999pt x 159.079pt.
+Package epstopdf Info: Source file: <gem_avalanche.eps>
+(epstopdf)                    date: 2018-04-30 19:42:12
+(epstopdf)                    size: 17204532 bytes
+(epstopdf)             Output file: <gem_avalanche-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-05-01 22:27:34
+(epstopdf)                    size: 732996 bytes
+(epstopdf)             Command: <repstopdf --outfile=gem_avalanche-eps-converte
+d-to.pdf gem_avalanche.eps>
+(epstopdf)             \includegraphics on input line 57.
+Package epstopdf Info: Output file is already uptodate.
+<gem_avalanche-eps-converted-to.pdf, id=564, 495.8525pt x 398.48875pt>
+File: gem_avalanche-eps-converted-to.pdf Graphic file (type pdf)
+<use gem_avalanche-eps-converted-to.pdf>
+Package pdftex.def Info: gem_avalanche-eps-converted-to.pdf  used on input line
+ 57.
+(pdftex.def)             Requested size: 289.07999pt x 232.3154pt.
+<fym_ansys.jpg, id=565, 532.99126pt x 401.24907pt>
+File: fym_ansys.jpg Graphic file (type jpg)
+<use fym_ansys.jpg>
+Package pdftex.def Info: fym_ansys.jpg  used on input line 66.
+(pdftex.def)             Requested size: 289.07999pt x 217.6325pt.
+<ftm_avalanche.png, id=566, 510.90875pt x 472.76625pt>
+File: ftm_avalanche.png Graphic file (type png)
+<use ftm_avalanche.png>
+Package pdftex.def Info: ftm_avalanche.png  used on input line 70.
+(pdftex.def)             Requested size: 289.07999pt x 267.49576pt.
+
+Overfull \hbox (6.3979pt too wide) in paragraph at lines 61--73
+[]\T1/ntxtlf/m/n/12.045 FTM\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70
+/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 ANSYS\C70/rm/m
+/n/12.045/4e - \C70/rm/m/n/12.045/67 Ñ \C70/rm/m/n/12.045/5e ˙ \C70/rm/m/n/12.0
+45/76 Ñ \C70/rm/m/n/12.045/6a ! \C70/rm/m/n/12.045/57 ã \C70/rm/m/n/12.045/56 ˛
+ \C70/rm/m/n/12.045/59 Ç \C70/rm/m/n/12.045/56 ˛\T1/ntxtlf/m/n/12.045 3.4\C70/r
+m/m/n/12.045/62 @ \C70/rm/m/n/12.045/79 :|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/
+n/12.045/4e Œ \C70/rm/m/n/12.045/5d Ê \C70/rm/m/n/12.045/52 0 \C70/rm/m/n/12.04
+5/53 Û \C70/rm/m/n/12.045/4f ù \C70/rm/m/n/12.045/6b ! \C70/rm/m/n/12.045/4e :\
+T1/ntxtlf/m/n/12.045 20um\C70/rm/m/n/12.045/53 ö \C70/rm/m/n/12.045/76 Ñ\T1/ntx
+tlf/m/n/12.045 Cu\C70/rm/m/n/12.045/6f ^^B
+ []
+
+[19 <./simulation_process1.png>] [20 <./gem_ansys.png> <./gem_avalanche-eps-con
+verted-to.pdf>]) [21 <./fym_ansys.jpg>] [22 <./ftm_avalanche.png (PNG copy)>]
+\openout2 = `chap/conclusion.aux'.
+
+
+(./chap/conclusion.tex
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 12.045pt on input line 5.
 Package CJKpunct Info: use punctuation spaces for family 'zhkai' with punctstyl
 e (quanjiao) on input line 5.
 LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 5.
-
-(/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+ (/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
@@ -2754,108 +2835,146 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <8> not available
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 8.0pt on input line 5.
-) [15] [16
+)
+[23
+
+
+
+] [24
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.53937pt on input line 104.
+(Font)              scaled to size 10.53937pt on input line 105.
 
-Overfull \hbox (13.66266pt too wide) in paragraph at lines 104--104
+Overfull \hbox (13.66266pt too wide) in paragraph at lines 105--105
 []\T1/ntxtlf/m/n/10.53937 R. De Oliveira. ``\T1/ntxtlf/m/it/10.53937 A novel fa
 st tim-ing mi-cropat-tern gaseous de-tec-tor:FTM\T1/ntxtlf/m/n/10.53937 '' [J].
  \T1/ntxtlf/m/it/10.53937 arxiv: 1503.05330v1(2015)\T1/ntxtlf/m/n/10.53937 . 
  []
 
-[17]
+
+Overfull \hbox (17.93256pt too wide) in paragraph at lines 105--105
+[]\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 ANSYS, a fi-nite el-e-ment
+ anal-y-sis soft-ware\T1/ntxtlf/m/n/10.53937 ''. \T1/ntxtlf/m/it/10.53937 web-p
+age: https://www.ansys.com/zh-cn/products/electronics\T1/ntxtlf/m/n/10.53937 . 
+
+ []
+
+
+Overfull \hbox (57.09653pt too wide) in paragraph at lines 105--105
+[]\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 GARFIELD, a tookit for the
+ sim-u-la-tion of par-ti-cle de-tec-tors\T1/ntxtlf/m/n/10.53937 ''. \T1/ntxtlf/
+m/it/10.53937 web-page: https://garfieldpp.web.cern.ch/garfieldpp/\T1/ntxtlf/m/
+n/10.53937 . 
+ []
+
+
+Overfull \hbox (163.30875pt too wide) in paragraph at lines 105--105
+[]\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 a tookit to cal-cu-late th
+e mo-tion state of charged par-ti-cles in gas vol-ume\T1/ntxtlf/m/n/10.53937 ''
+. \T1/ntxtlf/m/it/10.53937 web-page: http://cmd.inp.nsk.su/old/cmd2/manuals/cer
+nlib/garfield/
+ []
+
+
+Overfull \hbox (8.90744pt too wide) in paragraph at lines 105--105
+[]\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 a tookit to cal-cu-late th
+e ion-i-sa-tion pro-cess of gas molecules\T1/ntxtlf/m/n/10.53937 ''. \T1/ntxtlf
+/m/it/10.53937 web-page: https://heed.web.cern.ch/heed/\T1/ntxtlf/m/n/10.53937 
+. 
+ []
+
+[25] [26]
 \openout2 = `chap/encl1.aux'.
 
- (./chap/encl1.tex [18
-
-
-]
+ (./chap/encl1.tex
 ÈôÑÂΩï A
-) [19] [20
+) [27
+
+
+] [28
 
 
 ]
 \openout2 = `chap/acknowledge.aux'.
 
- (./chap/acknowledge.tex) [21
+ (./chap/acknowledge.tex) [29
 
 
 ]
 \openout2 = `chap/originauth.aux'.
 
- (./chap/originauth.tex [22
+ (./chap/originauth.tex [30
 
 
 
-]) [23]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+]) [31]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
 
 (./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
-(./chap/chap2.aux) (./chap/conclusion.aux) (./chap/encl1.aux)
-(./chap/acknowledge.aux) (./chap/originauth.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/conclusion.aux) (./chap/encl1.aux
+) (./chap/acknowledge.aux) (./chap/originauth.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 811D8BF794C8239367C2F1D60F8C430D;2186.
+(rerunfilecheck)             Checksum: 43DAA6FD0C9DACCE229E375DFF4B99EE;2771.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46032 strings out of 492982
- 836087 string characters out of 6138579
- 1188110 words of memory out of 5000000
- 48291 multiletter control sequences out of 15000+600000
- 724938 words of font info for 463 fonts, out of 8000000 for 9000
+ 46391 strings out of 492982
+ 841988 string characters out of 6138579
+ 1191838 words of memory out of 5000000
+ 48577 multiletter control sequences out of 15000+600000
+ 740355 words of font info for 506 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,12n,102p,10457b,1484s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,12n,102p,10519b,1484s stack positions out of 5000i,500n,10000p,200000b,80000s
 <simsun.ttc><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simk
 ai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf>{/usr/share/texmf-dist/f
 onts/enc/dvips/newtx/ntx-ec-tlf.enc}<simsun.ttc><simsun.ttc><simsun.ttc><simsun
-.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simsun.ttc>{/usr/share/te
-xmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}<simsun.ttc><simhei.ttf><simhei.ttf
-><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc>{/usr/share/texmf-
-dist/fonts/enc/dvips/base/8r.enc}<simsun.ttc>{/usr/share/texmf-dist/fonts/enc/d
-vips/newtx/ntx-ot1-tlf.enc}<simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sim
-sun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc
-><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhe
-i.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><
-simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.
-ttf><simhei.ttf>{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}<simsu
-n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><
-simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
+.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><s
+imsun.ttc>{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}<simsun.ttc
+><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsu
+n.ttc>{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}<simsun.ttc>{/usr/shar
+e/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<simsun.ttc><simsun.ttc><sim
+sun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simsun.ttc
+><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
+n.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><
+simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
+ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf>{/usr/share/texmf-dist/font
+s/enc/dvips/tex-gyre/q-ec.enc}<simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
+simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.
 ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><si
 msun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.tt
 c><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
-un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf>
-<simsun.ttc><simsun.ttc><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><si
-mhei.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simf
-ang.ttf><simhei.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simhei
-.ttf><simhei.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simhei.ttf><simhei.ttf
-><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhe
+un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc>
+<simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simfang.ttf><simfa
+ng.ttf><simfang.ttf><simfang.ttf><simhei.ttf><simfang.ttf><simfang.ttf><simfang
+.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simhei.ttf><simfang.ttf><simfang.t
+tf><simfang.ttf><simfang.ttf><simhei.ttf><simhei.ttf><simfang.ttf><simfang.ttf>
+<simfang.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhe
 i.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><
-simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simhei.
-ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><si
-mhei.ttf></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/texmf-dist/fonts/
-type1/public/tex-gyre/qtmr.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gy
-re/qtmri.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/rntxmi7.pfb></usr/
-share/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texmf-dist/fo
-nts/type1/public/newtx/rtxmi7.pfb></usr/share/texmf-dist/fonts/type1/public/txf
-onts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr
-/share/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/share/texmf-dist/fon
-ts/type1/public/txfonts/txmia.pfb></usr/share/texmf-dist/fonts/type1/public/txf
-onts/txsya.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/
-share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (33 pages, 1570540 bytes).
+simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.
+ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><si
+mhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf></usr/share/texmf-dist/fonts/type1
+/public/tex-gyre/qhvb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qt
+mb.pfb></usr/share/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/
+texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb></usr/share/texmf-dist/fonts/t
+ype1/public/newtx/rntxmi7.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts
+/rtxmi.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texmf-dist/fonts/
+type1/public/txfonts/t1xtt.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/
+txexs.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txmia.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texmf-dist/fonts
+/type1/public/newtx/txsys.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr
+i8a.pfb>
+Output written on thesis.pdf (41 pages, 5234310 bytes).
 PDF statistics:
- 1093 PDF objects out of 1200 (max. 8388607)
- 794 compressed objects within 8 object streams
- 92 named destinations out of 1000 (max. 500000)
- 509 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1207 PDF objects out of 1440 (max. 8388607)
+ 877 compressed objects within 9 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 593 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -347,8 +347,94 @@
       \field{type}{J}
       \field{userf}{en}
     \endentry
+    \entry{14}{article}{}
+      \name{author}{2}{}{%
+        {{hash=1a217a869b44243e1ff41ea94195282f}{%
+           family={Abbaneo},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2276ec82cccffe1d043c2abdefa642eb}{%
+           family={Abbas},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {english}%
+      }
+      \strng{namehash}{a0df743484adb6627b995e970b793c36}
+      \strng{fullhash}{a0df743484adb6627b995e970b793c36}
+      \strng{bibnamehash}{a0df743484adb6627b995e970b793c36}
+      \strng{authorbibnamehash}{a0df743484adb6627b995e970b793c36}
+      \strng{authornamehash}{a0df743484adb6627b995e970b793c36}
+      \strng{authorfullhash}{a0df743484adb6627b995e970b793c36}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nuclear Inst and Methods in Physics Research A 845 (2017) 313-317}
+      \field{title}{Research and Development on a new type of micropattern gaseous detector: The Fast Timing Micropattern detector}
+      \field{userf}{en}
+    \endentry
+    \entry{15}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9ec71206e5fa73299a29caf004817c9d}{%
+           family={Bressler},
+           familyi={B\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=afbe717b79cfa843151b913cac58deb5}{%
+           family={Moleri},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{f86b8f5a8344ecfcd6070cda6a6913e1}
+      \strng{fullhash}{f86b8f5a8344ecfcd6070cda6a6913e1}
+      \strng{bibnamehash}{f86b8f5a8344ecfcd6070cda6a6913e1}
+      \strng{authorbibnamehash}{f86b8f5a8344ecfcd6070cda6a6913e1}
+      \strng{authornamehash}{f86b8f5a8344ecfcd6070cda6a6913e1}
+      \strng{authorfullhash}{f86b8f5a8344ecfcd6070cda6a6913e1}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics 2016}
+      \field{title}{First in-beam studies of a Resistive-Plate WELL gaseous multiplier}
+      \field{userf}{en}
+    \endentry
+    \entry{16}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{webpage: https://www.ansys.com/zh-cn/products/electronics}
+      \field{title}{ANSYS, a finite element analysis software}
+      \field{userf}{en}
+    \endentry
+    \entry{17}{article}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{webpage: https://garfieldpp.web.cern.ch/garfieldpp/}
+      \field{title}{GARFIELD, a tookit for the simulation of particle detectors}
+      \field{userf}{en}
+    \endentry
+    \entry{18}{article}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{webpage: http://cmd.inp.nsk.su/old/cmd2/manuals/cernlib/garfield/ help/garfield full.html}
+      \field{title}{a tookit to calculate the motion state of charged particles in gas volume}
+      \field{userf}{en}
+    \endentry
+    \entry{19}{article}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{webpage: https://heed.web.cern.ch/heed/}
+      \field{title}{a tookit to calculate the ionisation process of gas molecules}
+      \field{userf}{en}
+    \endentry
   \enddatalist
-  \missing{14}
   \missing{test-en}
   \missing{test-zh}
 \endrefsection
