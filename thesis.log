@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  1 MAY 2018 22:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  3 MAY 2018 17:40
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/hsk/Documents/Master_thesis_Git_hub/pkuthss/doc/example/thesis.tex
-(/home/hsk/Documents/Master_thesis_Git_hub/pkuthss/doc/example/thesis.tex
+**thesis.tex
+(./thesis.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./pkuthss.cls
@@ -2044,8 +2043,8 @@ File: UTF8.enc 2015/04/18 4.8.4
 File: UTF8.chr 2015/04/18 4.8.4
 ) (./thesis.aux
 (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
-(./chap/chap2.aux) (./chap/chap3.aux) (./chap/conclusion.aux) (./chap/encl1.aux
-) (./chap/acknowledge.aux) (./chap/originauth.aux))
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/conclusion.aux
+) (./chap/encl1.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 68.
@@ -2288,12 +2287,12 @@ Package biblatex Info: Reference section=0 on input line 68.
 Package biblatex Info: Reference segment=0 on input line 68.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 26.09749pt on input line 76.
-<pkulogo.pdf, id=99, 401.5pt x 401.5pt>
+<pkulogo.pdf, id=107, 401.5pt x 401.5pt>
 File: pkulogo.pdf Graphic file (type pdf)
 <use pkulogo.pdf>
 Package pdftex.def Info: pkulogo.pdf  used on input line 76.
 (pdftex.def)             Requested size: 62.63007pt x 62.6338pt.
-<pkuword.pdf, id=100, 526.96875pt x 150.5625pt>
+<pkuword.pdf, id=108, 526.96875pt x 150.5625pt>
 File: pkuword.pdf Graphic file (type pdf)
 <use pkuword.pdf>
 Package pdftex.def Info: pkuword.pdf  used on input line 76.
@@ -2460,37 +2459,13 @@ e
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 15.05624pt on input line 9.
-Package epstopdf Info: Source file: <example.eps>
-(epstopdf)                    date: 2018-04-30 19:42:12
-(epstopdf)                    size: 308 bytes
-(epstopdf)             Output file: <example-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-30 19:42:41
-(epstopdf)                    size: 2217 bytes
-(epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
-df example.eps>
-(epstopdf)             \includegraphics on input line 13.
-Package epstopdf Info: Output file is already uptodate.
-<example-eps-converted-to.pdf, id=349, 202.7575pt x 202.7575pt>
-File: example-eps-converted-to.pdf Graphic file (type pdf)
-<use example-eps-converted-to.pdf>
-Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 13.
-(pdftex.def)             Requested size: 202.757pt x 202.757pt.
-Package epstopdf Info: Source file: <example.eps>
-(epstopdf)                    date: 2018-04-30 19:42:12
-(epstopdf)                    size: 308 bytes
-(epstopdf)             Output file: <example-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-30 19:42:41
-(epstopdf)                    size: 2217 bytes
-(epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
-df example.eps>
-(epstopdf)             \includegraphics on input line 22.
-Package epstopdf Info: Output file is already uptodate.
-File: example-eps-converted-to.pdf Graphic file (type pdf)
-<use example-eps-converted-to.pdf>
-Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 22.
-(pdftex.def)             Requested size: 202.757pt x 202.757pt.
+<MWPC.png, id=364, 721.6749pt x 444.38362pt>
+File: MWPC.png Graphic file (type png)
+<use MWPC.png>
+Package pdftex.def Info: MWPC.png  used on input line 18.
+(pdftex.def)             Requested size: 289.07999pt x 178.00797pt.
 
-Overfull \hbox (2.67564pt too wide) in paragraph at lines 17--25
+Overfull \hbox (2.67564pt too wide) in paragraph at lines 13--21
 []\T1/ntxtlf/m/n/12.045 1968\C70/rm/m/n/12.045/5e t\T1/ntxtlf/m/n/12.045 G.Char
 pack\C70/rm/m/n/12.045/53 — \C70/rm/m/n/12.045/66 ^^N \C70/rm/m/n/12.045/4e Ü \
 C70/rm/m/n/12.045/59 ^^Z \C70/rm/m/n/12.045/4e ^^] \C70/rm/m/n/12.045/6b c ‘ \C
@@ -2498,22 +2473,13 @@ C70/rm/m/n/12.045/59 ^^Z \C70/rm/m/n/12.045/4e ^^] \C70/rm/m/n/12.045/6b c ‘ \C
 -ber)[[]2[]],\C70/rm/m/n/12.045/4f ^^?
  []
 
-Package epstopdf Info: Source file: <example.eps>
-(epstopdf)                    date: 2018-04-30 19:42:12
-(epstopdf)                    size: 308 bytes
-(epstopdf)             Output file: <example-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-30 19:42:41
-(epstopdf)                    size: 2217 bytes
-(epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
-df example.eps>
-(epstopdf)             \includegraphics on input line 33.
-Package epstopdf Info: Output file is already uptodate.
-File: example-eps-converted-to.pdf Graphic file (type pdf)
-<use example-eps-converted-to.pdf>
-Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 33.
-(pdftex.def)             Requested size: 202.757pt x 202.757pt.
+<micromegas.png, id=368, 582.26042pt x 414.65553pt>
+File: micromegas.png Graphic file (type png)
+<use micromegas.png>
+Package pdftex.def Info: micromegas.png  used on input line 29.
+(pdftex.def)             Requested size: 289.07999pt x 205.86568pt.
 
-Overfull \hbox (8.66196pt too wide) in paragraph at lines 26--36
+Overfull \hbox (8.66196pt too wide) in paragraph at lines 22--32
 \C70/rm/m/n/12.045/56 h |\C70/rm/m/n/12.045/ff ^^H|\T1/ntxtlf/m/n/12.045 MPGD, 
 Mi-cro Pat-tern Gaseous De-tec-tor|\C70/rm/m/n/12.045/ff 	| \T1/ntxtlf/m/n/12.0
 45 .\C70/rm/m/n/12.045/51 x \C70/rm/m/n/12.045/57 ã \C70/rm/m/n/12.045/76 Ñ \C7
@@ -2524,7 +2490,7 @@ T1/ntxtlf/m/n/12.045 Micromegas[[]3[]]
  []
 
 
-Overfull \hbox (1.4233pt too wide) in paragraph at lines 26--36
+Overfull \hbox (1.4233pt too wide) in paragraph at lines 22--32
 \C70/rm/m/n/12.045/6f ^^B \C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12.045/53 : \C70/
 rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/57 : \C70/rm/m/n/
 12.045/5f : \C70/rm/m/n/12.045/5e ¶ \C70/rm/m/n/12.045/4e : \C70/rm/m/n/12.045/
@@ -2541,25 +2507,11 @@ rm/m/n/12.045/76 ~ \C70/rm/m/n/12.045/4e *\T1/ntxtlf/m/n/12.045 kV/cm|\C70/rm/m
 [1
 
 
-] [2 <./example-eps-converted-to.pdf>]
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 45.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 45.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 45.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 45.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 45.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 45.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 45.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 45.
- [3]
-Overfull \hbox (4.41049pt too wide) in paragraph at lines 45--49
+]
+Underfull \vbox (badness 1845) has occurred while \output is active []
+
+ [2 <./MWPC.png> <./micromegas.png>]
+Overfull \hbox (4.41049pt too wide) in paragraph at lines 41--45
 \C70/rm/m/n/12.045/53 G \C70/rm/m/n/12.045/7e ß \C70/rm/m/n/12.045/54 ^^N \C70/
 rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/
 12.045/56 h \C70/rm/m/n/12.045/5c ^^F \C70/rm/m/n/12.045/89 Å \C70/rm/m/n/12.04
@@ -2573,7 +2525,7 @@ n/12.045/66 / \C70/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 CMS\C70/rm/m/n/12.04
  []
 
 
-Overfull \hbox (2.70013pt too wide) in paragraph at lines 45--49
+Overfull \hbox (2.70013pt too wide) in paragraph at lines 41--45
 \C70/rm/m/n/12.045/79 Õ \C70/rm/m/n/12.045/54 ^^D \C70/rm/m/n/12.045/68 7 \C70/
 rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/65 ∞ \C70/rm/m/n/12.045/57 ã \C70/rm/m/n/
 12.045/76 Ñ \C70/rm/m/n/12.045/5f Æ \C70/rm/m/n/12.045/7e ” \C70/rm/m/n/12.045/
@@ -2588,23 +2540,23 @@ m/n/12.045/4e - \C70/rm/m/n/12.045/53 ^^E \C70/rm/m/n/12.045/62 Ï\T1/ntxtlf/m/n
 /12.045 Triple-
  []
 
+[3]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.05249pt on input line 59.
+(Font)              scaled to size 14.05249pt on input line 55.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
 e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 59.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 55.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.05249pt on input line 59.
-[4]
-LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 8
-3.
+(Font)              scaled to size 14.05249pt on input line 55.
+LaTeX Font Info:    Try loading font information for TS1+ntxtlf on input line 7
+9.
  (/usr/share/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 83.
-
-Overfull \hbox (12.57391pt too wide) in paragraph at lines 91--94
+(Font)              scaled to size 12.045pt on input line 79.
+ [4]
+Overfull \hbox (12.57391pt too wide) in paragraph at lines 87--90
 \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/5d Â \C70/rm
 /m/n/12.045/4f \ \C70/rm/m/n/12.045/6c ^^T \C70/rm/m/n/12.045/4f S \C70/rm/m/n/
 12.045/79 Õ \C70/rm/m/n/12.045/7c { \C70/rm/m/n/12.045/67 	 \C70/rm/m/n/12.045/
@@ -2621,43 +2573,25 @@ txmi/m/it/12.045 cm\LMS/ntxsy/m/n/12.045 ù\OML/ntxmi/m/it/12.045 s$|\C70/rm/m/n
  []
 
 [5]
-Package epstopdf Info: Source file: <example.eps>
-(epstopdf)                    date: 2018-04-30 19:42:12
-(epstopdf)                    size: 308 bytes
-(epstopdf)             Output file: <example-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-30 19:42:41
-(epstopdf)                    size: 2217 bytes
-(epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
-df example.eps>
-(epstopdf)             \includegraphics on input line 119.
-Package epstopdf Info: Output file is already uptodate.
-File: example-eps-converted-to.pdf Graphic file (type pdf)
-<use example-eps-converted-to.pdf>
-Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 119.
-(pdftex.def)             Requested size: 202.757pt x 202.757pt.
- [6]
-Package epstopdf Info: Source file: <example.eps>
-(epstopdf)                    date: 2018-04-30 19:42:12
-(epstopdf)                    size: 308 bytes
-(epstopdf)             Output file: <example-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-04-30 19:42:41
-(epstopdf)                    size: 2217 bytes
-(epstopdf)             Command: <repstopdf --outfile=example-eps-converted-to.p
-df example.eps>
-(epstopdf)             \includegraphics on input line 141.
-Package epstopdf Info: Output file is already uptodate.
-File: example-eps-converted-to.pdf Graphic file (type pdf)
-<use example-eps-converted-to.pdf>
-Package pdftex.def Info: example-eps-converted-to.pdf  used on input line 141.
-(pdftex.def)             Requested size: 202.757pt x 202.757pt.
-
-Underfull \vbox (badness 1755) has occurred while \output is active []
-
- [7])
-[8]
+<avlanche.png, id=450, 478.9092pt x 440.3652pt>
+File: avlanche.png Graphic file (type png)
+<use avlanche.png>
+Package pdftex.def Info: avlanche.png  used on input line 115.
+(pdftex.def)             Requested size: 289.07999pt x 265.81366pt.
+ [6 <./avlanche.png>]
+<avalanche.png, id=460, 721.6749pt x 514.09085pt>
+File: avalanche.png Graphic file (type png)
+<use avalanche.png>
+Package pdftex.def Info: avalanche.png  used on input line 137.
+(pdftex.def)             Requested size: 289.07999pt x 205.93077pt.
+) [7 <./avalanche.png>]
 \openout2 = `chap/chap2.aux'.
 
- (./chap/chap2.tex
+ (./chap/chap2.tex [8
+
+
+
+]
 Á¨¨‰∫åÁ´†
 
 Overfull \hbox (0.14487pt too wide) in paragraph at lines 5--8
@@ -2670,33 +2604,29 @@ Overfull \hbox (0.14487pt too wide) in paragraph at lines 5--8
 2.045 RWELL(micro Re-sis-tive WELL struc-
  []
 
-<gem_foil.png, id=460, 455.7025pt x 342.27875pt>
+<gem_foil.png, id=476, 455.7025pt x 342.27875pt>
 File: gem_foil.png Graphic file (type png)
 <use gem_foil.png>
 Package pdftex.def Info: gem_foil.png  used on input line 13.
 (pdftex.def)             Requested size: 289.07999pt x 217.13045pt.
-<gem_field.png, id=463, 423.83344pt x 406.51875pt>
+<gem_field.png, id=479, 423.83344pt x 406.51875pt>
 File: gem_field.png Graphic file (type png)
 <use gem_field.png>
 Package pdftex.def Info: gem_field.png  used on input line 18.
 (pdftex.def)             Requested size: 216.81pt x 207.95451pt.
-<gem_new.png, id=466, 905.784pt x 519.8622pt>
+<gem_new.png, id=482, 905.784pt x 519.8622pt>
 File: gem_new.png Graphic file (type png)
 <use gem_new.png>
 Package pdftex.def Info: gem_new.png  used on input line 26.
 (pdftex.def)             Requested size: 289.07999pt x 165.90715pt.
-[9
-
-
-
-] [10 <./gem_foil.png> <./gem_field.png (PNG copy)>]
-<ftm.png, id=491, 874.467pt x 460.119pt>
+[9] [10 <./gem_foil.png> <./gem_field.png (PNG copy)>]
+<ftm.png, id=506, 874.467pt x 460.119pt>
 File: ftm.png Graphic file (type png)
 <use ftm.png>
 Package pdftex.def Info: ftm.png  used on input line 44.
 (pdftex.def)             Requested size: 289.07999pt x 152.10652pt.
  [11 <./gem_new.png>]
-<beam_test.png, id=501, 569.12625pt x 425.59pt>
+<beam_test.png, id=516, 569.12625pt x 425.59pt>
 File: beam_test.png Graphic file (type png)
 <use beam_test.png>
 Package pdftex.def Info: beam_test.png  used on input line 58.
@@ -2718,7 +2648,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 62.
 
-<mrwell.png, id=502, 878.8032pt x 522.753pt>
+<mrwell.png, id=517, 878.8032pt x 522.753pt>
 File: mrwell.png Graphic file (type png)
 <use mrwell.png>
 Package pdftex.def Info: mrwell.png  used on input line 67.
@@ -2728,12 +2658,12 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 5.0pt on input line 68.
 [12 <./ftm.png>] [13 <./beam_test.png> <./mrwell.png>]
-<well_pcb.png, id=520, 725.71124pt x 542.025pt>
+<well_pcb.png, id=535, 725.71124pt x 542.025pt>
 File: well_pcb.png Graphic file (type png)
 <use well_pcb.png>
 Package pdftex.def Info: well_pcb.png  used on input line 78.
 (pdftex.def)             Requested size: 289.07999pt x 215.91292pt.
-<well.png, id=521, 751.80875pt x 501.875pt>
+<well.png, id=536, 751.80875pt x 501.875pt>
 File: well.png Graphic file (type png)
 <use well.png>
 Package pdftex.def Info: well.png  used on input line 82.
@@ -2763,12 +2693,12 @@ f/m/n/12.045 Heed\C70/rm/m/n/12.045/66 /
  []
 
 [18]
-<simulation_process1.png, id=562, 942.4008pt x 531.4254pt>
+<simulation_process1.png, id=577, 942.4008pt x 531.4254pt>
 File: simulation_process1.png Graphic file (type png)
 <use simulation_process1.png>
 Package pdftex.def Info: simulation_process1.png  used on input line 43.
 (pdftex.def)             Requested size: 289.07999pt x 163.01297pt.
-<gem_ansys.png, id=563, 895.6662pt x 492.8814pt>
+<gem_ansys.png, id=578, 895.6662pt x 492.8814pt>
 File: gem_ansys.png Graphic file (type png)
 <use gem_ansys.png>
 Package pdftex.def Info: gem_ansys.png  used on input line 53.
@@ -2783,24 +2713,24 @@ Package epstopdf Info: Source file: <gem_avalanche.eps>
 d-to.pdf gem_avalanche.eps>
 (epstopdf)             \includegraphics on input line 57.
 Package epstopdf Info: Output file is already uptodate.
-<gem_avalanche-eps-converted-to.pdf, id=564, 495.8525pt x 398.48875pt>
+<gem_avalanche-eps-converted-to.pdf, id=579, 495.8525pt x 398.48875pt>
 File: gem_avalanche-eps-converted-to.pdf Graphic file (type pdf)
 <use gem_avalanche-eps-converted-to.pdf>
 Package pdftex.def Info: gem_avalanche-eps-converted-to.pdf  used on input line
  57.
 (pdftex.def)             Requested size: 289.07999pt x 232.3154pt.
-<fym_ansys.jpg, id=565, 532.99126pt x 401.24907pt>
-File: fym_ansys.jpg Graphic file (type jpg)
-<use fym_ansys.jpg>
-Package pdftex.def Info: fym_ansys.jpg  used on input line 66.
-(pdftex.def)             Requested size: 289.07999pt x 217.6325pt.
-<ftm_avalanche.png, id=566, 510.90875pt x 472.76625pt>
+<ftm_ansys.png, id=580, 615.7404pt x 379.6584pt>
+File: ftm_ansys.png Graphic file (type png)
+<use ftm_ansys.png>
+Package pdftex.def Info: ftm_ansys.png  used on input line 67.
+(pdftex.def)             Requested size: 289.07999pt x 178.24829pt.
+<ftm_avalanche.png, id=581, 510.90875pt x 472.76625pt>
 File: ftm_avalanche.png Graphic file (type png)
 <use ftm_avalanche.png>
-Package pdftex.def Info: ftm_avalanche.png  used on input line 70.
+Package pdftex.def Info: ftm_avalanche.png  used on input line 71.
 (pdftex.def)             Requested size: 289.07999pt x 267.49576pt.
 
-Overfull \hbox (6.3979pt too wide) in paragraph at lines 61--73
+Overfull \hbox (7.57831pt too wide) in paragraph at lines 61--74
 []\T1/ntxtlf/m/n/12.045 FTM\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70
 /rm/m/n/12.045/56 h \C70/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 ANSYS\C70/rm/m
 /n/12.045/4e - \C70/rm/m/n/12.045/67 Ñ \C70/rm/m/n/12.045/5e ˙ \C70/rm/m/n/12.0
@@ -2809,22 +2739,62 @@ Overfull \hbox (6.3979pt too wide) in paragraph at lines 61--73
 m/m/n/12.045/62 @ \C70/rm/m/n/12.045/79 :|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/
 n/12.045/4e Œ \C70/rm/m/n/12.045/5d Ê \C70/rm/m/n/12.045/52 0 \C70/rm/m/n/12.04
 5/53 Û \C70/rm/m/n/12.045/4f ù \C70/rm/m/n/12.045/6b ! \C70/rm/m/n/12.045/4e :\
-T1/ntxtlf/m/n/12.045 20um\C70/rm/m/n/12.045/53 ö \C70/rm/m/n/12.045/76 Ñ\T1/ntx
-tlf/m/n/12.045 Cu\C70/rm/m/n/12.045/6f ^^B
+T1/ntxtlf/m/n/12.045 20$\OML/ntxmi/m/it/12.045 ^^V$\T1/ntxtlf/m/n/12.045 m\C70/
+rm/m/n/12.045/53 ö \C70/rm/m/n/12.045/76 Ñ\T1/ntxtlf/m/n/12.045 Cu\C70/rm/m/n/1
+2.045/6f ^^B
  []
 
 [19 <./simulation_process1.png>] [20 <./gem_ansys.png> <./gem_avalanche-eps-con
-verted-to.pdf>]) [21 <./fym_ansys.jpg>] [22 <./ftm_avalanche.png (PNG copy)>]
+verted-to.pdf>]
+<rwell.png, id=600, 657.657pt x 443.7378pt>
+File: rwell.png Graphic file (type png)
+<use rwell.png>
+Package pdftex.def Info: rwell.png  used on input line 78.
+(pdftex.def)             Requested size: 289.07999pt x 195.05565pt.
+<mrwell_avalanche.png, id=601, 609.27625pt x 419.5675pt>
+File: mrwell_avalanche.png Graphic file (type png)
+<use mrwell_avalanche.png>
+Package pdftex.def Info: mrwell_avalanche.png  used on input line 82.
+(pdftex.def)             Requested size: 289.07999pt x 199.07256pt.
+
+Overfull \hbox (1.78462pt too wide) in paragraph at lines 75--85
+[]$\OML/ntxmi/m/it/12.045 ^^V\LMS/ntxsy/m/n/12.045 ^^@$\T1/ntxtlf/m/n/12.045 RW
+ELL\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70
+/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 ANSYS\C70/rm/m/n/12.045/4e - \C70/rm/m
+/n/12.045/67 Ñ \C70/rm/m/n/12.045/5e ˙ \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.0
+45/6a ! \C70/rm/m/n/12.045/57 ã \C70/rm/m/n/12.045/56 ˛ \C70/rm/m/n/12.045/59 Ç
+ \C70/rm/m/n/12.045/56 ˛\T1/ntxtlf/m/n/12.045 3.6\C70/rm/m/n/12.045/62 @ \C70/r
+m/m/n/12.045/79 :|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/4e Œ \C70/rm/m/
+n/12.045/5d Ê \C70/rm/m/n/12.045/52 0 \C70/rm/m/n/12.045/53 Û \C70/rm/m/n/12.04
+5/4f ù \C70/rm/m/n/12.045/6b ! \C70/rm/m/n/12.045/4e : \C70/rm/m/n/12.045/6f ^^
+B \C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12.045/7e ß|\C70/rm/m/n/12.045/30 ^^A|
+ []
+
+) [21 <./ftm_ansys.png>] [22 <./ftm_avalanche.png (PNG copy)> <./rwell.png>]
+[23 <./mrwell_avalanche.png>]
+\openout2 = `chap/chap4.aux'.
+
+ (./chap/chap4.tex [24
+
+
+
+]
+Á¨¨ÂõõÁ´†
+) [25]
 \openout2 = `chap/conclusion.aux'.
 
+ (./chap/conclusion.tex [26
 
-(./chap/conclusion.tex
+
+
+]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 12.045pt on input line 5.
 Package CJKpunct Info: use punctuation spaces for family 'zhkai' with punctstyl
 e (quanjiao) on input line 5.
 LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 5.
- (/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+
+(/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
@@ -2835,26 +2805,21 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <8> not available
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 8.0pt on input line 5.
-)
-[23
-
-
-
-] [24
+) [27] [28
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.53937pt on input line 105.
+(Font)              scaled to size 10.53937pt on input line 106.
 
-Overfull \hbox (13.66266pt too wide) in paragraph at lines 105--105
+Overfull \hbox (13.66266pt too wide) in paragraph at lines 106--106
 []\T1/ntxtlf/m/n/10.53937 R. De Oliveira. ``\T1/ntxtlf/m/it/10.53937 A novel fa
 st tim-ing mi-cropat-tern gaseous de-tec-tor:FTM\T1/ntxtlf/m/n/10.53937 '' [J].
  \T1/ntxtlf/m/it/10.53937 arxiv: 1503.05330v1(2015)\T1/ntxtlf/m/n/10.53937 . 
  []
 
 
-Overfull \hbox (17.93256pt too wide) in paragraph at lines 105--105
+Overfull \hbox (17.93256pt too wide) in paragraph at lines 106--106
 []\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 ANSYS, a fi-nite el-e-ment
  anal-y-sis soft-ware\T1/ntxtlf/m/n/10.53937 ''. \T1/ntxtlf/m/it/10.53937 web-p
 age: https://www.ansys.com/zh-cn/products/electronics\T1/ntxtlf/m/n/10.53937 . 
@@ -2862,7 +2827,7 @@ age: https://www.ansys.com/zh-cn/products/electronics\T1/ntxtlf/m/n/10.53937 .
  []
 
 
-Overfull \hbox (57.09653pt too wide) in paragraph at lines 105--105
+Overfull \hbox (57.09653pt too wide) in paragraph at lines 106--106
 []\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 GARFIELD, a tookit for the
  sim-u-la-tion of par-ti-cle de-tec-tors\T1/ntxtlf/m/n/10.53937 ''. \T1/ntxtlf/
 m/it/10.53937 web-page: https://garfieldpp.web.cern.ch/garfieldpp/\T1/ntxtlf/m/
@@ -2870,7 +2835,7 @@ n/10.53937 .
  []
 
 
-Overfull \hbox (163.30875pt too wide) in paragraph at lines 105--105
+Overfull \hbox (163.30875pt too wide) in paragraph at lines 106--106
 []\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 a tookit to cal-cu-late th
 e mo-tion state of charged par-ti-cles in gas vol-ume\T1/ntxtlf/m/n/10.53937 ''
 . \T1/ntxtlf/m/it/10.53937 web-page: http://cmd.inp.nsk.su/old/cmd2/manuals/cer
@@ -2878,71 +2843,71 @@ nlib/garfield/
  []
 
 
-Overfull \hbox (8.90744pt too wide) in paragraph at lines 105--105
+Overfull \hbox (8.90744pt too wide) in paragraph at lines 106--106
 []\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 a tookit to cal-cu-late th
 e ion-i-sa-tion pro-cess of gas molecules\T1/ntxtlf/m/n/10.53937 ''. \T1/ntxtlf
 /m/it/10.53937 web-page: https://heed.web.cern.ch/heed/\T1/ntxtlf/m/n/10.53937 
 . 
  []
 
-[25] [26]
+[29] [30]
 \openout2 = `chap/encl1.aux'.
 
  (./chap/encl1.tex
 ÈôÑÂΩï A
-) [27
+) [31
 
 
-] [28
+] [32
 
 
 ]
 \openout2 = `chap/acknowledge.aux'.
 
- (./chap/acknowledge.tex) [29
+ (./chap/acknowledge.tex) [33
 
 
 ]
 \openout2 = `chap/originauth.aux'.
 
- (./chap/originauth.tex [30
+ (./chap/originauth.tex [34
 
 
 
-]) [31]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 115.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 115.
+]) [35]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
 
 (./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
-(./chap/chap2.aux) (./chap/chap3.aux) (./chap/conclusion.aux) (./chap/encl1.aux
-) (./chap/acknowledge.aux) (./chap/originauth.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 115.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 115.
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/conclusion.aux
+) (./chap/encl1.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 116.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 43DAA6FD0C9DACCE229E375DFF4B99EE;2771.
+(rerunfilecheck)             Checksum: F75CC22E87DBD739943469366915DA4E;2982.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46391 strings out of 492982
- 841988 string characters out of 6138579
- 1191838 words of memory out of 5000000
- 48577 multiletter control sequences out of 15000+600000
- 740355 words of font info for 506 fonts, out of 8000000 for 9000
+ 46446 strings out of 492982
+ 842604 string characters out of 6138579
+ 1193276 words of memory out of 5000000
+ 48617 multiletter control sequences out of 15000+600000
+ 741975 words of font info for 512 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,12n,102p,10519b,1484s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,12n,102p,10457b,1484s stack positions out of 5000i,500n,10000p,200000b,80000s
 <simsun.ttc><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simk
 ai.ttf><simkai.ttf><simkai.ttf><simkai.ttf><simkai.ttf>{/usr/share/texmf-dist/f
 onts/enc/dvips/newtx/ntx-ec-tlf.enc}<simsun.ttc><simsun.ttc><simsun.ttc><simsun
 .ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><s
 imsun.ttc>{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}<simsun.ttc
-><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsu
-n.ttc>{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}<simsun.ttc>{/usr/shar
-e/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<simsun.ttc><simsun.ttc><sim
-sun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simsun.ttc
+><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc>{/usr/
+share/texmf-dist/fonts/enc/dvips/base/8r.enc}<simsun.ttc>{/usr/share/texmf-dist
+/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<simsun.ttc><simsun.ttc><simsun.ttc><sim
+sun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simsun.ttc><simsun.ttc
 ><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
-n.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><
+n.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><
 simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
 ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf>{/usr/share/texmf-dist/font
 s/enc/dvips/tex-gyre/q-ec.enc}<simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
@@ -2971,10 +2936,10 @@ txexs.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txmia.pfb></usr/sha
 re/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texmf-dist/fonts
 /type1/public/newtx/txsys.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr
 i8a.pfb>
-Output written on thesis.pdf (41 pages, 5234310 bytes).
+Output written on thesis.pdf (45 pages, 7435387 bytes).
 PDF statistics:
- 1207 PDF objects out of 1440 (max. 8388607)
- 877 compressed objects within 9 object streams
- 118 named destinations out of 1000 (max. 500000)
- 593 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1247 PDF objects out of 1440 (max. 8388607)
+ 901 compressed objects within 10 object streams
+ 125 named destinations out of 1000 (max. 500000)
+ 634 words of extra memory for PDF output out of 10000 (max. 10000000)
 
