@@ -520,6 +520,74 @@
       \field{title}{Transport Properties of operational gas mixtures used at LHC}
       \field{userf}{en}
     \endentry
+    \entry{24}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ae05c447c551217ca7b10551452bcdbb}{%
+           family={Conceicao},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae05c447c551217ca7b10551452bcdbb}
+      \strng{fullhash}{ae05c447c551217ca7b10551452bcdbb}
+      \strng{bibnamehash}{ae05c447c551217ca7b10551452bcdbb}
+      \strng{authorbibnamehash}{ae05c447c551217ca7b10551452bcdbb}
+      \strng{authornamehash}{ae05c447c551217ca7b10551452bcdbb}
+      \strng{authorfullhash}{ae05c447c551217ca7b10551452bcdbb}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{6}
+      \field{title}{Ion Back-Flow Suppression in GEM-MIGAS}
+      \field{userf}{en}
+      \field{volume}{57}
+      \field{year}{2010}
+      \field{pages}{3753\bibrangedash 3759}
+      \range{pages}{7}
+    \endentry
+    \entry{25}{article}{}
+      \name{author}{1}{}{%
+        {{hash=30d2fc3ff2d173747d9b3e2853c96545}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={CMS\bibnamedelima GEM},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{30d2fc3ff2d173747d9b3e2853c96545}
+      \strng{fullhash}{30d2fc3ff2d173747d9b3e2853c96545}
+      \strng{bibnamehash}{30d2fc3ff2d173747d9b3e2853c96545}
+      \strng{authorbibnamehash}{30d2fc3ff2d173747d9b3e2853c96545}
+      \strng{authornamehash}{30d2fc3ff2d173747d9b3e2853c96545}
+      \strng{authorfullhash}{30d2fc3ff2d173747d9b3e2853c96545}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CERN-LHCC-2015-012}
+      \field{title}{CMS-TDR-013}
+      \field{userf}{en}
+    \endentry
+    \entry{26}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fb7d70587ac4c56b1f63049f23ea3615}{%
+           family={Perhavec},
+           familyi={P\bibinitperiod},
+           given={Juan\bibnamedelimb Felipe\bibnamedelima Oviedo},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{fb7d70587ac4c56b1f63049f23ea3615}
+      \strng{fullhash}{fb7d70587ac4c56b1f63049f23ea3615}
+      \strng{bibnamehash}{fb7d70587ac4c56b1f63049f23ea3615}
+      \strng{authorbibnamehash}{fb7d70587ac4c56b1f63049f23ea3615}
+      \strng{authornamehash}{fb7d70587ac4c56b1f63049f23ea3615}
+      \strng{authorfullhash}{fb7d70587ac4c56b1f63049f23ea3615}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CERN cds}
+      \field{title}{GEM Simulation and Gas Mixture Characterization}
+      \field{userf}{en}
+    \endentry
   \enddatalist
   \missing{test-en}
   \missing{test-zh}
