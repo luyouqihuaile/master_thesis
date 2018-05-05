@@ -18,26 +18,30 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}FTM探测器简介}{11}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}$\mu -$RWELL探测器简介}{12}{section.2.3}
+\contentsline {section}{\numberline {2.3}$\mu -$RWELL探测器简介}{13}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第三章\hspace {.3em}}探测器模拟研究方法介绍}{17}{chapter.3}
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}探测器模拟研究方法介绍}{15}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}有限元分析方法与软件介绍}{17}{section.3.1}
+\contentsline {section}{\numberline {3.1}有限元分析方法与软件介绍}{15}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}GARFIELD软件介绍}{18}{section.3.2}
+\contentsline {section}{\numberline {3.2}GARFIELD软件介绍}{16}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}三种微结构气体探测器的模型构建}{18}{section.3.3}
+\contentsline {section}{\numberline {3.3}三种微结构气体探测器的模型构建}{16}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}探测器及输出信号}{21}{section.3.4}
+\contentsline {section}{\numberline {3.4}探测器及输出信号}{18}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {第四章\hspace {.3em}}数据分析过程}{25}{chapter.4}
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}数据分析过程}{21}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{结论}{27}{chapter*.24}
+\contentsline {section}{\numberline {4.1}探测器时间分辨研究}{21}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{文献列表}{29}{appendix*.26}
+\contentsline {section}{\numberline {4.2}位置分辨率}{23}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{31}{appendix.A}
+\contentsline {chapter}{结论}{25}{chapter*.24}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{33}{appendix*.27}
+\contentsline {chapter}{文献列表}{27}{appendix*.26}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{35}{appendix*.28}
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{29}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致谢}{31}{appendix*.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{33}{appendix*.28}

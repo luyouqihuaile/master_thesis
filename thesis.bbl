@@ -423,7 +423,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labeltitlesource}{title}
       \field{journaltitle}{webpage: http://cmd.inp.nsk.su/old/cmd2/manuals/cernlib/garfield/ help/garfield full.html}
-      \field{title}{a tookit to calculate the motion state of charged particles in gas volume}
+      \field{title}{Magboltz: a tookit to calculate the motion state of charged particles in gas volume}
       \field{userf}{en}
     \endentry
     \entry{19}{article}{}
@@ -431,7 +431,93 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labeltitlesource}{title}
       \field{journaltitle}{webpage: https://heed.web.cern.ch/heed/}
-      \field{title}{a tookit to calculate the ionisation process of gas molecules}
+      \field{title}{Heed: a tookit to calculate the ionisation process of gas molecules}
+      \field{userf}{en}
+    \endentry
+    \entry{20}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6d9b887c03bca6c610b0973df83266b9}{%
+           family={Karchin},
+           familyi={K\bibinitperiod},
+           given={Paul\bibnamedelima E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d9b887c03bca6c610b0973df83266b9}
+      \strng{fullhash}{6d9b887c03bca6c610b0973df83266b9}
+      \strng{bibnamehash}{6d9b887c03bca6c610b0973df83266b9}
+      \strng{authorbibnamehash}{6d9b887c03bca6c610b0973df83266b9}
+      \strng{authornamehash}{6d9b887c03bca6c610b0973df83266b9}
+      \strng{authorfullhash}{6d9b887c03bca6c610b0973df83266b9}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physics Procedia,2012,37}
+      \field{title}{Performance of a Large-Area Triple-GEM Detector in a Particle Beam}
+      \field{userf}{en}
+    \endentry
+    \entry{21}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0db586cf64d506a0101e54ba4808b201}{%
+           family={Bencivenni},
+           familyi={B\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{0db586cf64d506a0101e54ba4808b201}
+      \strng{fullhash}{0db586cf64d506a0101e54ba4808b201}
+      \strng{bibnamehash}{0db586cf64d506a0101e54ba4808b201}
+      \strng{authorbibnamehash}{0db586cf64d506a0101e54ba4808b201}
+      \strng{authornamehash}{0db586cf64d506a0101e54ba4808b201}
+      \strng{authorfullhash}{0db586cf64d506a0101e54ba4808b201}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nuclear Inst. and Methods in Physics Research, A,2002,488(3)}
+      \field{title}{A triple GEM detector with pad readout for high rate charged particle triggering}
+      \field{userf}{en}
+    \endentry
+    \entry{22}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f6ebc860b80d3dddd17223c06976def8}{%
+           family={D.Abbaneo},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{fullhash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{bibnamehash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{authorbibnamehash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{authornamehash}{f6ebc860b80d3dddd17223c06976def8}
+      \strng{authorfullhash}{f6ebc860b80d3dddd17223c06976def8}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LHC, 10th international conference on position sensitive detectors (7-12, September, 2014)}
+      \field{title}{Quality control and beam test of GEM detectors for future upgrades of the CMS muon high rate region at the LHC}
+      \field{userf}{en}
+    \endentry
+    \entry{23}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8458a24a4c9814ff9172fb7ca1766963}{%
+           family={Assran},
+           familyi={A\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{8458a24a4c9814ff9172fb7ca1766963}
+      \strng{fullhash}{8458a24a4c9814ff9172fb7ca1766963}
+      \strng{bibnamehash}{8458a24a4c9814ff9172fb7ca1766963}
+      \strng{authorbibnamehash}{8458a24a4c9814ff9172fb7ca1766963}
+      \strng{authornamehash}{8458a24a4c9814ff9172fb7ca1766963}
+      \strng{authorfullhash}{8458a24a4c9814ff9172fb7ca1766963}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CERN CH1211 Geneve, Switzerland}
+      \field{title}{Transport Properties of operational gas mixtures used at LHC}
       \field{userf}{en}
     \endentry
   \enddatalist
