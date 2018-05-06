@@ -588,6 +588,128 @@
       \field{title}{GEM Simulation and Gas Mixture Characterization}
       \field{userf}{en}
     \endentry
+    \entry{27}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e742ba4e105e5341464c3528b118ff41}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={CMS},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{fullhash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{bibnamehash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{authorbibnamehash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{authornamehash}{e742ba4e105e5341464c3528b118ff41}
+      \strng{authorfullhash}{e742ba4e105e5341464c3528b118ff41}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{journaltitle}{Journal of Instrumentation 3 (2008) S08004}
+      \field{userf}{en}
+    \endentry
+    \entry{28}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1a217a869b44243e1ff41ea94195282f}{%
+           family={Abbaneo},
+           familyi={A\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a217a869b44243e1ff41ea94195282f}
+      \strng{fullhash}{1a217a869b44243e1ff41ea94195282f}
+      \strng{bibnamehash}{1a217a869b44243e1ff41ea94195282f}
+      \strng{authorbibnamehash}{1a217a869b44243e1ff41ea94195282f}
+      \strng{authornamehash}{1a217a869b44243e1ff41ea94195282f}
+      \strng{authorfullhash}{1a217a869b44243e1ff41ea94195282f}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nuclear Inst & Methods in Physics Research A}
+      \field{number}{6}
+      \field{title}{GEM based detector for future upgrade of the CMS forward muon system}
+      \field{userf}{en}
+      \field{volume}{718}
+      \field{year}{2013}
+      \field{pages}{383\bibrangedash 386}
+      \range{pages}{4}
+    \endentry
+    \entry{29}{article}{}
+      \name{author}{2}{}{%
+        {{hash=a24ebb233d16b603a90fd37cc6a4aa3c}{%
+           family={Fonte},
+           familyi={F\bibinitperiod}}}%
+        {{hash=71c5da4b0d83456b94f6841561eb613b}{%
+           family={Paolo},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{80c92b88d62e28575c232e77480e3852}
+      \strng{fullhash}{80c92b88d62e28575c232e77480e3852}
+      \strng{bibnamehash}{80c92b88d62e28575c232e77480e3852}
+      \strng{authorbibnamehash}{80c92b88d62e28575c232e77480e3852}
+      \strng{authornamehash}{80c92b88d62e28575c232e77480e3852}
+      \strng{authorfullhash}{80c92b88d62e28575c232e77480e3852}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Resistive plate chambers}
+      \field{userf}{en}
+      \field{year}{2003}
+    \endentry
+    \entry{30}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4f1513192b6f127392f85c5a317f75b4}{%
+           family={Albritton},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f1513192b6f127392f85c5a317f75b4}
+      \strng{fullhash}{4f1513192b6f127392f85c5a317f75b4}
+      \strng{bibnamehash}{4f1513192b6f127392f85c5a317f75b4}
+      \strng{authorbibnamehash}{4f1513192b6f127392f85c5a317f75b4}
+      \strng{authornamehash}{4f1513192b6f127392f85c5a317f75b4}
+      \strng{authorfullhash}{4f1513192b6f127392f85c5a317f75b4}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Chemical Physics}
+      \field{number}{2}
+      \field{title}{Effects of ion speed distributions in flow‐drift tube studies of ion–neutral reactions}
+      \field{userf}{en}
+      \field{volume}{66}
+      \field{year}{1977}
+      \field{pages}{410\bibrangedash 421}
+      \range{pages}{12}
+    \endentry
+    \entry{31}{article}{}
+      \name{author}{1}{}{%
+        {{hash=06131abd5bc2827584dfb8cdcb3179cb}{%
+           family={Collaboration},
+           familyi={C\bibinitperiod},
+           given={Cms},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{06131abd5bc2827584dfb8cdcb3179cb}
+      \strng{fullhash}{06131abd5bc2827584dfb8cdcb3179cb}
+      \strng{bibnamehash}{06131abd5bc2827584dfb8cdcb3179cb}
+      \strng{authorbibnamehash}{06131abd5bc2827584dfb8cdcb3179cb}
+      \strng{authornamehash}{06131abd5bc2827584dfb8cdcb3179cb}
+      \strng{authorfullhash}{06131abd5bc2827584dfb8cdcb3179cb}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Instrumentation}
+      \field{number}{03}
+      \field{title}{Performance of the CMS Cathode Strip Chambers with Cosmic Rays}
+      \field{userf}{en}
+      \field{volume}{5}
+      \field{year}{2010}
+      \field{pages}{T03018}
+      \range{pages}{-1}
+    \endentry
   \enddatalist
   \missing{test-en}
   \missing{test-zh}

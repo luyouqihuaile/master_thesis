@@ -38,14 +38,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {4.3}三种探测器的性能对比研究}{29}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{结论}{31}{chapter*.29}
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}CMS-GEM探测器升级项目}{31}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{文献列表}{33}{appendix*.31}
+\contentsline {section}{\numberline {5.1}探测器升级物理背景}{31}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{35}{appendix.A}
+\contentsline {section}{\numberline {5.2}内圈Muon探测器升级技术选择}{31}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{在校期间的研究成果}{37}{appendix*.32}
+\contentsline {section}{\numberline {5.3}GEM探测器批量生产流程和质量控制}{32}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{39}{appendix*.33}
+\contentsline {subsection}{\numberline {5.3.1}QC2:GEM膜检测}{32}{subsection.5.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{41}{appendix*.34}
+\contentsline {chapter}{结论}{33}{chapter*.30}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{文献列表}{35}{appendix*.32}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{37}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{在校期间的研究成果}{39}{appendix*.33}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{致谢}{41}{appendix*.34}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{43}{appendix*.35}

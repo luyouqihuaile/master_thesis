@@ -1,18 +1,18 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
-[0] Config.pm:305> INFO - Logfile is 'thesis.blg'
-[26] biber:313> INFO - === Sat May  5, 2018, 22:44:31
-[47] Biber.pm:371> INFO - Reading 'thesis.bcf'
-[106] Biber.pm:857> INFO - Found 28 citekeys in bib section 0
-[119] Biber.pm:3976> INFO - Processing section 0
-[129] Biber.pm:4136> INFO - Looking for bibtex format file 'thesis.bib' for section 0
-[130] bibtex.pm:1500> INFO - LaTeX decoding ...
-[151] bibtex.pm:1316> INFO - Found BibTeX data source 'thesis.bib'
-[234] Utils.pm:193> WARN - I didn't find a database entry for 'test-en' (section 0)
-[234] Utils.pm:193> WARN - I didn't find a database entry for 'test-zh' (section 0)
-[253] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[254] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[254] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[254] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[267] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[278] bbl.pm:720> INFO - Output to thesis.bbl
-[278] Biber.pm:110> INFO - WARNINGS: 2
+[1] Config.pm:305> INFO - Logfile is 'thesis.blg'
+[28] biber:313> INFO - === Sun May  6, 2018, 20:38:11
+[49] Biber.pm:371> INFO - Reading 'thesis.bcf'
+[108] Biber.pm:857> INFO - Found 33 citekeys in bib section 0
+[122] Biber.pm:3976> INFO - Processing section 0
+[132] Biber.pm:4136> INFO - Looking for bibtex format file 'thesis.bib' for section 0
+[134] bibtex.pm:1500> INFO - LaTeX decoding ...
+[162] bibtex.pm:1316> INFO - Found BibTeX data source 'thesis.bib'
+[274] Utils.pm:193> WARN - I didn't find a database entry for 'test-en' (section 0)
+[274] Utils.pm:193> WARN - I didn't find a database entry for 'test-zh' (section 0)
+[298] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[298] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[298] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[298] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[315] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[324] bbl.pm:720> INFO - Output to thesis.bbl
+[324] Biber.pm:110> INFO - WARNINGS: 2

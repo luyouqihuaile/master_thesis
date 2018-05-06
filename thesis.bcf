@@ -1966,14 +1966,15 @@
     <bcf:citekey order="27">24</bcf:citekey>
     <bcf:citekey order="28">25</bcf:citekey>
     <bcf:citekey order="29">26</bcf:citekey>
-    <bcf:citekey order="30">test-en</bcf:citekey>
-    <bcf:citekey order="31">test-zh</bcf:citekey>
-    <bcf:citekey order="32">test-en</bcf:citekey>
-    <bcf:citekey order="32">test-zh</bcf:citekey>
-    <bcf:citekey order="33">test-en</bcf:citekey>
-    <bcf:citekey order="34">test-zh</bcf:citekey>
+    <bcf:citekey order="30">27</bcf:citekey>
+    <bcf:citekey order="31">28</bcf:citekey>
+    <bcf:citekey order="32">29</bcf:citekey>
+    <bcf:citekey order="33">30</bcf:citekey>
+    <bcf:citekey order="34">31</bcf:citekey>
     <bcf:citekey order="35">test-en</bcf:citekey>
-    <bcf:citekey order="35">test-zh</bcf:citekey>
+    <bcf:citekey order="36">test-zh</bcf:citekey>
+    <bcf:citekey order="37">test-en</bcf:citekey>
+    <bcf:citekey order="37">test-zh</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
