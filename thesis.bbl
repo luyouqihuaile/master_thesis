@@ -474,7 +474,7 @@
       \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Nuclear Inst. and Methods in Physics Research, A,2002,488(3)}
+      \field{journaltitle}{Nuclear Inst and Methods in Physics Research, A,2002,488(3)}
       \field{title}{A triple GEM detector with pad readout for high rate charged particle triggering}
       \field{userf}{en}
     \endentry
@@ -626,7 +626,7 @@
       \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Nuclear Inst & Methods in Physics Research A}
+      \field{journaltitle}{Nuclear Inst and Methods in Physics Research A}
       \field{number}{6}
       \field{title}{GEM based detector for future upgrade of the CMS forward muon system}
       \field{userf}{en}
