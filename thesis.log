@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  7 MAY 2018 22:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  8 MAY 2018 21:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2012,14 +2012,14 @@ File: biblatex-caspervector-utf8.def 2017/03/01 v0.2.7 Chinese punctuations and
 ) (/usr/share/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
-LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 68
+LaTeX Font Info:    Try loading font information for T1+ntxtlf on input line 69
 .
 
 (/usr/share/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 File: t1ntxtlf.fd 2015/01/17 v1.0 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 68.
+(Font)              scaled to size 12.045pt on input line 69.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -2032,7 +2032,7 @@ File: english.lbx 2017/12/19 v3.10 biblatex localization (PK/JW/AB)
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                'date=iso' requires 'seconds=true'.
-(biblatex)                Setting 'seconds=true' on input line 68.
+(biblatex)                Setting 'seconds=true' on input line 69.
 
 (/usr/share/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
 File: UTF8.bdg 2015/04/18 4.8.4
@@ -2043,188 +2043,125 @@ File: UTF8.enc 2015/04/18 4.8.4
 (/usr/share/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
 ) (./thesis.aux
-(./chap/copyright.aux) (./chap/abstract.aux) (./chap/abstract.aux)
-(./chap/chap1.aux) (./chap/chap2.aux
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-) (./chap/chap3.aux
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-) (./chap/chap4.aux
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-) (./chap/chap5.aux
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:a' multiply defined.
-
-
-LaTeX Warning: Label `fig:side:b' multiply defined.
-
-) (./chap/conclusion.aux) (./chap/encl1.aux) (./chap/achivement.aux)
+(./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux)
+(./chap/conclusion.aux) (./chap/encl1.aux) (./chap/achivement.aux)
 (./chap/acknowledge.aux) (./chap/originauth.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 68.
-LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 68
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 69.
+LaTeX Font Info:    Try loading font information for OML+ntxmi on input line 69
 .
 
 (/usr/share/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 68.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 68.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 69.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 69.
 
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 68.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 68
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 69.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 69
 .
 
 (/usr/share/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 69.
 LaTeX Font Info:    Try loading font information for LMX+ntxexx on input line 6
-8.
+9.
 
 (/usr/share/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 68.
+LaTeX Info: Redefining \selectfont on input line 69.
 
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -2297,7 +2234,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box64
-Package hyperref Info: Link coloring OFF on input line 68.
+Package hyperref Info: Link coloring OFF on input line 69.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -2307,9 +2244,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count441
 )
-LaTeX Info: Redefining \ref on input line 68.
-LaTeX Info: Redefining \pageref on input line 68.
-LaTeX Info: Redefining \nameref on input line 68.
+LaTeX Info: Redefining \ref on input line 69.
+LaTeX Info: Redefining \pageref on input line 69.
+LaTeX Info: Redefining \nameref on input line 69.
  (./thesis.out) (./thesis.out)
 \@outlinefile=\write6
 \openout6 = `thesis.out'.
@@ -2348,76 +2285,76 @@ bibliography labels cannot be generated, please correct the citation.
 Package biblatex Warning: citation 'test-zh' was not found at all in the .bbl, 
 bibliography labels cannot be generated, please correct the citation.
 
-Package biblatex Info: Reference section=0 on input line 68.
-Package biblatex Info: Reference segment=0 on input line 68.
+Package biblatex Info: Reference section=0 on input line 69.
+Package biblatex Info: Reference segment=0 on input line 69.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 26.09749pt on input line 76.
-<pkulogo.pdf, id=161, 401.5pt x 401.5pt>
+(Font)              scaled to size 26.09749pt on input line 77.
+<pkulogo.pdf, id=155, 401.5pt x 401.5pt>
 File: pkulogo.pdf Graphic file (type pdf)
 <use pkulogo.pdf>
-Package pdftex.def Info: pkulogo.pdf  used on input line 76.
+Package pdftex.def Info: pkulogo.pdf  used on input line 77.
 (pdftex.def)             Requested size: 62.63007pt x 62.6338pt.
-<pkuword.pdf, id=162, 526.96875pt x 150.5625pt>
+<pkuword.pdf, id=156, 526.96875pt x 150.5625pt>
 File: pkuword.pdf Graphic file (type pdf)
 <use pkuword.pdf>
-Package pdftex.def Info: pkuword.pdf  used on input line 76.
+Package pdftex.def Info: pkuword.pdf  used on input line 77.
 (pdftex.def)             Requested size: 146.14308pt x 41.75613pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <26.09749> not availabl
 e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 76.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 26.09749pt on input line 76.
-LaTeX Font Info:    Try loading font information for C70+rm on input line 76.
+(Font)              scaled to size 26.09749pt on input line 77.
+LaTeX Font Info:    Try loading font information for C70+rm on input line 77.
 (/usr/share/texmf-dist/tex/latex/ctex/fd/c70rm.fd
 File: c70rm.fd 2018/01/28 v2.4.12 Chinese font definition (CTEX)
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 22.08249pt on input line 76.
+(Font)              scaled to size 22.08249pt on input line 77.
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
-quanjiao) on input line 76.
+quanjiao) on input line 77.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <22.08249> not availabl
 e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 76.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 22.08249pt on input line 76.
+(Font)              scaled to size 22.08249pt on input line 77.
 \pkuthss@tmp@linecount=\count442
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 16.06pt on input line 76.
+(Font)              scaled to size 16.06pt on input line 77.
 LaTeX Font Info:    Try loading font information for OT1+ntxtlf on input line 7
-6.
+7.
 
 (/usr/share/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 16.06pt on input line 76.
+(Font)              scaled to size 16.06pt on input line 77.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.05249pt on input line 76.
+(Font)              scaled to size 14.05249pt on input line 77.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 76.
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 76.
+(Font)              scaled to size 10.53937pt on input line 77.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 77.
 
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2016/01/31 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 76.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 77.
 
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 76.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 77.
 
 
 (/usr/share/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <16.06> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 76.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 77.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 16.06pt on input line 76.
-LaTeX Font Info:    Try loading font information for C70+zhfs on input line 76.
+(Font)              scaled to size 16.06pt on input line 77.
+LaTeX Font Info:    Try loading font information for C70+zhfs on input line 77.
 
 
 (/usr/share/texmf-dist/tex/latex/zhmetrics/c70zhfs.fd
@@ -2430,7 +2367,7 @@ File: c70zhfs.fd 2009/09/23 4.8.2
 \pkuthss@tmp@linecount=\count447
 \pkuthss@tmp@linecount=\count448
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 18.06749pt on input line 76.
+(Font)              scaled to size 18.06749pt on input line 77.
 
 (/usr/share/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2018/01/28 v2.4.12 Windows font map loader for pdfTeX 
@@ -2475,9 +2412,9 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.0pt on input line 8.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12.045> not available
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 14.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 18.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.045pt on input line 14.
+(Font)              scaled to size 12.045pt on input line 18.
  [1
 
 
@@ -2486,18 +2423,18 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 [2
 
 ]
-LaTeX Font Info:    Try loading font information for T1+qhv on input line 16.
+LaTeX Font Info:    Try loading font information for T1+qhv on input line 20.
  (/usr/share/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <18.06749> not available
-(Font)              Font shape `T1/qhv/b/n' tried instead on input line 16.
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 20.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 16.26062pt on input line 16.
+(Font)              scaled to size 16.26062pt on input line 20.
 LaTeX Font Info:    Font shape `T1/qhv/bx/n' in size <12.045> not available
-(Font)              Font shape `T1/qhv/b/n' tried instead on input line 16.
+(Font)              Font shape `T1/qhv/b/n' tried instead on input line 20.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 10.84042pt on input line 16.
+(Font)              scaled to size 10.84042pt on input line 20.
 ) [3
 
 ] [4
@@ -2511,35 +2448,9 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 \openout7 = `thesis.toc'.
 
  [6]
-\openout2 = `chap/abstract.aux'.
-
- (./chap/abstract.texpdfTeX warning (ext4): destination with the same identifie
-r (name{cabstract.0}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.4 \begin{cabstract}
-                      [1
-
-
-
-
-] [2
-
-]pdfTeX warning (ext4): destination with the same identifier (name{eabstract.0}
-) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.16 \begin{eabstract}
-                      ) [3
-
-]
 \openout2 = `chap/chap1.aux'.
 
- (./chap/chap1.tex [4
-
-
-
-]
+ (./chap/chap1.tex
 Á¨¨‰∏ÄÁ´†
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 15.05624pt on input line 9.
@@ -2548,7 +2459,7 @@ e
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 9.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 15.05624pt on input line 9.
-<MWPC.png, id=462, 721.6749pt x 444.38362pt>
+<MWPC.png, id=437, 721.6749pt x 444.38362pt>
 File: MWPC.png Graphic file (type png)
 <use MWPC.png>
 Package pdftex.def Info: MWPC.png  used on input line 18.
@@ -2562,7 +2473,7 @@ C70/rm/m/n/12.045/59 ^^Z \C70/rm/m/n/12.045/4e ^^] \C70/rm/m/n/12.045/6b c ‘ \C
 -ber)[[]2[]],\C70/rm/m/n/12.045/4f ^^?
  []
 
-<micromegas.png, id=466, 582.26042pt x 414.65553pt>
+<micromegas.png, id=441, 582.26042pt x 414.65553pt>
 File: micromegas.png Graphic file (type png)
 <use micromegas.png>
 Package pdftex.def Info: micromegas.png  used on input line 29.
@@ -2593,10 +2504,14 @@ rm/m/n/12.045/76 ~ \C70/rm/m/n/12.045/4e *\T1/ntxtlf/m/n/12.045 kV/cm|\C70/rm/m
 /n/12.045/30 ^^B|
  []
 
-[5]
+[1
+
+
+
+]
 Underfull \vbox (badness 1845) has occurred while \output is active []
 
- [6 <./MWPC.png> <./micromegas.png>]
+ [2 <./MWPC.png> <./micromegas.png>]
 Overfull \hbox (4.41049pt too wide) in paragraph at lines 41--45
 \C70/rm/m/n/12.045/53 G \C70/rm/m/n/12.045/7e ß \C70/rm/m/n/12.045/54 ^^N \C70/
 rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/
@@ -2626,7 +2541,7 @@ m/n/12.045/4e - \C70/rm/m/n/12.045/53 ^^E \C70/rm/m/n/12.045/62 Ï\T1/ntxtlf/m/n
 /12.045 Triple-
  []
 
-[7]
+[3]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.05249pt on input line 55.
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <14.05249> not availabl
@@ -2641,7 +2556,7 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.045pt on input line 79.
- [8]
+ [4]
 Overfull \hbox (12.57391pt too wide) in paragraph at lines 87--90
 \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/5d Â \C70/rm
 /m/n/12.045/4f \ \C70/rm/m/n/12.045/6c ^^T \C70/rm/m/n/12.045/4f S \C70/rm/m/n/
@@ -2658,22 +2573,22 @@ txmi/m/it/12.045 cm\LMS/ntxsy/m/n/12.045 ù\OML/ntxmi/m/it/12.045 s$|\C70/rm/m/n
 /12.045/30 ^^B|
  []
 
-[9]
-<avlanche.png, id=537, 478.9092pt x 440.3652pt>
+[5]
+<avlanche.png, id=521, 478.9092pt x 440.3652pt>
 File: avlanche.png Graphic file (type png)
 <use avlanche.png>
 Package pdftex.def Info: avlanche.png  used on input line 115.
 (pdftex.def)             Requested size: 289.07999pt x 265.81366pt.
- [10 <./avlanche.png>]
-<avalanche.png, id=547, 721.6749pt x 514.09085pt>
+ [6 <./avlanche.png>]
+<avalanche.png, id=537, 721.6749pt x 514.09085pt>
 File: avalanche.png Graphic file (type png)
 <use avalanche.png>
 Package pdftex.def Info: avalanche.png  used on input line 137.
 (pdftex.def)             Requested size: 289.07999pt x 205.93077pt.
-) [11 <./avalanche.png>]
+) [7 <./avalanche.png>]
 \openout2 = `chap/chap2.aux'.
 
- (./chap/chap2.tex [12
+ (./chap/chap2.tex [8
 
 
 
@@ -2690,7 +2605,7 @@ Overfull \hbox (0.14487pt too wide) in paragraph at lines 5--8
 2.045 RWELL(micro Re-sis-tive WELL struc-
  []
 
-<gem_foil.png, id=563, 455.7025pt x 342.27875pt>
+<gem_foil.png, id=555, 455.7025pt x 342.27875pt>
 File: gem_foil.png Graphic file (type png)
 <use gem_foil.png>
 Package pdftex.def Info: gem_foil.png  used on input line 15.
@@ -2700,7 +2615,7 @@ Overfull \hbox (13.7146pt too wide) in paragraph at lines 15--16
  [][] 
  []
 
-<gem_field.png, id=566, 423.83344pt x 406.51875pt>
+<gem_field.png, id=558, 423.83344pt x 406.51875pt>
 File: gem_field.png Graphic file (type png)
 <use gem_field.png>
 Package pdftex.def Info: gem_field.png  used on input line 22.
@@ -2715,20 +2630,19 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 13--26
 [][]  [] 
  []
 
-<gem_new.png, id=569, 905.784pt x 519.8622pt>
+<gem_new.png, id=561, 905.784pt x 519.8622pt>
 File: gem_new.png Graphic file (type png)
 <use gem_new.png>
 Package pdftex.def Info: gem_new.png  used on input line 32.
 (pdftex.def)             Requested size: 289.07999pt x 165.90715pt.
-[13] [14 <./gem_foil.png> <./gem_field.png (PNG copy)> <./gem_new.png>]
-<ftm.png, id=593, 874.467pt x 460.119pt>
+[9] [10 <./gem_foil.png> <./gem_field.png (PNG copy)> <./gem_new.png>]
+<ftm.png, id=586, 874.467pt x 460.119pt>
 File: ftm.png Graphic file (type png)
 <use ftm.png>
 Package pdftex.def Info: ftm.png  used on input line 50.
 (pdftex.def)             Requested size: 289.07999pt x 152.10652pt.
-
-[15 <./ftm.png>]
-<beam_test.png, id=604, 569.12625pt x 425.59pt>
+ [11 <./ftm.png>]
+<beam_test.png, id=596, 569.12625pt x 425.59pt>
 File: beam_test.png Graphic file (type png)
 <use beam_test.png>
 Package pdftex.def Info: beam_test.png  used on input line 64.
@@ -2750,7 +2664,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 68.
 
-<mrwell.png, id=605, 878.8032pt x 522.753pt>
+<mrwell.png, id=599, 878.8032pt x 522.753pt>
 File: mrwell.png Graphic file (type png)
 <use mrwell.png>
 Package pdftex.def Info: mrwell.png  used on input line 73.
@@ -2762,8 +2676,8 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16 <./beam_test.png>]
-<well_pcb.png, id=615, 725.71124pt x 542.025pt>
+ [12 <./beam_test.png>]
+<well_pcb.png, id=609, 725.71124pt x 542.025pt>
 File: well_pcb.png Graphic file (type png)
 <use well_pcb.png>
 Package pdftex.def Info: well_pcb.png  used on input line 86.
@@ -2773,7 +2687,7 @@ Overfull \hbox (13.7146pt too wide) in paragraph at lines 86--87
  [][] 
  []
 
-<well.png, id=616, 751.80875pt x 501.875pt>
+<well.png, id=610, 751.80875pt x 501.875pt>
 File: well.png Graphic file (type png)
 <use well.png>
 Package pdftex.def Info: well.png  used on input line 93.
@@ -2788,12 +2702,12 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 84--97
 [][]  [] 
  []
 
-) [17 <./mrwell.png>] [18 <./well_pcb.png> <./well.png>]
+) [13 <./mrwell.png>] [14 <./well_pcb.png> <./well.png>]
 \openout2 = `chap/chap3.aux'.
 
  (./chap/chap3.tex
 Á¨¨‰∏âÁ´†
-[19
+[15
 
 
 
@@ -2806,18 +2720,18 @@ Overfull \hbox (0.98958pt too wide) in paragraph at lines 26--29
 8 û \C70/rm/m/n/12.045/72 y \C70/rm/m/n/12.045/60 ' \C70/rm/m/n/12.045/7b I|\C7
 0/rm/m/n/12.045/30 ^^B| \C70/rm/m/n/12.045/6b d \C70/rm/m/n/12.045/59 ^^V\T1/nt
 xtlf/m/n/12.045 GARFIELD\C70/rm/m/n/12.045/8f ÿ \C70/rm/m/n/12.045/7e Ÿ\T1/ntxt
-lf/m/n/12.045 Heed[[]19[]]\C70/rm/m/n/12.045/63 – \C70/rm/m/n/12.045/4f õ \C70/
+lf/m/n/12.045 Heed[[]26[]]\C70/rm/m/n/12.045/63 – \C70/rm/m/n/12.045/4f õ \C70/
 rm/m/n/12.045/63 • \C70/rm/m/n/12.045/53 „|\C70/rm/m/n/12.045/ff ^^L| \T1/ntxtl
 f/m/n/12.045 Heed\C70/rm/m/n/12.045/66 /
  []
 
-[20]
-<simulation_process1.png, id=652, 942.4008pt x 531.4254pt>
+[16]
+<simulation_process1.png, id=647, 942.4008pt x 531.4254pt>
 File: simulation_process1.png Graphic file (type png)
 <use simulation_process1.png>
 Package pdftex.def Info: simulation_process1.png  used on input line 43.
 (pdftex.def)             Requested size: 289.07999pt x 163.01297pt.
-<gem_ansys.png, id=653, 895.6662pt x 492.8814pt>
+<gem_ansys.png, id=648, 895.6662pt x 492.8814pt>
 File: gem_ansys.png Graphic file (type png)
 <use gem_ansys.png>
 Package pdftex.def Info: gem_ansys.png  used on input line 55.
@@ -2837,7 +2751,7 @@ Package epstopdf Info: Source file: <gem_avalanche.eps>
 d-to.pdf gem_avalanche.eps>
 (epstopdf)             \includegraphics on input line 62.
 Package epstopdf Info: Output file is already uptodate.
-<gem_avalanche-eps-converted-to.pdf, id=654, 495.8525pt x 398.48875pt>
+<gem_avalanche-eps-converted-to.pdf, id=649, 495.8525pt x 398.48875pt>
 File: gem_avalanche-eps-converted-to.pdf Graphic file (type pdf)
 <use gem_avalanche-eps-converted-to.pdf>
 Package pdftex.def Info: gem_avalanche-eps-converted-to.pdf  used on input line
@@ -2853,7 +2767,7 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 53--66
 [][]  [] 
  []
 
-<ftm_ansys.png, id=655, 615.7404pt x 379.6584pt>
+<ftm_ansys.png, id=650, 615.7404pt x 379.6584pt>
 File: ftm_ansys.png Graphic file (type png)
 <use ftm_ansys.png>
 Package pdftex.def Info: ftm_ansys.png  used on input line 76.
@@ -2863,7 +2777,7 @@ Overfull \hbox (13.7146pt too wide) in paragraph at lines 76--77
  [][] 
  []
 
-<ftm_avalanche.png, id=656, 510.90875pt x 472.76625pt>
+<ftm_avalanche.png, id=651, 510.90875pt x 472.76625pt>
 File: ftm_avalanche.png Graphic file (type png)
 <use ftm_avalanche.png>
 Package pdftex.def Info: ftm_avalanche.png  used on input line 83.
@@ -2901,8 +2815,8 @@ rm/m/n/12.045/53 ö \C70/rm/m/n/12.045/76 Ñ\T1/ntxtlf/m/n/12.045 Cu\C70/rm/m/n/1
 2.045/6f ^^B
  []
 
-[21 <./simulation_process1.png>]
-<rwell.png, id=664, 657.657pt x 443.7378pt>
+[17 <./simulation_process1.png>]
+<rwell.png, id=658, 657.657pt x 443.7378pt>
 File: rwell.png Graphic file (type png)
 <use rwell.png>
 Package pdftex.def Info: rwell.png  used on input line 94.
@@ -2912,7 +2826,7 @@ Overfull \hbox (13.7146pt too wide) in paragraph at lines 94--95
  [][] 
  []
 
-<mrwell_avalanche.png, id=665, 609.27625pt x 419.5675pt>
+<mrwell_avalanche.png, id=659, 609.27625pt x 419.5675pt>
 File: mrwell_avalanche.png Graphic file (type png)
 <use mrwell_avalanche.png>
 Package pdftex.def Info: mrwell_avalanche.png  used on input line 101.
@@ -2949,7 +2863,7 @@ n/12.045/5d Ê \C70/rm/m/n/12.045/52 0 \C70/rm/m/n/12.045/53 Û \C70/rm/m/n/12.04
 B \C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12.045/7e ß|\C70/rm/m/n/12.045/30 ^^A|
  []
 
-[22 <./gem_ansys.png> <./gem_avalanche-eps-converted-to.pdf>] [23 <./ftm_ansys.
+[18 <./gem_ansys.png> <./gem_avalanche-eps-converted-to.pdf>] [19 <./ftm_ansys.
 png> <./ftm_avalanche.png (PNG copy)> <./rwell.png> <./mrwell_avalanche.png>]
 Package epstopdf Info: Source file: <signal_example.eps>
 (epstopdf)                    date: 2018-04-30 19:42:12
@@ -2961,7 +2875,7 @@ Package epstopdf Info: Source file: <signal_example.eps>
 ed-to.pdf signal_example.eps>
 (epstopdf)             \includegraphics on input line 122.
 Package epstopdf Info: Output file is already uptodate.
-<signal_example-eps-converted-to.pdf, id=686, 569.12625pt x 409.53pt>
+<signal_example-eps-converted-to.pdf, id=680, 569.12625pt x 409.53pt>
 File: signal_example-eps-converted-to.pdf Graphic file (type pdf)
 <use signal_example-eps-converted-to.pdf>
 Package pdftex.def Info: signal_example-eps-converted-to.pdf  used on input lin
@@ -2984,7 +2898,7 @@ C70/rm/m/n/12.045/82 Ø
 
 
 Overfull \hbox (4.20569pt too wide) in paragraph at lines 118--125
-\C70/rm/m/n/12.045/72 G\T1/ntxtlf/m/n/12.045 [[]20[]]|\C70/rm/m/n/12.045/30 ^^B
+\C70/rm/m/n/12.045/72 G\T1/ntxtlf/m/n/12.045 [[]27[]]|\C70/rm/m/n/12.045/30 ^^B
 | \C70/rm/m/n/12.045/4e 	 \C70/rm/m/n/12.045/79 Õ \C70/rm/m/n/12.045/63 ¢ \C70/
 rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/67 ^^@ \C70/rm/m/
 n/12.045/7e » \C70/rm/m/n/12.045/61 ^^_ \C70/rm/m/n/12.045/5e î \C70/rm/m/n/12.
@@ -2998,7 +2912,7 @@ e Â \C70/rm/m/n/12.045/77  \C70/rm/m/n/12.045/51 ˙|\C70/rm/m/n/12.045/ff ^^L|
 /m/n/12.045/63 ¢
  []
 
-) [24 <./signal_example-eps-converted-to.pdf>]
+) [20 <./signal_example-eps-converted-to.pdf>]
 \openout2 = `chap/chap4.aux'.
 
  (./chap/chap4.tex
@@ -3030,7 +2944,7 @@ Package epstopdf Info: Source file: <gem_time_resolution_1.eps>
 converted-to.pdf gem_time_resolution_1.eps>
 (epstopdf)             \includegraphics on input line 29.
 Package epstopdf Info: Output file is already uptodate.
-<gem_time_resolution_1-eps-converted-to.pdf, id=705, 569.12625pt x 386.44376pt>
+<gem_time_resolution_1-eps-converted-to.pdf, id=699, 569.12625pt x 386.44376pt>
 
 File: gem_time_resolution_1-eps-converted-to.pdf Graphic file (type pdf)
 <use gem_time_resolution_1-eps-converted-to.pdf>
@@ -3053,7 +2967,7 @@ pdf>
 ps-converted-to.pdf mrwell_time_resolution_1.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
-<mrwell_time_resolution_1-eps-converted-to.pdf, id=706, 569.12625pt x 386.44376
+<mrwell_time_resolution_1-eps-converted-to.pdf, id=700, 569.12625pt x 386.44376
 pt>
 File: mrwell_time_resolution_1-eps-converted-to.pdf Graphic file (type pdf)
 <use mrwell_time_resolution_1-eps-converted-to.pdf>
@@ -3070,7 +2984,7 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 27--40
 [][]  [] 
  []
 
-[25
+[21
 
 
 
@@ -3085,7 +2999,7 @@ Package epstopdf Info: Source file: <ftm_time_resolution.eps>
 nverted-to.pdf ftm_time_resolution.eps>
 (epstopdf)             \includegraphics on input line 56.
 Package epstopdf Info: Output file is already uptodate.
-<ftm_time_resolution-eps-converted-to.pdf, id=715, 569.12625pt x 386.44376pt>
+<ftm_time_resolution-eps-converted-to.pdf, id=709, 569.12625pt x 386.44376pt>
 File: ftm_time_resolution-eps-converted-to.pdf Graphic file (type pdf)
 <use ftm_time_resolution-eps-converted-to.pdf>
 Package pdftex.def Info: ftm_time_resolution-eps-converted-to.pdf  used on inpu
@@ -3107,7 +3021,7 @@ Package epstopdf Info: Source file: <ftm_time_resolution_layer.eps>
 eps-converted-to.pdf ftm_time_resolution_layer.eps>
 (epstopdf)             \includegraphics on input line 63.
 Package epstopdf Info: Output file is already uptodate.
-<ftm_time_resolution_layer-eps-converted-to.pdf, id=716, 569.12625pt x 386.4437
+<ftm_time_resolution_layer-eps-converted-to.pdf, id=710, 569.12625pt x 386.4437
 6pt>
 File: ftm_time_resolution_layer-eps-converted-to.pdf Graphic file (type pdf)
 <use ftm_time_resolution_layer-eps-converted-to.pdf>
@@ -3135,7 +3049,7 @@ df>
 s-converted-to.pdf time_resolution_example.eps>
 (epstopdf)             \includegraphics on input line 69.
 Package epstopdf Info: Output file is already uptodate.
-<time_resolution_example-eps-converted-to.pdf, id=717, 569.12625pt x 386.44376p
+<time_resolution_example-eps-converted-to.pdf, id=711, 569.12625pt x 386.44376p
 t>
 File: time_resolution_example-eps-converted-to.pdf Graphic file (type pdf)
 <use time_resolution_example-eps-converted-to.pdf>
@@ -3145,8 +3059,8 @@ input line 69.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26 <./gem_time_resolution_1-eps-converted-to.pdf> <./mrwell_time_resolution_1
--eps-converted-to.pdf>] [27 <./ftm_time_resolution-eps-converted-to.pdf> <./ftm
+ [22 <./gem_time_resolution_1-eps-converted-to.pdf> <./mrwell_time_resolution_1
+-eps-converted-to.pdf>] [23 <./ftm_time_resolution-eps-converted-to.pdf> <./ftm
 _time_resolution_layer-eps-converted-to.pdf> <./time_resolution_example-eps-con
 verted-to.pdf>]
 Package epstopdf Info: Source file: <gem_spatial_resolution.eps>
@@ -3160,7 +3074,7 @@ f>
 -converted-to.pdf gem_spatial_resolution.eps>
 (epstopdf)             \includegraphics on input line 85.
 Package epstopdf Info: Output file is already uptodate.
-<gem_spatial_resolution-eps-converted-to.pdf, id=763, 569.12625pt x 386.44376pt
+<gem_spatial_resolution-eps-converted-to.pdf, id=757, 569.12625pt x 386.44376pt
 >
 File: gem_spatial_resolution-eps-converted-to.pdf Graphic file (type pdf)
 <use gem_spatial_resolution-eps-converted-to.pdf>
@@ -3183,7 +3097,7 @@ Package epstopdf Info: Source file: <mrwell_spatial_resolution.eps>
 eps-converted-to.pdf mrwell_spatial_resolution.eps>
 (epstopdf)             \includegraphics on input line 92.
 Package epstopdf Info: Output file is already uptodate.
-<mrwell_spatial_resolution-eps-converted-to.pdf, id=764, 569.12625pt x 386.4437
+<mrwell_spatial_resolution-eps-converted-to.pdf, id=758, 569.12625pt x 386.4437
 6pt>
 File: mrwell_spatial_resolution-eps-converted-to.pdf Graphic file (type pdf)
 <use mrwell_spatial_resolution-eps-converted-to.pdf>
@@ -3211,14 +3125,14 @@ f>
 -converted-to.pdf ftm_spatial_resolution.eps>
 (epstopdf)             \includegraphics on input line 98.
 Package epstopdf Info: Output file is already uptodate.
-<ftm_spatial_resolution-eps-converted-to.pdf, id=765, 569.12625pt x 386.44376pt
+<ftm_spatial_resolution-eps-converted-to.pdf, id=759, 569.12625pt x 386.44376pt
 >
 File: ftm_spatial_resolution-eps-converted-to.pdf Graphic file (type pdf)
 <use ftm_spatial_resolution-eps-converted-to.pdf>
 Package pdftex.def Info: ftm_spatial_resolution-eps-converted-to.pdf  used on i
 nput line 98.
 (pdftex.def)             Requested size: 289.07999pt x 196.29945pt.
-[28 <./gem_spatial_resolution-eps-converted-to.pdf> <./mrwell_spatial_resolutio
+[24 <./gem_spatial_resolution-eps-converted-to.pdf> <./mrwell_spatial_resolutio
 n-eps-converted-to.pdf> <./ftm_spatial_resolution-eps-converted-to.pdf>]
 Overfull \hbox (1.70033pt too wide) in paragraph at lines 107--109
 \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/69 Ç \C70/rm/m/n/12.045/73 á|\C70/rm
@@ -3245,7 +3159,7 @@ o.pdf>
 -eps-converted-to.pdf spatial_resolution_example.eps>
 (epstopdf)             \includegraphics on input line 114.
 Package epstopdf Info: Output file is already uptodate.
-<spatial_resolution_example-eps-converted-to.pdf, id=793, 569.12625pt x 386.443
+<spatial_resolution_example-eps-converted-to.pdf, id=787, 569.12625pt x 386.443
 76pt>
 File: spatial_resolution_example-eps-converted-to.pdf Graphic file (type pdf)
 <use spatial_resolution_example-eps-converted-to.pdf>
@@ -3262,7 +3176,7 @@ Package epstopdf Info: Source file: <time_coparison.eps>
 ed-to.pdf time_coparison.eps>
 (epstopdf)             \includegraphics on input line 123.
 Package epstopdf Info: Output file is already uptodate.
-<time_coparison-eps-converted-to.pdf, id=794, 462.72874pt x 346.29375pt>
+<time_coparison-eps-converted-to.pdf, id=788, 462.72874pt x 346.29375pt>
 File: time_coparison-eps-converted-to.pdf Graphic file (type pdf)
 <use time_coparison-eps-converted-to.pdf>
 Package pdftex.def Info: time_coparison-eps-converted-to.pdf  used on input lin
@@ -3283,7 +3197,7 @@ Package epstopdf Info: Source file: <spatial_coparison.eps>
 erted-to.pdf spatial_coparison.eps>
 (epstopdf)             \includegraphics on input line 130.
 Package epstopdf Info: Output file is already uptodate.
-<spatial_coparison-eps-converted-to.pdf, id=795, 462.72874pt x 346.29375pt>
+<spatial_coparison-eps-converted-to.pdf, id=789, 462.72874pt x 346.29375pt>
 File: spatial_coparison-eps-converted-to.pdf Graphic file (type pdf)
 <use spatial_coparison-eps-converted-to.pdf>
 Package pdftex.def Info: spatial_coparison-eps-converted-to.pdf  used on input 
@@ -3299,14 +3213,14 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 121--134
 [][]  [] 
  []
 
-[29 <./spatial_resolution_example-eps-converted-to.pdf>]) [30 <./time_coparison
+[25 <./spatial_resolution_example-eps-converted-to.pdf>]) [26 <./time_coparison
 -eps-converted-to.pdf> <./spatial_coparison-eps-converted-to.pdf>]
 \openout2 = `chap/chap5.aux'.
 
 
 (./chap/chap5.tex
 Á¨¨‰∫îÁ´†
-<dd.png, id=868, 1046.91125pt x 692.5875pt>
+<dd.png, id=862, 1046.91125pt x 692.5875pt>
 File: dd.png Graphic file (type png)
 <use dd.png>
 Package pdftex.def Info: dd.png  used on input line 10.
@@ -3366,28 +3280,14 @@ m/n/12.045/62 y \C70/rm/m/n/12.045/91 œ \C70/rm/m/n/12.045/75 ^^_ \C70/rm/m/n/1
  []
 
 
-Overfull \hbox (7.9999pt too wide) in paragraph at lines 27--29
-\C70/rm/m/n/12.045/4f \ \C70/rm/m/n/12.045/7e ƒ \C70/rm/m/n/12.045/94 à \C70/rm
-/m/n/12.045/5b ˘ \C70/rm/m/n/12.045/4e é\T1/ntxtlf/m/n/12.045 GEM\C70/rm/m/n/12
-.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/76
- Ñ \C70/rm/m/n/12.045/75 ^^_ \C70/rm/m/n/12.045/4e ß \C70/rm/m/n/12.045/67 	 \C
-70/rm/m/n/12.045/77 @ \C70/rm/m/n/12.045/4e ^^@ \C70/rm/m/n/12.045/59 W \C70/rm
-/m/n/12.045/4e % \C70/rm/m/n/12.045/68 < \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12
-.045/8d ( \C70/rm/m/n/12.045/91 œ \C70/rm/m/n/12.045/63 ß \C70/rm/m/n/12.045/52
- 6 \C70/rm/m/n/12.045/6d A \C70/rm/m/n/12.045/7a  |\C70/rm/m/n/12.045/ff ^^H|\
-T1/ntxtlf/m/n/12.045 Quality Con-trol,\C70/rm/m/n/12.045/7b Ä \C70/rm/m/n/12.04
-5/79 \T1/ntxtlf/m/n/12.045 QC|\C70/rm/m/n/12.045/ff 	||^^L|
- []
-
-
 Underfull \vbox (badness 7869) has occurred while \output is active []
 
- [31
+ [27
 
 
 
 ]
-<QC2_1.png, id=883, 359.84438pt x 425.33907pt>
+<QC2_1.png, id=880, 359.84438pt x 425.33907pt>
 File: QC2_1.png Graphic file (type png)
 <use QC2_1.png>
 Package pdftex.def Info: QC2_1.png  used on input line 41.
@@ -3397,7 +3297,7 @@ Overfull \hbox (13.7146pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-<QC2_2.png, id=884, 642.4pt x 479.7925pt>
+<QC2_2.png, id=881, 642.4pt x 479.7925pt>
 File: QC2_2.png Graphic file (type png)
 <use QC2_2.png>
 Package pdftex.def Info: QC2_2.png  used on input line 48.
@@ -3412,7 +3312,7 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 39--52
 [][]  [] 
  []
 
-<qc2_1.png, id=885, 687.56876pt x 471.7625pt>
+<qc2_1.png, id=882, 687.56876pt x 471.7625pt>
 File: qc2_1.png Graphic file (type png)
 <use qc2_1.png>
 Package pdftex.def Info: qc2_1.png  used on input line 58.
@@ -3422,7 +3322,7 @@ Overfull \hbox (13.7146pt too wide) in paragraph at lines 58--59
  [][] 
  []
 
-<qc2_22.png, id=886, 552.0625pt x 367.3725pt>
+<qc2_22.png, id=883, 552.0625pt x 367.3725pt>
 File: qc2_22.png Graphic file (type png)
 <use qc2_22.png>
 Package pdftex.def Info: qc2_22.png  used on input line 65.
@@ -3451,90 +3351,114 @@ n/12.045/95 ^^? \C70/rm/m/n/12.045/65 ˆ \C70/rm/m/n/12.045/95 Ù \C70/rm/m/n/12.
 45 QC2\C70/rm/m/n/12.045/95 ^^?
  []
 
-[32 <./dd.png>] [33 <./QC2_1.png (PNG copy)> <./QC2_2.png> <./qc2_1.png> <./qc2
+[28 <./dd.png>] [29 <./QC2_1.png (PNG copy)> <./QC2_2.png> <./qc2_1.png> <./qc2
 _22.png>]
-<qc2_long.png, id=905, 657.05475pt x 428.802pt>
+<qc2_long.png, id=902, 657.05475pt x 428.802pt>
 File: qc2_long.png Graphic file (type png)
 <use qc2_long.png>
 Package pdftex.def Info: qc2_long.png  used on input line 90.
 (pdftex.def)             Requested size: 361.34999pt x 235.82874pt.
-<qc3_1.png, id=906, 861.2175pt x 340.27126pt>
+<qc3_1.png, id=903, 861.2175pt x 340.27126pt>
 File: qc3_1.png Graphic file (type png)
 <use qc3_1.png>
 Package pdftex.def Info: qc3_1.png  used on input line 99.
 (pdftex.def)             Requested size: 289.07999pt x 114.21613pt.
-<qc3.png, id=907, 893.3375pt x 424.58624pt>
+<qc3.png, id=904, 893.3375pt x 424.58624pt>
 File: qc3.png Graphic file (type png)
 <use qc3.png>
 Package pdftex.def Info: qc3.png  used on input line 103.
 (pdftex.def)             Requested size: 361.34999pt x 171.74269pt.
- [34]
-<qc4_1.png, id=912, 932.48375pt x 269.005pt>
+ [30]
+<qc4_1.png, id=909, 932.48375pt x 269.005pt>
 File: qc4_1.png Graphic file (type png)
 <use qc4_1.png>
 Package pdftex.def Info: qc4_1.png  used on input line 113.
 (pdftex.def)             Requested size: 289.07999pt x 83.39479pt.
-<qc4.png, id=913, 309.5565pt x 266.1945pt>
+<qc4.png, id=910, 309.5565pt x 266.1945pt>
 File: qc4.png Graphic file (type png)
 <use qc4.png>
 Package pdftex.def Info: qc4.png  used on input line 117.
 (pdftex.def)             Requested size: 361.34999pt x 310.7558pt.
- [35 <./qc2_long.png> <./qc3_1.png>]) [36 <./qc3.png> <./qc4_1.png>] [37 <./qc4
-.png>]
+ [31 <./qc2_long.png> <./qc3_1.png>]
+<qc5_1.png, id=921, 656.4525pt x 381.425pt>
+File: qc5_1.png Graphic file (type png)
+<use qc5_1.png>
+Package pdftex.def Info: qc5_1.png  used on input line 124.
+(pdftex.def)             Requested size: 361.34999pt x 209.95898pt.
+<qc5_2.png, id=922, 939.51pt x 382.42876pt>
+File: qc5_2.png Graphic file (type png)
+<use qc5_2.png>
+Package pdftex.def Info: qc5_2.png  used on input line 140.
+(pdftex.def)             Requested size: 361.34999pt x 147.08672pt.
+<qc5_3.png, id=923, 664.4825pt x 363.3575pt>
+File: qc5_3.png Graphic file (type png)
+<use qc5_3.png>
+Package pdftex.def Info: qc5_3.png  used on input line 144.
+(pdftex.def)             Requested size: 361.34999pt x 197.5962pt.
+ [32 <./qc3.png> <./qc4_1.png>] [33 <./qc4.png> <./qc5_1.png>]
+<qc5_4.png, id=943, 814.04124pt x 572.1375pt>
+File: qc5_4.png Graphic file (type png)
+<use qc5_4.png>
+Package pdftex.def Info: qc5_4.png  used on input line 152.
+(pdftex.def)             Requested size: 361.34999pt x 253.96745pt.
+<qc5_5.png, id=944, 377.775pt x 377.118pt>
+File: qc5_5.png Graphic file (type png)
+<use qc5_5.png>
+Package pdftex.def Info: qc5_5.png  used on input line 156.
+(pdftex.def)             Requested size: 289.07999pt x 288.59215pt.
+
+Overfull \hbox (3.94086pt too wide) in paragraph at lines 148--159
+\C70/rm/m/n/12.045/4e * \C70/rm/m/n/12.045/8b ˚ \C70/rm/m/n/12.045/51 ˙ \C70/rm
+/m/n/12.045/4f M \C70/rm/m/n/12.045/7f n \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12
+.045/58 û \C70/rm/m/n/12.045/76   \C70/rm/m/n/12.045/66 / \C70/rm/m/n/12.045/54
+ & \C70/rm/m/n/12.045/4e ^^@ \C70/rm/m/n/12.045/81 Ù \C70/rm/m/n/12.045/66 / \C
+70/rm/m/n/12.045/97 ^ \C70/rm/m/n/12.045/5e 8 \C70/rm/m/n/12.045/5f ≈ \C70/rm/m
+/n/12.045/89 Å \C70/rm/m/n/12.045/76 Ñ|\C70/rm/m/n/12.045/30 ^^B| \C70/rm/m/n/1
+2.045/58 û \C70/rm/m/n/12.045/76   Ñ \C70/rm/m/n/12.045/57 G \C70/rm/m/n/12.045
+/53 ^^@ \C70/rm/m/n/12.045/4e ^^@ \C70/rm/m/n/12.045/81 Ù \C70/rm/m/n/12.045/60
+ ' \C70/rm/m/n/12.045/68 ¿ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/76 Ñ \C70
+/rm/m/n/12.045/6d A \C70/rm/m/n/12.045/7a  \C70/rm/m/n/12.045/56 ˛ \C70/rm/m/n
+/12.045/59 Ç \C70/rm/m/n/12.045/56 ˛\T1/ntxtlf/m/n/12.045 5.16\C70/rm/m/n/12.04
+5/62 @
+ []
+
+
+Underfull \vbox (badness 1460) has occurred while \output is active []
+
+ [34 <./qc5_2.png> <./qc5_3.png>]) [35 <./qc5_4.png>] [36 <./qc5_5.png>]
 \openout2 = `chap/conclusion.aux'.
 
- (./chap/conclusion.tex [38
+
+(./chap/conclusion.tex) [37
 
 
 
-]) [39] [40
+] [38
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.53937pt on input line 108.
+(Font)              scaled to size 10.53937pt on input line 109.
 
-Overfull \hbox (13.66266pt too wide) in paragraph at lines 108--108
+Overfull \hbox (13.66266pt too wide) in paragraph at lines 109--109
 []\T1/ntxtlf/m/n/10.53937 R. De Oliveira. ``\T1/ntxtlf/m/it/10.53937 A novel fa
 st tim-ing mi-cropat-tern gaseous de-tec-tor:FTM\T1/ntxtlf/m/n/10.53937 '' [J].
  \T1/ntxtlf/m/it/10.53937 arxiv: 1503.05330v1(2015)\T1/ntxtlf/m/n/10.53937 . 
  []
 
-
-Overfull \hbox (17.93256pt too wide) in paragraph at lines 108--108
-[]\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 ANSYS, a fi-nite el-e-ment
- anal-y-sis soft-ware\T1/ntxtlf/m/n/10.53937 ''. \T1/ntxtlf/m/it/10.53937 web-p
-age: https://www.ansys.com/zh-cn/products/electronics\T1/ntxtlf/m/n/10.53937 . 
-
- []
-
-
-Overfull \hbox (57.09653pt too wide) in paragraph at lines 108--108
-[]\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 GARFIELD, a tookit for the
- sim-u-la-tion of par-ti-cle de-tec-tors\T1/ntxtlf/m/n/10.53937 ''. \T1/ntxtlf/
-m/it/10.53937 web-page: https://garfieldpp.web.cern.ch/garfieldpp/\T1/ntxtlf/m/
-n/10.53937 . 
- []
-
-
-Overfull \hbox (36.24118pt too wide) in paragraph at lines 108--108
-[]\T1/ntxtlf/m/n/10.53937 ``\T1/ntxtlf/m/it/10.53937 Heed: a tookit to cal-cu-l
-ate the ion-i-sa-tion pro-cess of gas molecules\T1/ntxtlf/m/n/10.53937 ''. \T1/
-ntxtlf/m/it/10.53937 web-page: https://heed.web.cern.ch/heed/\T1/ntxtlf/m/n/10.
-53937 . 
- []
-
-[41]
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <10.53937> not availabl
 e
-(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 108.
+(Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 109.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.53937pt on input line 108.
- [42]
+(Font)              scaled to size 10.53937pt on input line 109.
+[39] [40] [41]
 \openout2 = `chap/encl1.aux'.
 
- (./chap/encl1.tex
+ (./chap/encl1.tex [42
+
+
+]
 ÈôÑÂΩï A
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 12.045pt on input line 5.
@@ -3552,10 +3476,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <8> not available
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 8.0pt on input line 5.
-) [43
-
-
-] [44
+) [43] [44
 
 
 ]
@@ -3581,30 +3502,25 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 120.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 120.
  (./thesis.aux (./chap/copyright.aux)
-(./chap/abstract.aux) (./chap/abstract.aux) (./chap/chap1.aux)
-(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap4.aux) (./chap/chap5.aux)
-(./chap/conclusion.aux) (./chap/encl1.aux) (./chap/achivement.aux)
-(./chap/acknowledge.aux) (./chap/originauth.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+(./chap/abstract.aux) (./chap/chap1.aux) (./chap/chap2.aux) (./chap/chap3.aux)
+(./chap/chap4.aux) (./chap/chap5.aux) (./chap/conclusion.aux) (./chap/encl1.aux
+) (./chap/achivement.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 120.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 120.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 3D0145AAEB9FDF328B69D6EF7F70A175;4903.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: 1CB3AFC752429B85D875F820064A1F84;4755.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47196 strings out of 492982
- 856053 string characters out of 6138579
- 1199888 words of memory out of 5000000
- 49220 multiletter control sequences out of 15000+600000
+ 47300 strings out of 492982
+ 858707 string characters out of 6138579
+ 1203136 words of memory out of 5000000
+ 49311 multiletter control sequences out of 15000+600000
  755619 words of font info for 553 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,12n,102p,10519b,1550s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3618,9 +3534,9 @@ tc><simhei.ttf><simsun.ttc>{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts
 simsun.ttc>{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}<simsun.ttc>{/usr
 /share/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}<simhei.ttf><simsun.ttc
 ><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simhei.ttf><simhe
-i.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><
-simhei.ttf><simhei.ttf>{/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc
-}<simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
+i.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf>{
+/usr/share/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}<simhei.ttf><simhei.ttf
+><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
 n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><
 simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
 ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><si
@@ -3648,10 +3564,10 @@ ist/fonts/type1/public/newtx/txexs.pfb></usr/share/texmf-dist/fonts/type1/publi
 c/txfonts/txmia.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txsya.pfb
 ></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (59 pages, 8778121 bytes).
+Output written on thesis.pdf (59 pages, 9632577 bytes).
 PDF statistics:
- 1603 PDF objects out of 1728 (max. 8388607)
- 1150 compressed objects within 12 object streams
- 181 named destinations out of 1000 (max. 500000)
- 864 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1638 PDF objects out of 1728 (max. 8388607)
+ 1173 compressed objects within 12 object streams
+ 195 named destinations out of 1000 (max. 500000)
+ 873 words of extra memory for PDF output out of 10000 (max. 10000000)
 

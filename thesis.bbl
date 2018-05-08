@@ -243,6 +243,243 @@
       \field{type}{J}
       \field{userf}{en}
     \endentry
+    \entry{Chen1993Physical}{book}{}
+      \name{author}{3}{}{%
+        {{hash=3cacb43fb0ecd756941db1792ecffc49}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Shaojie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6b392edfaea4f990d973c7a70edda225}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Yongxiao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=2f62cc5908b715902676e7e866c16072}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jizhong},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{64654994e723cf5f58ba042cdb45bb70}
+      \strng{fullhash}{64654994e723cf5f58ba042cdb45bb70}
+      \strng{bibnamehash}{64654994e723cf5f58ba042cdb45bb70}
+      \strng{authorbibnamehash}{64654994e723cf5f58ba042cdb45bb70}
+      \strng{authornamehash}{64654994e723cf5f58ba042cdb45bb70}
+      \strng{authorfullhash}{64654994e723cf5f58ba042cdb45bb70}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physical processes in gas ionization detectors}
+      \field{userf}{en}
+      \field{year}{1993}
+    \endentry
+    \entry{Hohlmann2009GEANT4}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ee93390e229837bc8be4c849d8a86677}{%
+           family={Hohlmann},
+           familyi={H\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93724cee64e859e46cabc3030fe5c220}{%
+           family={Ford},
+           familyi={F\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod}}}%
+        {{hash=95eae3df11e40b83265d7ff31b76349c}{%
+           family={Gnanvo},
+           familyi={G\bibinitperiod},
+           given={Kondo},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c492accbb451d10d4d1f2992cdbbfb1f}{%
+           family={Helsby},
+           familyi={H\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod}}}%
+        {{hash=34d3a0c14cf047cd7ac10288a3678ef0}{%
+           family={Pena},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=fc218b32b16e7ebfb3ed9c0e82474c37}{%
+           family={Hoch},
+           familyi={H\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d13cf6ff44186c606c1ff174cf10e693}{%
+           family={Mitra},
+           familyi={M\bibinitperiod},
+           given={Debasis},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e05ef86c3f73fa795377569ae4fb3395}
+      \strng{fullhash}{f1347cb9cdb779a8dadb02688b724448}
+      \strng{bibnamehash}{e05ef86c3f73fa795377569ae4fb3395}
+      \strng{authorbibnamehash}{e05ef86c3f73fa795377569ae4fb3395}
+      \strng{authornamehash}{e05ef86c3f73fa795377569ae4fb3395}
+      \strng{authorfullhash}{f1347cb9cdb779a8dadb02688b724448}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Nuclear Science}
+      \field{number}{3}
+      \field{title}{GEANT4 Simulation of a Cosmic Ray Muon Tomography System With Micro-Pattern Gas Detectors for the Detection of High-${\rm Z}$ Materials}
+      \field{userf}{en}
+      \field{volume}{56}
+      \field{year}{2009}
+      \field{pages}{1356\bibrangedash 1363}
+      \range{pages}{8}
+    \endentry
+    \entry{Bronic1998W}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c3778592c2e2648baf73b50ea343bde9}{%
+           family={Bronic},
+           familyi={B\bibinitperiod},
+           given={I.\bibnamedelimi K.},
+           giveni={I\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{c3778592c2e2648baf73b50ea343bde9}
+      \strng{fullhash}{c3778592c2e2648baf73b50ea343bde9}
+      \strng{bibnamehash}{c3778592c2e2648baf73b50ea343bde9}
+      \strng{authorbibnamehash}{c3778592c2e2648baf73b50ea343bde9}
+      \strng{authornamehash}{c3778592c2e2648baf73b50ea343bde9}
+      \strng{authorfullhash}{c3778592c2e2648baf73b50ea343bde9}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hoshasen Ionizing Radiation}
+      \field{title}{W values and Fano factors for electrons in rare gases and rare gas mixtures}
+      \field{userf}{en}
+      \field{year}{1998}
+    \endentry
+    \entry{Smith1964Electron}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7c53c41e310221b1f751d3ee202ef50a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={V.\bibnamedelimi N.},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=0252f809d6ef77fbd93f4f8adfd73ece}{%
+           family={Fidiam},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi F.},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{91d05f269660e7fa2e1736dfa603387b}
+      \strng{fullhash}{91d05f269660e7fa2e1736dfa603387b}
+      \strng{bibnamehash}{91d05f269660e7fa2e1736dfa603387b}
+      \strng{authorbibnamehash}{91d05f269660e7fa2e1736dfa603387b}
+      \strng{authornamehash}{91d05f269660e7fa2e1736dfa603387b}
+      \strng{authorfullhash}{91d05f269660e7fa2e1736dfa603387b}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Analytical Chemistry}
+      \field{number}{9}
+      \field{title}{Electron Drift-Velocity Detector for Gas Chromatography.}
+      \field{userf}{en}
+      \field{volume}{Vol: 36}
+      \field{year}{1964}
+      \field{pages}{898\bibrangedash 906}
+      \range{pages}{9}
+    \endentry
+    \entry{Dixit2009Simulating}{article}{}
+      \name{author}{2}{}{%
+        {{hash=508173c2d62740e666ef8d73b2411195}{%
+           family={Dixit},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=671997cd90b7f409abf2baf25ba1110a}{%
+           family={Rankin},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ec30847002d327c3f6a5463791af802}
+      \strng{fullhash}{2ec30847002d327c3f6a5463791af802}
+      \strng{bibnamehash}{2ec30847002d327c3f6a5463791af802}
+      \strng{authorbibnamehash}{2ec30847002d327c3f6a5463791af802}
+      \strng{authornamehash}{2ec30847002d327c3f6a5463791af802}
+      \strng{authorfullhash}{2ec30847002d327c3f6a5463791af802}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nuclear Inst and Methods in Physics Research A}
+      \field{number}{2}
+      \field{title}{Simulating the Charge Dispersion Phenomena in Micro Pattern Gas Detectors with a Resistive Anode}
+      \field{userf}{en}
+      \field{volume}{566}
+      \field{year}{2009}
+      \field{pages}{281\bibrangedash 285}
+      \range{pages}{5}
+    \endentry
+    \entry{Cwetanski2000Progress}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=e4bae743e01b8d58dd229fb3b3888990}{%
+           family={Cwetanski},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4bae743e01b8d58dd229fb3b3888990}
+      \strng{fullhash}{e4bae743e01b8d58dd229fb3b3888990}
+      \strng{bibnamehash}{e4bae743e01b8d58dd229fb3b3888990}
+      \strng{authorbibnamehash}{e4bae743e01b8d58dd229fb3b3888990}
+      \strng{authornamehash}{e4bae743e01b8d58dd229fb3b3888990}
+      \strng{authorfullhash}{e4bae743e01b8d58dd229fb3b3888990}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Nuclear Science Symposium Conference Record}
+      \field{title}{Progress in simulations of micropattern gas avalanche detectors}
+      \field{userf}{en}
+      \field{year}{2000}
+      \field{pages}{5/39\bibrangedash 5/43 vol.1}
+      \range{pages}{-1}
+    \endentry
+    \entry{Xu1995Study}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d572aa5dd40aa6b842cebb57068bbbf5}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Changbu},
+           giveni={C\bibinitperiod}}}%
+        {{hash=80b716b5492a697fdbdac37cac3523bb}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Tong},
+           giveni={T\bibinitperiod}}}%
+        {{hash=19e566dff6e2f46b928d81bb682d4098}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zizong},
+           giveni={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{d156805e4fa491bef74a1d2264530175}
+      \strng{fullhash}{d156805e4fa491bef74a1d2264530175}
+      \strng{bibnamehash}{d156805e4fa491bef74a1d2264530175}
+      \strng{authorbibnamehash}{d156805e4fa491bef74a1d2264530175}
+      \strng{authornamehash}{d156805e4fa491bef74a1d2264530175}
+      \strng{authorfullhash}{d156805e4fa491bef74a1d2264530175}
+      \field{sortinit}{1}
+      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{High Inergy Physics and Nuclear Physics}
+      \field{title}{Study of Avalanche of Gas Detector}
+      \field{userf}{en}
+      \field{year}{1995}
+    \endentry
     \entry{10}{article}{}
       \name{author}{1}{}{%
         {{hash=883e03e48d037870e3f3141bee9f2100}{%
@@ -260,8 +497,8 @@
       \strng{authorbibnamehash}{883e03e48d037870e3f3141bee9f2100}
       \strng{authornamehash}{883e03e48d037870e3f3141bee9f2100}
       \strng{authorfullhash}{883e03e48d037870e3f3141bee9f2100}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nucl. Instr. and Meth. A 490 (2002) 177}
@@ -286,8 +523,8 @@
       \strng{authorbibnamehash}{d68c52365a3c14f4e1dda3ccb681e48a}
       \strng{authornamehash}{d68c52365a3c14f4e1dda3ccb681e48a}
       \strng{authorfullhash}{d68c52365a3c14f4e1dda3ccb681e48a}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nucl. Instr. and Meth. A 438 (1999) 376}
@@ -312,8 +549,8 @@
       \strng{authorbibnamehash}{87c484bf59651795fbf20ded91fdcdb3}
       \strng{authornamehash}{87c484bf59651795fbf20ded91fdcdb3}
       \strng{authorfullhash}{87c484bf59651795fbf20ded91fdcdb3}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nucl. Instr. and Meth. A 497 (2003) 305-313}
@@ -338,8 +575,8 @@
       \strng{authorbibnamehash}{8f82e8fe1e8c3504f7be903c17322986}
       \strng{authornamehash}{8f82e8fe1e8c3504f7be903c17322986}
       \strng{authorfullhash}{8f82e8fe1e8c3504f7be903c17322986}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Ecole des Mines de Nantes (1997)}
@@ -369,8 +606,8 @@
       \strng{authorbibnamehash}{a0df743484adb6627b995e970b793c36}
       \strng{authornamehash}{a0df743484adb6627b995e970b793c36}
       \strng{authorfullhash}{a0df743484adb6627b995e970b793c36}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nuclear Inst and Methods in Physics Research A 845 (2017) 313-317}
@@ -394,43 +631,43 @@
       \strng{authorbibnamehash}{f86b8f5a8344ecfcd6070cda6a6913e1}
       \strng{authornamehash}{f86b8f5a8344ecfcd6070cda6a6913e1}
       \strng{authorfullhash}{f86b8f5a8344ecfcd6070cda6a6913e1}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physics 2016}
       \field{title}{First in-beam studies of a Resistive-Plate WELL gaseous multiplier}
       \field{userf}{en}
     \endentry
-    \entry{16}{article}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+    \entry{16}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{webpage: https://www.ansys.com/zh-cn/products/electronics}
+      \field{howpublished}{\url{https://www.ansys.com/zh-cn/products/electronics}}
       \field{title}{ANSYS, a finite element analysis software}
       \field{userf}{en}
     \endentry
-    \entry{17}{article}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{27a2bc5dfb9ed0a0422134d636544b5d}
+    \entry{17}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{webpage: https://garfieldpp.web.cern.ch/garfieldpp/}
+      \field{howpublished}{\url{https://garfieldpp.web.cern.ch/garfieldpp/}}
       \field{title}{GARFIELD, a tookit for the simulation of particle detectors}
       \field{userf}{en}
     \endentry
-    \entry{18}{article}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+    \entry{18}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{webpage: http://cmd.inp.nsk.su/old/cmd2/manuals/cernlib/garfield/ help/garfield full.html}
-      \field{title}{Magboltz: a tookit to calculate the motion state of charged particles in gas volume}
+      \field{howpublished}{\url{http://cmd.inp.nsk.su/old/cmd2/manuals/cernlib/garfield/help/garfield full.html}}
+      \field{title}{Magboltz, a tookit to calculate the motion state of charged particles in gas volume}
       \field{userf}{en}
     \endentry
-    \entry{19}{article}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+    \entry{19}{misc}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{webpage: https://heed.web.cern.ch/heed/}
+      \field{howpublished}{\url{https://heed.web.cern.ch/heed/}}
       \field{title}{Heed: a tookit to calculate the ionisation process of gas molecules}
       \field{userf}{en}
     \endentry
@@ -448,8 +685,8 @@
       \strng{authorbibnamehash}{6d9b887c03bca6c610b0973df83266b9}
       \strng{authornamehash}{6d9b887c03bca6c610b0973df83266b9}
       \strng{authorfullhash}{6d9b887c03bca6c610b0973df83266b9}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Physics Procedia,2012,37}
@@ -470,8 +707,8 @@
       \strng{authorbibnamehash}{0db586cf64d506a0101e54ba4808b201}
       \strng{authornamehash}{0db586cf64d506a0101e54ba4808b201}
       \strng{authorfullhash}{0db586cf64d506a0101e54ba4808b201}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nuclear Inst and Methods in Physics Research, A,2002,488(3)}
@@ -490,8 +727,8 @@
       \strng{authorbibnamehash}{f6ebc860b80d3dddd17223c06976def8}
       \strng{authornamehash}{f6ebc860b80d3dddd17223c06976def8}
       \strng{authorfullhash}{f6ebc860b80d3dddd17223c06976def8}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{LHC, 10th international conference on position sensitive detectors (7-12, September, 2014)}
@@ -512,8 +749,8 @@
       \strng{authorbibnamehash}{8458a24a4c9814ff9172fb7ca1766963}
       \strng{authornamehash}{8458a24a4c9814ff9172fb7ca1766963}
       \strng{authorfullhash}{8458a24a4c9814ff9172fb7ca1766963}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{CERN CH1211 Geneve, Switzerland}
@@ -532,8 +769,8 @@
       \strng{authorbibnamehash}{ae05c447c551217ca7b10551452bcdbb}
       \strng{authornamehash}{ae05c447c551217ca7b10551452bcdbb}
       \strng{authorfullhash}{ae05c447c551217ca7b10551452bcdbb}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{6}
@@ -558,8 +795,8 @@
       \strng{authorbibnamehash}{30d2fc3ff2d173747d9b3e2853c96545}
       \strng{authornamehash}{30d2fc3ff2d173747d9b3e2853c96545}
       \strng{authorfullhash}{30d2fc3ff2d173747d9b3e2853c96545}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{CERN-LHCC-2015-012}
@@ -580,8 +817,8 @@
       \strng{authorbibnamehash}{fb7d70587ac4c56b1f63049f23ea3615}
       \strng{authornamehash}{fb7d70587ac4c56b1f63049f23ea3615}
       \strng{authorfullhash}{fb7d70587ac4c56b1f63049f23ea3615}
-      \field{sortinit}{2}
-      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{CERN cds}
@@ -602,8 +839,8 @@
       \strng{authorbibnamehash}{e742ba4e105e5341464c3528b118ff41}
       \strng{authornamehash}{e742ba4e105e5341464c3528b118ff41}
       \strng{authorfullhash}{e742ba4e105e5341464c3528b118ff41}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{journaltitle}{Journal of Instrumentation 3 (2008) S08004}
       \field{userf}{en}
@@ -622,8 +859,8 @@
       \strng{authorbibnamehash}{1a217a869b44243e1ff41ea94195282f}
       \strng{authornamehash}{1a217a869b44243e1ff41ea94195282f}
       \strng{authorfullhash}{1a217a869b44243e1ff41ea94195282f}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nuclear Inst and Methods in Physics Research A}
@@ -650,8 +887,8 @@
       \strng{authorbibnamehash}{80c92b88d62e28575c232e77480e3852}
       \strng{authornamehash}{80c92b88d62e28575c232e77480e3852}
       \strng{authorfullhash}{80c92b88d62e28575c232e77480e3852}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Resistive plate chambers}
@@ -670,8 +907,8 @@
       \strng{authorbibnamehash}{4f1513192b6f127392f85c5a317f75b4}
       \strng{authornamehash}{4f1513192b6f127392f85c5a317f75b4}
       \strng{authorfullhash}{4f1513192b6f127392f85c5a317f75b4}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Chemical Physics}
@@ -697,8 +934,8 @@
       \strng{authorbibnamehash}{06131abd5bc2827584dfb8cdcb3179cb}
       \strng{authornamehash}{06131abd5bc2827584dfb8cdcb3179cb}
       \strng{authorfullhash}{06131abd5bc2827584dfb8cdcb3179cb}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Instrumentation}
@@ -709,6 +946,143 @@
       \field{year}{2010}
       \field{pages}{T03018}
       \range{pages}{-1}
+    \endentry
+    \entry{Abbaneo2015Quality}{article}{}
+      \name{author}{10}{}{%
+        {{hash=68647fac0437c03e53d3e5b558beb1d5}{%
+           family={Abbaneo},
+           familyi={A\bibinitperiod},
+           given={D},
+           giveni={D\bibinitperiod}}}%
+        {{hash=80bc239699f42648834900eb6248eb1e}{%
+           family={Abbas},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=1f32595d7b2ef5a20dafe4487ee479fd}{%
+           family={Abbrescia},
+           familyi={A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6fff1eaa5078879d69128cdccefc45fd}{%
+           family={Abdelalim},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi A},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c2edf02b9ccf1bc30f7fa1b75473aa98}{%
+           family={Abi\bibnamedelima Akl},
+           familyi={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=792a8eab2efda1bbcf53fefedda73c17}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=792a8eab2efda1bbcf53fefedda73c17}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7c739e2e7ab99587fc1267645b54d860}{%
+           family={Altieri},
+           familyi={A\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod}}}%
+        {{hash=497348355adff1ded3e75b69e679268e}{%
+           family={Aly},
+           familyi={A\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f2d342ed4e098249d06a29bb1cc86b43}{%
+           family={Armaingaud},
+           familyi={A\bibinitperiod},
+           given={C},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6edfb7a3f3196a91a80e18d999d86374}
+      \strng{fullhash}{43dcf46b763e48726008da0131bf09b8}
+      \strng{bibnamehash}{6edfb7a3f3196a91a80e18d999d86374}
+      \strng{authorbibnamehash}{6edfb7a3f3196a91a80e18d999d86374}
+      \strng{authornamehash}{6edfb7a3f3196a91a80e18d999d86374}
+      \strng{authorfullhash}{43dcf46b763e48726008da0131bf09b8}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Instrumentation}
+      \field{number}{3}
+      \field{title}{Quality control and beam test of GEM detectors for future upgrades of the CMS muon high rate region at the LHC}
+      \field{userf}{en}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{C03039\bibrangedash C03039}
+      \range{pages}{-1}
+    \endentry
+    \entry{Rahmani2017Quality}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=a6c6bc2820bb022b4603f3fd97a94a98}{%
+           family={Rahmani},
+           familyi={R\bibinitperiod},
+           given={Mehdi},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6c6bc2820bb022b4603f3fd97a94a98}
+      \strng{fullhash}{a6c6bc2820bb022b4603f3fd97a94a98}
+      \strng{bibnamehash}{a6c6bc2820bb022b4603f3fd97a94a98}
+      \strng{authorbibnamehash}{a6c6bc2820bb022b4603f3fd97a94a98}
+      \strng{authornamehash}{a6c6bc2820bb022b4603f3fd97a94a98}
+      \strng{authorfullhash}{a6c6bc2820bb022b4603f3fd97a94a98}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{APS April Meeting}
+      \field{title}{Quality Control of the Large-area GEM detectors at Production Sites for the CMS Muon Endcap Upgrade}
+      \field{userf}{en}
+      \field{year}{2017}
+    \endentry
+    \entry{Martoiu2013Development}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7b2c81e6c3384b84c75aaf71df91d6e2}{%
+           family={Martoiu},
+           familyi={M\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=37125c581267de9727dd315f26b1c283}{%
+           family={Muller},
+           familyi={M\bibinitperiod},
+           given={H},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4c1be9dddccf069cd477f57d4dd87012}{%
+           family={Tarazona},
+           familyi={T\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fd279243e883e7f1bbf8a7b8b971fec9}{%
+           family={Toledo},
+           familyi={T\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{4fd1bbcf9bd3466d124ff919dc10de97}
+      \strng{fullhash}{d79df667ff74187348e0b2989d22c7eb}
+      \strng{bibnamehash}{4fd1bbcf9bd3466d124ff919dc10de97}
+      \strng{authorbibnamehash}{4fd1bbcf9bd3466d124ff919dc10de97}
+      \strng{authornamehash}{4fd1bbcf9bd3466d124ff919dc10de97}
+      \strng{authorfullhash}{d79df667ff74187348e0b2989d22c7eb}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Instrumentation}
+      \field{number}{03}
+      \field{title}{Development of the scalable readout system for micro-pattern gas detectors and other applications}
+      \field{userf}{en}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{C03015}
+      \range{pages}{1}
     \endentry
   \enddatalist
   \missing{test-en}

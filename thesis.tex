@@ -21,6 +21,7 @@
 % 若需在排序中实现更复杂的需求，请参考 biblatex-caspervector 的文档。
 \usepackage[backend = biber, style = caspervector, utf8, sorting = none]{biblatex}
 \usepackage{indentfirst}
+\usepackage{url}
 \setlength{\parindent}{2em}
 \usepackage{graphics}
 \usepackage{graphicx}
@@ -42,7 +43,7 @@
 	cmajor = {粒子物理与原子核物理}, emajor = {Some Major},
 	direction = {中高能与粒子物理},
 	cmentor = {班勇教授}, ementor = {Prof.\ Somebody},
-	ckeywords = {其一，其二}, ekeywords = {First, Second}
+	ckeywords = {蒙特卡洛模拟，微结构气体探测器，时间分辨率，位置分辨率，质量控制}, ekeywords = {Monte Carlo simulation, Micropattern gaseous detectors, Time resolution, Spatial resolution, Quality control}
 }
 % 载入参考文献数据库（注意不要省略“.bib”）。
 \addbibresource{thesis.bib}
@@ -92,7 +93,7 @@
 	%% 序言。
 	%\include{chap/introduction}
 	% 各章节。
-	\include{chap/abstract}
+	%\include{chap/abstract}
 	\include{chap/chap1}
 	\include{chap/chap2}
 	\include{chap/chap3}
