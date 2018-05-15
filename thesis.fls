@@ -340,6 +340,8 @@ INPUT /usr/share/texmf-dist/tex/latex/biblatex-caspervector/biblatex-caspervecto
 INPUT /usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /usr/share/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT /usr/share/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 INPUT /usr/share/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
@@ -957,6 +959,10 @@ INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8f.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong55.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong87.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8a.tfm
+INPUT ansys_process.png
+INPUT ./ansys_process.png
+INPUT ./ansys_process.png
+INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong52.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong60.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong80.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6a.tfm
@@ -1020,7 +1026,6 @@ INPUT ./gem_time_resolution_1.eps
 INPUT ./gem_time_resolution_1-eps-converted-to.pdf
 INPUT ./gem_time_resolution_1-eps-converted-to.pdf
 INPUT ./gem_time_resolution_1-eps-converted-to.pdf
-INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong52.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong73.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong77.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8d.tfm
@@ -1120,6 +1125,12 @@ INPUT ./spatial_coparison-eps-converted-to.pdf
 INPUT ./spatial_coparison-eps-converted-to.pdf
 INPUT ./spatial_coparison-eps-converted-to.pdf
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8b.tfm
+INPUT gem_beam.png
+INPUT ./gem_beam.png
+INPUT ./gem_beam.png
+INPUT ftm_beam.png
+INPUT ./ftm_beam.png
+INPUT ./ftm_beam.png
 OUTPUT chap/chap5.aux
 INPUT chap/chap5.tex
 INPUT chap/chap5.tex
@@ -1195,6 +1206,10 @@ INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei73.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei88.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
+INPUT /usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+INPUT /usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
+INPUT /usr/share/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai03.tfm
 OUTPUT chap/encl1.aux
 INPUT chap/encl1.tex
 INPUT chap/encl1.tex
@@ -1210,8 +1225,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai89.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai95.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unikai/unikai98.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unikai/unikaiff.tfm
-INPUT /usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
-INPUT /usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 INPUT /usr/share/texmf-dist/fonts/tfm/public/txfonts/t1xtt.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-t1.tfm
@@ -1268,6 +1281,7 @@ INPUT thesis.run.xml
 OUTPUT thesis.run.xml
 INPUT simsun.ttc
 INPUT simsun.ttc
+INPUT simkai.ttf
 INPUT simkai.ttf
 INPUT simkai.ttf
 INPUT simkai.ttf
