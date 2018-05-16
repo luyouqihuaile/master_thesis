@@ -68,12 +68,10 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{结论}{43}{chapter*.44}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{文献列表}{45}{appendix*.46}
+\contentsline {chapter}{文献列表}{45}{chapter*.46}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}附件}{49}{appendix.A}
+\contentsline {chapter}{在校期间的研究成果}{49}{chapter*.47}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{在校期间的研究成果}{51}{appendix*.47}
+\contentsline {chapter}{致谢}{51}{chapter*.48}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{致谢}{53}{appendix*.48}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{55}{appendix*.49}
+\contentsline {chapter}{北京大学学位论文原创性声明和使用授权说明}{53}{chapter*.49}
