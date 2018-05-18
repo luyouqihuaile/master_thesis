@@ -737,6 +737,7 @@ INPUT ./micromegas.png
 INPUT ./micromegas.png
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong7b.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8a.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8c.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6e.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei5d.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei74.tfm
@@ -825,7 +826,7 @@ INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei72.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei74.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei80.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei66.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong92.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong87.tfm
 INPUT dd.png
 INPUT ./dd.png
 INPUT ./dd.png
@@ -849,9 +850,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei4f.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei63.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei6d.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei56.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8c.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei7b.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei4e.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong94.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong85.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong86.tfm
@@ -951,9 +949,9 @@ INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei78.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei96.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei51.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei65.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei4e.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unihei/unihei8f.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong55.tfm
-INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong87.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong8a.tfm
 INPUT ansys_process.png
 INPUT ./ansys_process.png
@@ -1266,8 +1264,6 @@ INPUT simsun.ttc
 INPUT simsun.ttc
 INPUT simsun.ttc
 INPUT simsun.ttc
-INPUT simsun.ttc
-INPUT simsun.ttc
 INPUT simhei.ttf
 INPUT simsun.ttc
 INPUT simhei.ttf
@@ -1279,6 +1275,7 @@ INPUT simhei.ttf
 INPUT simhei.ttf
 INPUT simsun.ttc
 INPUT simhei.ttf
+INPUT simsun.ttc
 INPUT simsun.ttc
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT simsun.ttc

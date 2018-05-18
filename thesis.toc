@@ -22,11 +22,11 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {第二章\hspace {.3em}}新型微结构气体探测器简介}{11}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Triple-GEM探测器简介}{11}{section.2.1}
+\contentsline {section}{\numberline {2.1}Triple-GEM探测器}{11}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}FTM探测器简介}{13}{section.2.2}
+\contentsline {section}{\numberline {2.2}FTM探测器}{13}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}$\mu -$RWELL探测器简介}{15}{section.2.3}
+\contentsline {section}{\numberline {2.3}$\mu -$RWELL探测器}{15}{section.2.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.4}小结}{16}{section.2.4}
 \defcounter {refsection}{0}\relax 

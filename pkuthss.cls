@@ -362,7 +362,7 @@
 			% Title of the thesis.
 			{%
 				\zihao{2}{\label@ctitle}%
-				\pkuthss@int@fillinblank{2}{0.76\textwidth}{\textbf{\@ctitle}}%
+				\pkuthss@int@fillinblank{2}{0.74\textwidth}{\textbf{\@ctitle}}%
 			}
 			\vfill
 			% Information about the author.
