@@ -619,8 +619,8 @@
       \strng{authorbibnamehash}{883e03e48d037870e3f3141bee9f2100}
       \strng{authornamehash}{883e03e48d037870e3f3141bee9f2100}
       \strng{authorfullhash}{883e03e48d037870e3f3141bee9f2100}
-      \field{sortinit}{3}
-      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
+      \field{sortinit}{2}
+      \field{sortinithash}{0aa614ace9f3a40ef5a67e7f7a184048}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nucl. Instr. and Meth. A 490 (2002) 177}
@@ -762,8 +762,8 @@
       \field{userf}{en}
     \endentry
     \entry{16}{misc}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labeltitlesource}{title}
       \field{title}{ANSYS, a finite element analysis software}
       \field{userf}{en}
@@ -775,8 +775,8 @@
       \endverb
     \endentry
     \entry{17}{misc}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
+      \field{sortinit}{3}
+      \field{sortinithash}{197da6d6c34c6b20ce45c4d4baace5a4}
       \field{labeltitlesource}{title}
       \field{title}{GARFIELD, a tookit for the simulation of particle detectors}
       \field{userf}{en}
@@ -952,8 +952,8 @@
       \strng{authorbibnamehash}{f2bcc9b5dc3e04d036b7b56c768097e5}
       \strng{authornamehash}{f2bcc9b5dc3e04d036b7b56c768097e5}
       \strng{authorfullhash}{716a2e9868319d5c0d544ec365fa221d}
-      \field{sortinit}{5}
-      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{CMS Technical Design Report for the Muon Endcap GEM Upgrade}
@@ -974,8 +974,8 @@
       \strng{authorbibnamehash}{fb7d70587ac4c56b1f63049f23ea3615}
       \strng{authornamehash}{fb7d70587ac4c56b1f63049f23ea3615}
       \strng{authorfullhash}{fb7d70587ac4c56b1f63049f23ea3615}
-      \field{sortinit}{5}
-      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
+      \field{sortinit}{4}
+      \field{sortinithash}{d221becdd544034cf9082056cd6e6d2d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{CERN cds}
@@ -1169,8 +1169,8 @@
       \strng{authorbibnamehash}{6edfb7a3f3196a91a80e18d999d86374}
       \strng{authornamehash}{6edfb7a3f3196a91a80e18d999d86374}
       \strng{authorfullhash}{43dcf46b763e48726008da0131bf09b8}
-      \field{sortinit}{6}
-      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Instrumentation}
@@ -1196,8 +1196,8 @@
       \strng{authorbibnamehash}{a6c6bc2820bb022b4603f3fd97a94a98}
       \strng{authornamehash}{a6c6bc2820bb022b4603f3fd97a94a98}
       \strng{authorfullhash}{a6c6bc2820bb022b4603f3fd97a94a98}
-      \field{sortinit}{6}
-      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{APS April Meeting}
@@ -1234,8 +1234,8 @@
       \strng{authorbibnamehash}{4fd1bbcf9bd3466d124ff919dc10de97}
       \strng{authornamehash}{4fd1bbcf9bd3466d124ff919dc10de97}
       \strng{authorfullhash}{d79df667ff74187348e0b2989d22c7eb}
-      \field{sortinit}{6}
-      \field{sortinithash}{02bbed3ed82f61ae046619460488516d}
+      \field{sortinit}{5}
+      \field{sortinithash}{c9df3c9fb8f555dd9201cedc5e343021}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Instrumentation}

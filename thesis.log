@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  18 MAY 2018 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  19 MAY 2018 15:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2365,6 +2365,12 @@ File: c70zhfs.fd 2009/09/23 4.8.2
 \pkuthss@tmp@linecount=\count452
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 18.06749pt on input line 79.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 18.06749pt on input line 79.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 15.05624pt on input line 79.
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.045pt on input line 79.
 
 (/usr/share/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
 File: zhwindowsfonts.tex 2018/01/28 v2.4.12 Windows font map loader for pdfTeX 
@@ -2402,8 +2408,6 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 \openout2 = `chap/abstract.aux'.
 
  (./chap/abstract.tex
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 9.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.0pt on input line 9.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
@@ -2562,18 +2566,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 3769) has occurred while \output is active []
 
  [6 <./avlanche.png>]
-<avalanche.png, id=574, 721.6749pt x 514.09085pt>
-File: avalanche.png Graphic file (type png)
-<use avalanche.png>
-Package pdftex.def Info: avalanche.png  used on input line 141.
-(pdftex.def)             Requested size: 289.07999pt x 205.93077pt.
-<dd.png, id=581, 1046.91125pt x 692.5875pt>
+<dd.png, id=577, 1046.91125pt x 692.5875pt>
 File: dd.png Graphic file (type png)
 <use dd.png>
-Package pdftex.def Info: dd.png  used on input line 155.
+Package pdftex.def Info: dd.png  used on input line 150.
 (pdftex.def)             Requested size: 289.07999pt x 191.23889pt.
- [7 <./avalanche.png>]
-Overfull \hbox (7.69882pt too wide) in paragraph at lines 167--172
+
+Overfull \hbox (7.69882pt too wide) in paragraph at lines 162--167
 \C70/rm/m/n/12.045/88 ≈\T1/ntxtlf/m/n/12.045 4\C70/rm/m/n/12.045/5c B \C70/rm/m
 /n/12.045/7f * \C70/rm/m/n/12.045/5b P \C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.0
 45/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/7c ˚ \C70/rm/m/n/12.045/7e ﬂ
@@ -2588,7 +2587,10 @@ n/12.045/54 å\T1/ntxtlf/m/n/12.045 GE2/1|\C70/rm/m/n/12.045/ff ^^L|
  []
 
 
-Overfull \hbox (9.25252pt too wide) in paragraph at lines 173--176
+Underfull \vbox (badness 8000) has occurred while \output is active []
+
+ [7]
+Overfull \hbox (9.25252pt too wide) in paragraph at lines 168--171
 []\T1/ntxtlf/m/n/12.045 GE1/1\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C
 70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/7c ˚ \C70/rm/m/n/12.045/7e ﬂ \C70/rm/m
 /n/12.045/5c ^^F \C70/rm/m/n/12.045/4f ^^Z \C70/rm/m/n/12.045/90 	 \C70/rm/m/n/
@@ -2601,7 +2603,7 @@ Overfull \hbox (9.25252pt too wide) in paragraph at lines 173--176
  []
 
 
-Overfull \hbox (14.5764pt too wide) in paragraph at lines 173--176
+Overfull \hbox (14.5764pt too wide) in paragraph at lines 168--171
 \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/7c ˚ \C70/rm
 /m/n/12.045/7e ﬂ \C70/rm/m/n/12.045/54 ^^L \C70/rm/m/n/12.045/68 7 \C70/rm/m/n/
 12.045/90 	 \C70/rm/m/n/12.045/62 È\T1/ntxtlf/m/n/12.045 Triple-GEM\C70/rm/m/n/
@@ -2615,7 +2617,7 @@ xmi/m/it/12.045 ^^V\LMS/ntxsy/m/n/12.045 ^^@$\T1/ntxtlf/m/n/12.045 RWELL\C70/rm
  []
 
 
-Overfull \hbox (20.46645pt too wide) in paragraph at lines 173--176
+Overfull \hbox (20.46645pt too wide) in paragraph at lines 168--171
 \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/4f \ \C70/rm
 /m/n/12.045/4e : \C70/rm/m/n/12.045/59 ^^G \C70/rm/m/n/12.045/90 	 \C70/rm/m/n/
 12.045/65 π \C70/rm/m/n/12.045/68 H|\C70/rm/m/n/12.045/30 ^^B| \T1/ntxtlf/m/n/1
@@ -2630,7 +2632,7 @@ e ß \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/96 6 \C70/rm/m/n/12.045/6b µ|\C7
  []
 
 
-Overfull \hbox (24.1751pt too wide) in paragraph at lines 173--176
+Overfull \hbox (24.1751pt too wide) in paragraph at lines 168--171
 \T1/ntxtlf/m/n/12.045 FTM \C70/rm/m/n/12.045/8f Ÿ \C70/rm/m/n/12.045/4e 	 \C70/
 rm/m/n/12.045/79 Õ \C70/rm/m/n/12.045/75 ( \C70/rm/m/n/12.045/4e é\T1/ntxtlf/m/
 n/12.045 CMS\C70/rm/m/n/12.045/53 G \C70/rm/m/n/12.045/7e ß \C70/rm/m/n/12.045/
@@ -2645,16 +2647,12 @@ n/12.045 CMS\C70/rm/m/n/12.045/53 G \C70/rm/m/n/12.045/7e ß \C70/rm/m/n/12.045/
 .045/53 G
  []
 
-[8 <./dd.png>]) [9]
+) [8 <./dd.png>]
 \openout2 = `chap/chap2.aux'.
 
- (./chap/chap2.tex [10
-
-
-
-]
+ (./chap/chap2.tex
 Á¨¨‰∫åÁ´†
-<gem_foil.png, id=621, 455.7025pt x 342.27875pt>
+<gem_foil.png, id=606, 455.7025pt x 342.27875pt>
 File: gem_foil.png Graphic file (type png)
 <use gem_foil.png>
 Package pdftex.def Info: gem_foil.png  used on input line 15.
@@ -2664,7 +2662,7 @@ Overfull \hbox (13.7146pt too wide) in paragraph at lines 15--16
  [][] 
  []
 
-<gem_field.png, id=624, 423.83344pt x 406.51875pt>
+<gem_field.png, id=609, 423.83344pt x 406.51875pt>
 File: gem_field.png Graphic file (type png)
 <use gem_field.png>
 Package pdftex.def Info: gem_field.png  used on input line 22.
@@ -2679,26 +2677,27 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 13--26
 [][]  [] 
  []
 
-<gem_new.png, id=628, 905.784pt x 519.8622pt>
+<gem_new.png, id=613, 905.784pt x 519.8622pt>
 File: gem_new.png Graphic file (type png)
 <use gem_new.png>
 Package pdftex.def Info: gem_new.png  used on input line 32.
 (pdftex.def)             Requested size: 289.07999pt x 165.90715pt.
-[11] [12 <./gem_foil.png> <./gem_field.png (PNG copy)> <./gem_new.png>]
-<ftm.png, id=652, 874.467pt x 460.119pt>
+[9
+
+
+
+] [10 <./gem_foil.png> <./gem_field.png (PNG copy)> <./gem_new.png>]
+<ftm.png, id=638, 874.467pt x 460.119pt>
 File: ftm.png Graphic file (type png)
 <use ftm.png>
 Package pdftex.def Info: ftm.png  used on input line 52.
 (pdftex.def)             Requested size: 289.07999pt x 152.10652pt.
-
-[13 <./ftm.png>]
-<beam_test.png, id=662, 569.12625pt x 425.59pt>
+ [11 <./ftm.png>]
+<beam_test.png, id=648, 569.12625pt x 425.59pt>
 File: beam_test.png Graphic file (type png)
 <use beam_test.png>
 Package pdftex.def Info: beam_test.png  used on input line 67.
 (pdftex.def)             Requested size: 289.07999pt x 216.18431pt.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 15.05624pt on input line 72.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.03374pt on input line 72.
 
@@ -2714,7 +2713,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 72.
 
-<mrwell.png, id=666, 878.8032pt x 522.753pt>
+<mrwell.png, id=652, 878.8032pt x 522.753pt>
 File: mrwell.png Graphic file (type png)
 <use mrwell.png>
 Package pdftex.def Info: mrwell.png  used on input line 77.
@@ -2726,8 +2725,8 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [14 <./beam_test.png>]
-<well_pcb.png, id=678, 725.71124pt x 542.025pt>
+ [12 <./beam_test.png>]
+<well_pcb.png, id=664, 725.71124pt x 542.025pt>
 File: well_pcb.png Graphic file (type png)
 <use well_pcb.png>
 Package pdftex.def Info: well_pcb.png  used on input line 91.
@@ -2737,7 +2736,7 @@ Overfull \hbox (13.7146pt too wide) in paragraph at lines 91--92
  [][] 
  []
 
-<well.png, id=679, 751.80875pt x 501.875pt>
+<well.png, id=665, 751.80875pt x 501.875pt>
 File: well.png Graphic file (type png)
 <use well.png>
 Package pdftex.def Info: well.png  used on input line 98.
@@ -2755,17 +2754,17 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 89--102
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15 <./mrwell.png>] [16 <./well_pcb.png> <./well.png>]
+ [13 <./mrwell.png>] [14 <./well_pcb.png> <./well.png>]
 \openout2 = `chap/chap3.aux'.
 
  (./chap/chap3.tex
 Á¨¨‰∏âÁ´†
-<ansys_process.png, id=700, 683.55376pt x 853.1875pt>
+<ansys_process.png, id=685, 683.55376pt x 853.1875pt>
 File: ansys_process.png Graphic file (type png)
 <use ansys_process.png>
 Package pdftex.def Info: ansys_process.png  used on input line 25.
 (pdftex.def)             Requested size: 361.34999pt x 451.02858pt.
-[17
+[15
 
 
 
@@ -2783,19 +2782,19 @@ rm/m/n/12.045/63 • \C70/rm/m/n/12.045/53 „|\C70/rm/m/n/12.045/ff ^^L| \T1/ntxtl
 f/m/n/12.045 Heed\C70/rm/m/n/12.045/66 /
  []
 
-[18] [19 <./ansys_process.png>]
-<simulation_process1.png, id=725, 942.4008pt x 531.4254pt>
+[16] [17 <./ansys_process.png>]
+<simulation_process1.png, id=711, 942.4008pt x 531.4254pt>
 File: simulation_process1.png Graphic file (type png)
 <use simulation_process1.png>
-Package pdftex.def Info: simulation_process1.png  used on input line 51.
+Package pdftex.def Info: simulation_process1.png  used on input line 52.
 (pdftex.def)             Requested size: 289.07999pt x 163.01297pt.
-<gem_ansys.png, id=729, 895.6662pt x 492.8814pt>
+<gem_ansys.png, id=715, 895.6662pt x 492.8814pt>
 File: gem_ansys.png Graphic file (type png)
 <use gem_ansys.png>
-Package pdftex.def Info: gem_ansys.png  used on input line 65.
+Package pdftex.def Info: gem_ansys.png  used on input line 66.
 (pdftex.def)             Requested size: 238.49121pt x 131.23717pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 65--66
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 66--67
  [][] 
  []
 
@@ -2807,46 +2806,46 @@ Package epstopdf Info: Source file: <gem_avalanche.eps>
 (epstopdf)                    size: 732996 bytes
 (epstopdf)             Command: <repstopdf --outfile=gem_avalanche-eps-converte
 d-to.pdf gem_avalanche.eps>
-(epstopdf)             \includegraphics on input line 72.
+(epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
-<gem_avalanche-eps-converted-to.pdf, id=730, 495.8525pt x 398.48875pt>
+<gem_avalanche-eps-converted-to.pdf, id=716, 495.8525pt x 398.48875pt>
 File: gem_avalanche-eps-converted-to.pdf Graphic file (type pdf)
 <use gem_avalanche-eps-converted-to.pdf>
 Package pdftex.def Info: gem_avalanche-eps-converted-to.pdf  used on input line
- 72.
+ 73.
 (pdftex.def)             Requested size: 238.49121pt x 191.66158pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 72--73
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 73--74
  [][] 
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 63--76
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 64--77
 [][]  [] 
  []
 
-<ftm_ansys.png, id=733, 584.9052pt x 380.622pt>
+<ftm_ansys.png, id=719, 584.9052pt x 380.622pt>
 File: ftm_ansys.png Graphic file (type png)
 <use ftm_ansys.png>
-Package pdftex.def Info: ftm_ansys.png  used on input line 86.
+Package pdftex.def Info: ftm_ansys.png  used on input line 87.
 (pdftex.def)             Requested size: 238.49121pt x 155.19646pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 86--87
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 87--88
  [][] 
  []
 
-<ftm_avalanche.png, id=734, 510.90875pt x 472.76625pt>
+<ftm_avalanche.png, id=720, 510.90875pt x 472.76625pt>
 File: ftm_avalanche.png Graphic file (type png)
 <use ftm_avalanche.png>
-Package pdftex.def Info: ftm_avalanche.png  used on input line 93.
+Package pdftex.def Info: ftm_avalanche.png  used on input line 94.
 (pdftex.def)             Requested size: 238.49121pt x 220.68526pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 93--94
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 94--95
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 []\C70/rm/m/n/10.53937/56 ˛ \T1/ntxtlf/m/n/10.53937 3.6 |GARFIELD\C70/rm/m/n/10
 .53937/91 Õ \C70/rm/m/n/10.53937/5e ˙ \C70/rm/m/n/10.53937/51 ˙ \C70/rm/m/n/10.
 53937/67 e \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/51 e \C70/rm/m/n/10.5
@@ -2854,12 +2853,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 84--97
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 85--98
 [][]  [] 
  []
 
 
-Overfull \hbox (7.57831pt too wide) in paragraph at lines 78--98
+Overfull \hbox (7.57831pt too wide) in paragraph at lines 79--99
 []\T1/ntxtlf/m/n/12.045 FTM\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70
 /rm/m/n/12.045/56 h \C70/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 ANSYS\C70/rm/m
 /n/12.045/4e - \C70/rm/m/n/12.045/67 Ñ \C70/rm/m/n/12.045/5e ˙ \C70/rm/m/n/12.0
@@ -2873,29 +2872,46 @@ C70/rm/m/n/12.045/53 ö \C70/rm/m/n/12.045/76 Ñ\T1/ntxtlf/m/n/12.045 Cu\C70/rm/m
 /n/12.045/6f ^^B
  []
 
-[20 <./simulation_process1.png>]
-<mrwell_ansys.png, id=743, 593.5776pt x 419.6478pt>
+
+Overfull \hbox (0.54396pt too wide) in paragraph at lines 79--99
+\C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/67 Å|\C70/rm
+/m/n/12.045/30 ^^A| \T1/ntxtlf/m/n/12.045 250$\OML/ntxmi/m/it/12.045 ^^V$\T1/nt
+xtlf/m/n/12.045 m\C70/rm/m/n/12.045/53 ö \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12
+.045/6c ^^T \C70/rm/m/n/12.045/4f S \C70/rm/m/n/12.045/95 Ù \C70/rm/m/n/12.045/
+96 ô|\C70/rm/m/n/12.045/30 ^^A| \C70/rm/m/n/12.045/63 • \C70/rm/m/n/12.045/8f —
+ \C70/rm/m/n/12.045/4e é \C70/rm/m/n/12.045/53 ö \C70/rm/m/n/12.045/5e ¶ \C70/r
+m/m/n/12.045/4e :\T1/ntxtlf/m/n/12.045 0\C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.
+045/7c { \C70/rm/m/n/12.045/91 — \C70/rm/m/n/12.045/52 ^^Z \C70/rm/m/n/12.045/7
+7 Û \C70/rm/m/n/12.045/85 Ñ \C70/rm/m/n/12.045/81 ú |\C70/rm/m/n/12.045/ff ^^H|
+\C70/rm/m/n/12.045/88 h \C70/rm/m/n/12.045/97 b \C70/rm/m/n/12.045/75 5 \C70/rm
+/m/n/12.045/96 ; \C70/rm/m/n/12.045/4e :\T1/ntxtlf/m/n/12.045 800$\OML/ntxmi/m/
+it/12.045 M\U/ntxmia/m/it/12.045 
+$|\C70/rm/m/n/12.045/ff 	||\C70/rm/m/n/12.045/30 ^^A|
+ []
+
+[18 <./simulation_process1.png>]
+<mrwell_ansys.png, id=730, 593.5776pt x 419.6478pt>
 File: mrwell_ansys.png Graphic file (type png)
 <use mrwell_ansys.png>
-Package pdftex.def Info: mrwell_ansys.png  used on input line 104.
+Package pdftex.def Info: mrwell_ansys.png  used on input line 105.
 (pdftex.def)             Requested size: 238.49121pt x 168.61172pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 104--105
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 105--106
  [][] 
  []
 
-<mrwell_avalanche.png, id=744, 609.27625pt x 419.5675pt>
+<mrwell_avalanche.png, id=731, 609.27625pt x 419.5675pt>
 File: mrwell_avalanche.png Graphic file (type png)
 <use mrwell_avalanche.png>
-Package pdftex.def Info: mrwell_avalanche.png  used on input line 111.
+Package pdftex.def Info: mrwell_avalanche.png  used on input line 112.
 (pdftex.def)             Requested size: 238.49121pt x 164.23245pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 111--112
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 112--113
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
 []\C70/rm/m/n/10.53937/56 ˛ \T1/ntxtlf/m/n/10.53937 3.8 |GARFIELD\C70/rm/m/n/10
 .53937/91 Õ \C70/rm/m/n/10.53937/5e ˙ \C70/rm/m/n/10.53937/51 ˙ \C70/rm/m/n/10.
 53937/67 e \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/51 e \C70/rm/m/n/10.5
@@ -2903,26 +2919,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--112
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 102--115
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 103--116
 [][]  [] 
  []
 
-
-Overfull \hbox (1.78462pt too wide) in paragraph at lines 99--116
-[]$\OML/ntxmi/m/it/12.045 ^^V\LMS/ntxsy/m/n/12.045 ^^@$\T1/ntxtlf/m/n/12.045 RW
-ELL\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70
-/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 ANSYS\C70/rm/m/n/12.045/4e - \C70/rm/m
-/n/12.045/67 Ñ \C70/rm/m/n/12.045/5e ˙ \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.0
-45/6a ! \C70/rm/m/n/12.045/57 ã \C70/rm/m/n/12.045/56 ˛ \C70/rm/m/n/12.045/59 Ç
- \C70/rm/m/n/12.045/56 ˛[]\T1/ntxtlf/m/n/12.045 3.7[]\C70/rm/m/n/12.045/62 @ \C
-70/rm/m/n/12.045/79 :|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/4e Œ \C70/r
-m/m/n/12.045/5d Ê \C70/rm/m/n/12.045/52 0 \C70/rm/m/n/12.045/53 Û \C70/rm/m/n/1
-2.045/4f ù \C70/rm/m/n/12.045/6b ! \C70/rm/m/n/12.045/4e : \C70/rm/m/n/12.045/6
-f ^^B \C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12.045/7e ß|\C70/rm/m/n/12.045/30 ^^A
-|
- []
-
-[21 <./gem_ansys.png> <./gem_avalanche-eps-converted-to.pdf>] [22 <./ftm_ansys.
+[19 <./gem_ansys.png> <./gem_avalanche-eps-converted-to.pdf>] [20 <./ftm_ansys.
 png> <./ftm_avalanche.png (PNG copy)> <./mrwell_ansys.png> <./mrwell_avalanche.
 png>]
 Package epstopdf Info: Source file: <signal_example.eps>
@@ -2933,77 +2934,15 @@ Package epstopdf Info: Source file: <signal_example.eps>
 (epstopdf)                    size: 16100 bytes
 (epstopdf)             Command: <repstopdf --outfile=signal_example-eps-convert
 ed-to.pdf signal_example.eps>
-(epstopdf)             \includegraphics on input line 133.
+(epstopdf)             \includegraphics on input line 134.
 Package epstopdf Info: Output file is already uptodate.
-<signal_example-eps-converted-to.pdf, id=766, 569.12625pt x 409.53pt>
+<signal_example-eps-converted-to.pdf, id=751, 569.12625pt x 409.53pt>
 File: signal_example-eps-converted-to.pdf Graphic file (type pdf)
 <use signal_example-eps-converted-to.pdf>
 Package pdftex.def Info: signal_example-eps-converted-to.pdf  used on input lin
-e 133.
+e 134.
 (pdftex.def)             Requested size: 289.07999pt x 208.02643pt.
-
-Overfull \hbox (1.26071pt too wide) in paragraph at lines 129--137
-\C70/rm/m/n/12.045/52 M \C70/rm/m/n/12.045/7a Ô \C70/rm/m/n/12.045/75 5 \C70/rm
-/m/n/12.045/5b P f \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/8d Ô \C70/rm/m/n/
-12.045/76 Ñ \C70/rm/m/n/12.045/62 ^^P \C70/rm/m/n/12.045/5f b \C70/rm/m/n/12.04
-5/65 ˆ \C70/rm/m/n/12.045/95 Ù |\C70/rm/m/n/12.045/ff ^^H|$\OML/ntxmi/m/it/12.0
-45 ns$|\C70/rm/m/n/12.045/ff 	||^^L| \C70/rm/m/n/12.045/67 , \C70/rm/m/n/12.045
-/65 á \C70/rm/m/n/12.045/75 ( \C70/rm/m/n/12.045/52 0 \C70/rm/m/n/12.045/76 Ñ \
-C70/rm/m/n/12.045/62 ^^P \C70/rm/m/n/12.045/5f b \C70/rm/m/n/12.045/51 ˝ \C70/r
-m/m/n/12.045/65 p \C70/rm/m/n/12.045/67 e \C70/rm/m/n/12.045/81 Í \C70/rm/m/n/1
-2.045/4e é\T1/ntxtlf/m/n/12.045 CMS\C70/rm/m/n/12.045/5b û \C70/rm/m/n/12.045/9
-a å \C70/rm/m/n/12.045/4e - \C70/rm/m/n/12.045/76 Ñ\T1/ntxtlf/m/n/12.045 VFAT3\
-C70/rm/m/n/12.045/82 Ø
- []
-
-
-Overfull \hbox (4.20569pt too wide) in paragraph at lines 129--137
-\C70/rm/m/n/12.045/72 G\T1/ntxtlf/m/n/12.045 [[]32[]]|\C70/rm/m/n/12.045/30 ^^B
-| \C70/rm/m/n/12.045/4e 	 \C70/rm/m/n/12.045/79 Õ \C70/rm/m/n/12.045/63 ¢ \C70/
-rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/67 ^^@ \C70/rm/m/
-n/12.045/7e » \C70/rm/m/n/12.045/61 ^^_ \C70/rm/m/n/12.045/5e î \C70/rm/m/n/12.
-045/5f ó \C70/rm/m/n/12.045/52 0 \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/4f 
-· \C70/rm/m/n/12.045/53 ˜ \C70/rm/m/n/12.045/79 : \C70/rm/m/n/12.045/61 ^^O \C7
-0/rm/m/n/12.045/56 ˛ \C70/rm/m/n/12.045/89 ¡ \C70/rm/m/n/12.045/56 ˛[]\T1/ntxtl
-f/m/n/12.045 3.9[]|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/4e Œ \C70/rm/m
-/n/12.045/56 ˛ \C70/rm/m/n/12.045/4e - \C70/rm/m/n/12.045/53 Ô \C70/rm/m/n/12.0
-45/4e Â \C70/rm/m/n/12.045/77  \C70/rm/m/n/12.045/51 ˙|\C70/rm/m/n/12.045/ff ^
-^L| \C70/rm/m/n/12.045/75 1 \C70/rm/m/n/12.045/4e é\T1/ntxtlf/m/n/12.045 FTM\C7
-0/rm/m/n/12.045/63 ¢
- []
-
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 144.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 144.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 144.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 144.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 144.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.045pt on input line 144.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 144.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.53937pt on input line 144.
-[23 <./signal_example-eps-converted-to.pdf>]
-Overfull \hbox (8.14203pt too wide) in paragraph at lines 147--150
-\C70/rm/m/n/12.045/5b ö \C70/rm/m/n/12.045/4e I \C70/rm/m/n/12.045/57 ( \C70/rm
-/m/n/12.045/6f ^^B \C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12.045/53 : \C70/rm/m/n/
-12.045/91 Ã \C70/rm/m/n/12.045/53 — \C70/rm/m/n/12.045/75 ^^_ \C70/rm/m/n/12.04
-5/52 ^^] \C70/rm/m/n/12.045/7e ß \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/79 
-ª \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/4f M \C70/rm/m/n/12.045/7f n \C70/
-rm/m/n/12.045/4e ^^N \C70/rm/m/n/12.045/58 û \C70/rm/m/n/12.045/76   \C70/rm/m/
-n/12.045/53 : \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/8d › \C70/rm/m/n/12.04
-5/79 ª \C70/rm/m/n/12.045/4e :$\OML/ntxmi/m/it/12.045 d$|\C70/rm/m/n/12.045/ff 
-^^L| \C70/rm/m/n/12.045/8d › \C70/rm/m/n/12.045/58 û \C70/rm/m/n/12.045/76   \C
-70/rm/m/n/12.045/53 ª \C70/rm/m/n/12.045/67 ^^@ \C70/rm/m/n/12.045/8f — \C70/rm
-/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/8d › \C70/rm/m/n/12.045/79 ª \C70/rm/m/n/12
-.045/4e :$\OML/ntxmi/m/it/12.045 d[]$|\C70/rm/m/n/12.045/ff ^^L|
- []
-
+ [21 <./signal_example-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <gem_time_resolution_1.eps>
 (epstopdf)                    date: 2018-04-30 19:42:12
 (epstopdf)                    size: 8237 bytes
@@ -3013,17 +2952,17 @@ Package epstopdf Info: Source file: <gem_time_resolution_1.eps>
 (epstopdf)                    size: 7541 bytes
 (epstopdf)             Command: <repstopdf --outfile=gem_time_resolution_1-eps-
 converted-to.pdf gem_time_resolution_1.eps>
-(epstopdf)             \includegraphics on input line 163.
+(epstopdf)             \includegraphics on input line 164.
 Package epstopdf Info: Output file is already uptodate.
-<gem_time_resolution_1-eps-converted-to.pdf, id=789, 569.12625pt x 386.44376pt>
+<gem_time_resolution_1-eps-converted-to.pdf, id=775, 569.12625pt x 386.44376pt>
 
 File: gem_time_resolution_1-eps-converted-to.pdf Graphic file (type pdf)
 <use gem_time_resolution_1-eps-converted-to.pdf>
 Package pdftex.def Info: gem_time_resolution_1-eps-converted-to.pdf  used on in
-put line 163.
+put line 164.
 (pdftex.def)             Requested size: 238.49121pt x 161.93967pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 163--164
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 164--165
  [][] 
  []
 
@@ -3036,26 +2975,39 @@ pdf>
 (epstopdf)                    size: 7536 bytes
 (epstopdf)             Command: <repstopdf --outfile=mrwell_time_resolution_1-e
 ps-converted-to.pdf mrwell_time_resolution_1.eps>
-(epstopdf)             \includegraphics on input line 170.
+(epstopdf)             \includegraphics on input line 171.
 Package epstopdf Info: Output file is already uptodate.
-<mrwell_time_resolution_1-eps-converted-to.pdf, id=790, 569.12625pt x 386.44376
+<mrwell_time_resolution_1-eps-converted-to.pdf, id=776, 569.12625pt x 386.44376
 pt>
 File: mrwell_time_resolution_1-eps-converted-to.pdf Graphic file (type pdf)
 <use mrwell_time_resolution_1-eps-converted-to.pdf>
 Package pdftex.def Info: mrwell_time_resolution_1-eps-converted-to.pdf  used on
- input line 170.
+ input line 171.
 (pdftex.def)             Requested size: 238.49121pt x 161.93967pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 170--171
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 171--172
  [][] 
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 161--174
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 162--175
 [][]  [] 
  []
 
-[24]
+[22]
+Overfull \hbox (8.87904pt too wide) in paragraph at lines 183--185
+\C70/rm/m/n/12.045/95 Ù \C70/rm/m/n/12.045/52 ^^F \C70/rm/m/n/12.045/8f ® \C70/
+rm/m/n/12.045/62 ﬂ \C70/rm/m/n/12.045/54 ^^H \C70/rm/m/n/12.045/7e ” \C70/rm/m/
+n/12.045/67 ú \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/79 : \C70/rm/m/n/12.04
+5/61 ^^O \C70/rm/m/n/12.045/56 ˛ \C70/rm/m/n/12.045/59 Ç \C70/rm/m/n/12.045/56 
+˛[]\T1/ntxtlf/m/n/12.045 3.14[]\C70/rm/m/n/12.045/62 @ \C70/rm/m/n/12.045/79 :|
+\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/5b ˘ \C70/rm/m/n/12.045/5e î \C70
+/rm/m/n/12.045/4e $ \C70/rm/m/n/12.045/5c B \C70/rm/m/n/12.045/76 Ñ\T1/ntxtlf/m
+/n/12.045 FTM\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045
+/56 h \C70/rm/m/n/12.045/5d Â \C70/rm/m/n/12.045/4f \ \C70/rm/m/n/12.045/57 (\T
+1/ntxtlf/m/n/12.045 Ar/CO2 = 70/30\C70/rm/m/n/12.045/6c ^^T
+ []
+
 Package epstopdf Info: Source file: <ftm_time_resolution.eps>
 (epstopdf)                    date: 2018-04-30 19:42:12
 (epstopdf)                    size: 7663 bytes
@@ -3064,16 +3016,16 @@ Package epstopdf Info: Source file: <ftm_time_resolution.eps>
 (epstopdf)                    size: 7467 bytes
 (epstopdf)             Command: <repstopdf --outfile=ftm_time_resolution-eps-co
 nverted-to.pdf ftm_time_resolution.eps>
-(epstopdf)             \includegraphics on input line 190.
+(epstopdf)             \includegraphics on input line 191.
 Package epstopdf Info: Output file is already uptodate.
-<ftm_time_resolution-eps-converted-to.pdf, id=802, 569.12625pt x 386.44376pt>
+<ftm_time_resolution-eps-converted-to.pdf, id=788, 569.12625pt x 386.44376pt>
 File: ftm_time_resolution-eps-converted-to.pdf Graphic file (type pdf)
 <use ftm_time_resolution-eps-converted-to.pdf>
 Package pdftex.def Info: ftm_time_resolution-eps-converted-to.pdf  used on inpu
-t line 190.
+t line 191.
 (pdftex.def)             Requested size: 238.49121pt x 161.93967pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 190--191
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 191--192
  [][] 
  []
 
@@ -3086,22 +3038,22 @@ Package epstopdf Info: Source file: <ftm_time_resolution_layer.eps>
 (epstopdf)                    size: 7248 bytes
 (epstopdf)             Command: <repstopdf --outfile=ftm_time_resolution_layer-
 eps-converted-to.pdf ftm_time_resolution_layer.eps>
-(epstopdf)             \includegraphics on input line 197.
+(epstopdf)             \includegraphics on input line 198.
 Package epstopdf Info: Output file is already uptodate.
-<ftm_time_resolution_layer-eps-converted-to.pdf, id=803, 569.12625pt x 386.4437
+<ftm_time_resolution_layer-eps-converted-to.pdf, id=789, 569.12625pt x 386.4437
 6pt>
 File: ftm_time_resolution_layer-eps-converted-to.pdf Graphic file (type pdf)
 <use ftm_time_resolution_layer-eps-converted-to.pdf>
 Package pdftex.def Info: ftm_time_resolution_layer-eps-converted-to.pdf  used o
-n input line 197.
+n input line 198.
 (pdftex.def)             Requested size: 238.49121pt x 161.93967pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 197--198
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 198--199
  [][] 
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 188--201
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 189--202
 [][]  [] 
  []
 
@@ -3114,19 +3066,21 @@ df>
 (epstopdf)                    size: 8706 bytes
 (epstopdf)             Command: <repstopdf --outfile=time_resolution_example-ep
 s-converted-to.pdf time_resolution_example.eps>
-(epstopdf)             \includegraphics on input line 203.
+(epstopdf)             \includegraphics on input line 204.
 Package epstopdf Info: Output file is already uptodate.
-<time_resolution_example-eps-converted-to.pdf, id=804, 569.12625pt x 386.44376p
+<time_resolution_example-eps-converted-to.pdf, id=790, 569.12625pt x 386.44376p
 t>
 File: time_resolution_example-eps-converted-to.pdf Graphic file (type pdf)
 <use time_resolution_example-eps-converted-to.pdf>
 Package pdftex.def Info: time_resolution_example-eps-converted-to.pdf  used on 
-input line 203.
+input line 204.
 (pdftex.def)             Requested size: 289.07999pt x 196.29945pt.
-[25 <./gem_time_resolution_1-eps-converted-to.pdf> <./mrwell_time_resolution_1-
-eps-converted-to.pdf>] [26 <./ftm_time_resolution-eps-converted-to.pdf> <./ftm_
-time_resolution_layer-eps-converted-to.pdf> <./time_resolution_example-eps-conv
-erted-to.pdf>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23 <./gem_time_resolution_1-eps-converted-to.pdf> <./mrwell_time_resolution_1
+-eps-converted-to.pdf> <./ftm_time_resolution-eps-converted-to.pdf> <./ftm_time
+_resolution_layer-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <gem_spatial_resolution.eps>
 (epstopdf)                    date: 2018-04-30 19:42:12
 (epstopdf)                    size: 7532 bytes
@@ -3136,17 +3090,17 @@ f>
 (epstopdf)                    size: 7757 bytes
 (epstopdf)             Command: <repstopdf --outfile=gem_spatial_resolution-eps
 -converted-to.pdf gem_spatial_resolution.eps>
-(epstopdf)             \includegraphics on input line 220.
+(epstopdf)             \includegraphics on input line 221.
 Package epstopdf Info: Output file is already uptodate.
-<gem_spatial_resolution-eps-converted-to.pdf, id=851, 569.12625pt x 386.44376pt
+<gem_spatial_resolution-eps-converted-to.pdf, id=821, 569.12625pt x 386.44376pt
 >
 File: gem_spatial_resolution-eps-converted-to.pdf Graphic file (type pdf)
 <use gem_spatial_resolution-eps-converted-to.pdf>
 Package pdftex.def Info: gem_spatial_resolution-eps-converted-to.pdf  used on i
-nput line 220.
+nput line 221.
 (pdftex.def)             Requested size: 238.49121pt x 161.93967pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 220--221
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 221--222
  [][] 
  []
 
@@ -3159,22 +3113,22 @@ Package epstopdf Info: Source file: <mrwell_spatial_resolution.eps>
 (epstopdf)                    size: 7639 bytes
 (epstopdf)             Command: <repstopdf --outfile=mrwell_spatial_resolution-
 eps-converted-to.pdf mrwell_spatial_resolution.eps>
-(epstopdf)             \includegraphics on input line 227.
+(epstopdf)             \includegraphics on input line 228.
 Package epstopdf Info: Output file is already uptodate.
-<mrwell_spatial_resolution-eps-converted-to.pdf, id=852, 569.12625pt x 386.4437
+<mrwell_spatial_resolution-eps-converted-to.pdf, id=822, 569.12625pt x 386.4437
 6pt>
 File: mrwell_spatial_resolution-eps-converted-to.pdf Graphic file (type pdf)
 <use mrwell_spatial_resolution-eps-converted-to.pdf>
 Package pdftex.def Info: mrwell_spatial_resolution-eps-converted-to.pdf  used o
-n input line 227.
+n input line 228.
 (pdftex.def)             Requested size: 238.49121pt x 161.93967pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 227--228
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 228--229
  [][] 
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 218--231
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 219--232
 [][]  [] 
  []
 
@@ -3187,31 +3141,21 @@ f>
 (epstopdf)                    size: 7790 bytes
 (epstopdf)             Command: <repstopdf --outfile=ftm_spatial_resolution-eps
 -converted-to.pdf ftm_spatial_resolution.eps>
-(epstopdf)             \includegraphics on input line 233.
+(epstopdf)             \includegraphics on input line 234.
 Package epstopdf Info: Output file is already uptodate.
-<ftm_spatial_resolution-eps-converted-to.pdf, id=853, 569.12625pt x 386.44376pt
+<ftm_spatial_resolution-eps-converted-to.pdf, id=823, 569.12625pt x 386.44376pt
 >
 File: ftm_spatial_resolution-eps-converted-to.pdf Graphic file (type pdf)
 <use ftm_spatial_resolution-eps-converted-to.pdf>
 Package pdftex.def Info: ftm_spatial_resolution-eps-converted-to.pdf  used on i
-nput line 233.
+nput line 234.
 (pdftex.def)             Requested size: 289.07999pt x 196.29945pt.
-[27 <./gem_spatial_resolution-eps-converted-to.pdf> <./mrwell_spatial_resolutio
-n-eps-converted-to.pdf> <./ftm_spatial_resolution-eps-converted-to.pdf>]
-Overfull \hbox (1.70033pt too wide) in paragraph at lines 243--245
-\C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/69 Ç \C70/rm/m/n/12.045/73 á|\C70/rm
-/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/4e Œ \C70/rm/m/n/12.045/80 ^^L \C70/rm/m
-/n/12.045/4f ^^? \C70/rm/m/n/12.045/5f ó \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12
-.045/5b P \C70/rm/m/n/12.045/57 ( \C70/rm/m/n/12.045/6a * \C70/rm/m/n/12.045/54
- ^^Q \C70/rm/m/n/12.045/53 — \C70/rm/m/n/12.045/75 ^^_ \C70/rm/m/n/12.045/62 i 
-\C70/rm/m/n/12.045/65 c \C70/rm/m/n/12.045/73 ∞ \C70/rm/m/n/12.045/8c a|\C70/rm
-/m/n/12.045/30 ^^B| \C70/rm/m/n/12.045/8f Ÿ \C70/rm/m/n/12.045/79 Õ \C70/rm/m/n
-/12.045/5f ^^B \C70/rm/m/n/12.045/5e 8 \C70/rm/m/n/12.045/50 < \C70/rm/m/n/12.0
-45/5e v \C70/rm/m/n/12.045/6c ° \C70/rm/m/n/12.045/67 	 \C70/rm/m/n/12.045/57 (
-$\OML/ntxmi/m/it/12.045 ^^V\LMS/ntxsy/m/n/12.045 ^^@$\T1/ntxtlf/m/n/12.045 RWEL
-L\C70/rm/m/n/12.045/53  \T1/ntxtlf/m/n/12.045 FTM\C70/rm/m/n/12.045/63 ¢
- []
 
+Underfull \vbox (badness 1062) has occurred while \output is active []
+
+ [24 <./time_resolution_example-eps-converted-to.pdf>] [25 <./gem_spatial_resol
+ution-eps-converted-to.pdf> <./mrwell_spatial_resolution-eps-converted-to.pdf> 
+<./ftm_spatial_resolution-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <spatial_resolution_example.eps>
 (epstopdf)                    date: 2018-04-30 19:42:12
 (epstopdf)                    size: 11795 bytes
@@ -3221,14 +3165,14 @@ o.pdf>
 (epstopdf)                    size: 8897 bytes
 (epstopdf)             Command: <repstopdf --outfile=spatial_resolution_example
 -eps-converted-to.pdf spatial_resolution_example.eps>
-(epstopdf)             \includegraphics on input line 250.
+(epstopdf)             \includegraphics on input line 251.
 Package epstopdf Info: Output file is already uptodate.
-<spatial_resolution_example-eps-converted-to.pdf, id=884, 569.12625pt x 386.443
+<spatial_resolution_example-eps-converted-to.pdf, id=870, 569.12625pt x 386.443
 76pt>
 File: spatial_resolution_example-eps-converted-to.pdf Graphic file (type pdf)
 <use spatial_resolution_example-eps-converted-to.pdf>
 Package pdftex.def Info: spatial_resolution_example-eps-converted-to.pdf  used 
-on input line 250.
+on input line 251.
 (pdftex.def)             Requested size: 289.07999pt x 196.29945pt.
 Package epstopdf Info: Source file: <time_coparison.eps>
 (epstopdf)                    date: 2018-04-30 19:42:12
@@ -3238,16 +3182,16 @@ Package epstopdf Info: Source file: <time_coparison.eps>
 (epstopdf)                    size: 72320 bytes
 (epstopdf)             Command: <repstopdf --outfile=time_coparison-eps-convert
 ed-to.pdf time_coparison.eps>
-(epstopdf)             \includegraphics on input line 260.
+(epstopdf)             \includegraphics on input line 261.
 Package epstopdf Info: Output file is already uptodate.
-<time_coparison-eps-converted-to.pdf, id=887, 462.72874pt x 346.29375pt>
+<time_coparison-eps-converted-to.pdf, id=873, 462.72874pt x 346.29375pt>
 File: time_coparison-eps-converted-to.pdf Graphic file (type pdf)
 <use time_coparison-eps-converted-to.pdf>
 Package pdftex.def Info: time_coparison-eps-converted-to.pdf  used on input lin
-e 260.
+e 261.
 (pdftex.def)             Requested size: 238.49121pt x 178.48329pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 260--261
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 261--262
  [][] 
  []
 
@@ -3259,106 +3203,134 @@ Package epstopdf Info: Source file: <spatial_coparison.eps>
 (epstopdf)                    size: 15581 bytes
 (epstopdf)             Command: <repstopdf --outfile=spatial_coparison-eps-conv
 erted-to.pdf spatial_coparison.eps>
-(epstopdf)             \includegraphics on input line 267.
+(epstopdf)             \includegraphics on input line 268.
 Package epstopdf Info: Output file is already uptodate.
-<spatial_coparison-eps-converted-to.pdf, id=888, 462.72874pt x 346.29375pt>
+<spatial_coparison-eps-converted-to.pdf, id=874, 462.72874pt x 346.29375pt>
 File: spatial_coparison-eps-converted-to.pdf Graphic file (type pdf)
 <use spatial_coparison-eps-converted-to.pdf>
 Package pdftex.def Info: spatial_coparison-eps-converted-to.pdf  used on input 
-line 267.
+line 268.
 (pdftex.def)             Requested size: 238.49121pt x 178.48329pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 267--268
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 268--269
  [][] 
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 258--271
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 259--272
 [][]  [] 
  []
 
-[28 <./spatial_resolution_example-eps-converted-to.pdf>]
-Overfull \hbox (1.18246pt too wide) in paragraph at lines 275--279
-[]\C70/rm/m/n/12.045/5b ˘ \C70/rm/m/n/12.045/4e é\T1/ntxtlf/m/n/12.045 Triple-G
-EM\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/
-rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/4f M \C70/rm/m/n/12.045/7f n \C70/rm/m/n/
-12.045/52 ^^F \C70/rm/m/n/12.045/80 ˝ \C70/rm/m/n/12.045/52 õ \C70/rm/m/n/12.04
-5/78 ^^T \C70/rm/m/n/12.045/7a v|\C70/rm/m/n/12.045/ff ^^L| \T1/ntxtlf/m/n/12.0
-45 CMS\C70/rm/m/n/12.045/54 ^^H \C70/rm/m/n/12.045/4f \ \C70/rm/m/n/12.045/7e ƒ
- \C70/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 2011\C70/rm/m/n/12.045/5e t \C70/
-rm/m/n/12.045/8f € \C70/rm/m/n/12.045/88 L \C70/rm/m/n/12.045/4e Ü \C70/rm/m/n/
-12.045/67 _ \C70/rm/m/n/12.045/6d A K \C70/rm/m/n/12.045/8b ’|\C70/rm/m/n/12.04
-5/ff ^^L|
- []
 
-<gem_beam.png, id=912, 1120.185pt x 773.89125pt>
-File: gem_beam.png Graphic file (type png)
-<use gem_beam.png>
-Package pdftex.def Info: gem_beam.png  used on input line 286.
-(pdftex.def)             Requested size: 289.07999pt x 199.70728pt.
-<ftm_beam.png, id=917, 1044.90375pt x 745.78625pt>
+Underfull \vbox (badness 1867) has occurred while \output is active []
+
+ [26 <./spatial_resolution_example-eps-converted-to.pdf>]
+<ftm_beam.png, id=897, 1044.90375pt x 745.78625pt>
 File: ftm_beam.png Graphic file (type png)
 <use ftm_beam.png>
-Package pdftex.def Info: ftm_beam.png  used on input line 315.
+Package pdftex.def Info: ftm_beam.png  used on input line 295.
 (pdftex.def)             Requested size: 289.07999pt x 206.32655pt.
-[29 <./time_coparison-eps-converted-to.pdf> <./spatial_coparison-eps-converted-
-to.pdf>] [30 <./gem_beam.png>]) [31 <./ftm_beam.png>] [32]
+
+Overfull \hbox (0.60435pt too wide) in paragraph at lines 300--304
+\C70/rm/m/n/12.045/68 7 \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/5d Â \C70/rm
+/m/n/12.045/4f \ \C70/rm/m/n/12.045/67 a \C70/rm/m/n/12.045/4e ˆ  |\C70/rm/m/n
+/12.045/ff ^^H|\C70/rm/m/n/12.045/6f ^^B \C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12
+.045/53 : \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/57 : \C70/rm/m/n/12.045/5f
+ : \C70/rm/m/n/12.045/5e ¶ \C70/rm/m/n/12.045/62 ^^Q \C70/rm/m/n/12.045/4e Ï \C
+70/rm/m/n/12.045/63 ^^G \C70/rm/m/n/12.045/5b ö \C70/rm/m/n/12.045/4e :\T1/ntxt
+lf/m/n/12.045 4kV/cm|\C70/rm/m/n/12.045/ff 	||^^L| \C70/rm/m/n/12.045/6a ! \C70
+/rm/m/n/12.045/62 ﬂ \C70/rm/m/n/12.045/78 ^^T \C70/rm/m/n/12.045/7a v \C70/rm/m
+/n/12.045/7e Ÿ \C70/rm/m/n/12.045/51 ˙ \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.0
+45/7e ” \C70/rm/m/n/12.045/67 ú \C70/rm/m/n/12.045/4e :\T1/ntxtlf/m/n/12.045 57
+$\OML/ntxmi/m/it/12.045 ^^V$\T1/ntxtlf/m/n/12.045 m|\C70/rm/m/n/12.045/ff ^^L|
+ []
+
+[27 <./time_coparison-eps-converted-to.pdf> <./spatial_coparison-eps-converted-
+to.pdf>]
+Overfull \hbox (14.80495pt too wide) in paragraph at lines 305--311
+\C70/rm/m/n/12.045/4e ˆ\T1/ntxtlf/m/n/12.045 GARFIELD|\C70/rm/m/n/12.045/ff ^^L
+| \C70/rm/m/n/12.045/63 œ \C70/rm/m/n/12.045/8f  \C70/rm/m/n/12.045/4e Ü \C70/
+rm/m/n/12.045/4f ^^? \C70/rm/m/n/12.045/75 ( \C70/rm/m/n/12.045/84 ô \C70/rm/m/
+n/12.045/72 y \C70/rm/m/n/12.045/53 a \C70/rm/m/n/12.045/7f W \C70/rm/m/n/12.04
+5/65 π \C70/rm/m/n/12.045/6c ’ \C70/rm/m/n/12.045/8f € \C70/rm/m/n/12.045/88 L 
+\C70/rm/m/n/12.045/6a ! \C70/rm/m/n/12.045/62 ﬂ \C70/rm/m/n/12.045/5f ó \C70/rm
+/m/n/12.045/52 0 \T1/ntxtlf/m/n/12.045 Triple-GEM|\C70/rm/m/n/12.045/30 ^^A| \T
+1/ntxtlf/m/n/12.045 FTM|\C70/rm/m/n/12.045/30 ^^A|  $\OML/ntxmi/m/it/12.045 ^^V
+\LMS/ntxsy/m/n/12.045 ^^@$\T1/ntxtlf/m/n/12.045 RWELL\C70/rm/m/n/12.045/8f Ÿ
+ []
+
+) [28 <./ftm_beam.png>]
 \openout2 = `chap/chap5.aux'.
 
  (./chap/chap5.tex
 Á¨¨ÂõõÁ´†
-<QC2_1.png, id=994, 359.84438pt x 425.33907pt>
+
+Overfull \hbox (18.25014pt too wide) in paragraph at lines 5--9
+\C70/rm/m/n/12.045/62 y \C70/rm/m/n/12.045/91 œ \C70/rm/m/n/12.045/75 ^^_ \C70/
+rm/m/n/12.045/4e ß \C70/rm/m/n/12.045/96 6 \C70/rm/m/n/12.045/6b µ|\C70/rm/m/n/
+12.045/30 ^^B| \C70/rm/m/n/12.045/94 à \C70/rm/m/n/12.045/5b ˘\T1/ntxtlf/m/n/12
+.045 GEM\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h
+ \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/62 y \C70/rm/m/n/12.045/91 œ \C70/r
+m/m/n/12.045/75 ^^_ \C70/rm/m/n/12.045/4e ß \C70/rm/m/n/12.045/8b æ \C70/rm/m/n
+/12.045/7a À \C70/rm/m/n/12.045/4e Ü ^^@ \C70/rm/m/n/12.045/59 W \C70/rm/m/n/12
+.045/4e % \C70/rm/m/n/12.045/68 < \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/8d
+ ( \C70/rm/m/n/12.045/91 œ \C70/rm/m/n/12.045/63 ß \C70/rm/m/n/12.045/52 6 \C70
+/rm/m/n/12.045/6d A \C70/rm/m/n/12.045/7a \T1/ntxtlf/m/n/12.045 [[]42[]]  |\C7
+0/rm/m/n/12.045/ff ^^H|\T1/ntxtlf/m/n/12.045 Quality
+ []
+
+<QC2_1.png, id=964, 359.84438pt x 425.33907pt>
 File: QC2_1.png Graphic file (type png)
 <use QC2_1.png>
-Package pdftex.def Info: QC2_1.png  used on input line 21.
+Package pdftex.def Info: QC2_1.png  used on input line 23.
 (pdftex.def)             Requested size: 238.49121pt x 281.90584pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 21--22
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
-<QC2_2.png, id=995, 642.4pt x 479.7925pt>
+<QC2_2.png, id=965, 642.4pt x 479.7925pt>
 File: QC2_2.png Graphic file (type png)
 <use QC2_2.png>
-Package pdftex.def Info: QC2_2.png  used on input line 28.
+Package pdftex.def Info: QC2_2.png  used on input line 30.
 (pdftex.def)             Requested size: 238.49121pt x 178.12076pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 28--29
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 30--31
  [][] 
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 19--32
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 21--34
 [][]  [] 
  []
 
-<qc2_1.png, id=998, 687.56876pt x 471.7625pt>
+<qc2_1.png, id=968, 687.56876pt x 471.7625pt>
 File: qc2_1.png Graphic file (type png)
 <use qc2_1.png>
-Package pdftex.def Info: qc2_1.png  used on input line 38.
+Package pdftex.def Info: qc2_1.png  used on input line 40.
 (pdftex.def)             Requested size: 238.49121pt x 163.63644pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 38--39
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 40--41
  [][] 
  []
 
-<qc2_22.png, id=999, 552.0625pt x 367.3725pt>
+<qc2_22.png, id=969, 552.0625pt x 367.3725pt>
 File: qc2_22.png Graphic file (type png)
 <use qc2_22.png>
-Package pdftex.def Info: qc2_22.png  used on input line 45.
+Package pdftex.def Info: qc2_22.png  used on input line 47.
 (pdftex.def)             Requested size: 238.49121pt x 158.70703pt.
 
-Overfull \hbox (13.7146pt too wide) in paragraph at lines 45--46
+Overfull \hbox (13.7146pt too wide) in paragraph at lines 47--48
  [][] 
  []
 
 
-Overfull \hbox (18.06741pt too wide) in paragraph at lines 36--49
+Overfull \hbox (18.06741pt too wide) in paragraph at lines 38--51
 [][]  [] 
  []
 
 
-Overfull \hbox (4.41048pt too wide) in paragraph at lines 51--53
+Overfull \hbox (4.41048pt too wide) in paragraph at lines 53--55
 []\C70/rm/m/n/12.045/90 ^^Z \C70/rm/m/n/12.045/8f «\T1/ntxtlf/m/n/12.045 QC2\C7
 0/rm/m/n/12.045/5f Î \C70/rm/m/n/12.045/90 ^^_ \C70/rm/m/n/12.045/68 ¿ \C70/rm/
 m/n/12.045/6d K \C70/rm/m/n/12.045/76 Ñ\T1/ntxtlf/m/n/12.045 GEM\C70/rm/m/n/12.
@@ -3371,108 +3343,137 @@ n/12.045/95 ^^? \C70/rm/m/n/12.045/65 ˆ \C70/rm/m/n/12.045/95 Ù \C70/rm/m/n/12.
 45 QC2\C70/rm/m/n/12.045/95 ^^?
  []
 
-[33
+[29
 
 
 
-] [34 <./QC2_1.png (PNG copy)> <./QC2_2.png> <./qc2_1.png> <./qc2_22.png>]
-<qc2_long.png, id=1015, 657.05475pt x 428.802pt>
-File: qc2_long.png Graphic file (type png)
-<use qc2_long.png>
-Package pdftex.def Info: qc2_long.png  used on input line 70.
-(pdftex.def)             Requested size: 361.34999pt x 235.82874pt.
-<qc3_1.png, id=1018, 861.2175pt x 340.27126pt>
-File: qc3_1.png Graphic file (type png)
-<use qc3_1.png>
-Package pdftex.def Info: qc3_1.png  used on input line 80.
-(pdftex.def)             Requested size: 289.07999pt x 114.21613pt.
-<qc3.png, id=1019, 893.3375pt x 424.58624pt>
-File: qc3.png Graphic file (type png)
-<use qc3.png>
-Package pdftex.def Info: qc3.png  used on input line 85.
-(pdftex.def)             Requested size: 361.34999pt x 171.74269pt.
-
-[35 <./qc2_long.png>]
-<qc4_1.png, id=1030, 932.48375pt x 269.005pt>
-File: qc4_1.png Graphic file (type png)
-<use qc4_1.png>
-Package pdftex.def Info: qc4_1.png  used on input line 96.
-(pdftex.def)             Requested size: 289.07999pt x 83.39479pt.
-<qc4.png, id=1031, 309.5565pt x 266.1945pt>
-File: qc4.png Graphic file (type png)
-<use qc4.png>
-Package pdftex.def Info: qc4.png  used on input line 101.
-(pdftex.def)             Requested size: 361.34999pt x 310.7558pt.
- [36 <./qc3_1.png> <./qc3.png>]
-<qc5_1.png, id=1043, 656.4525pt x 381.425pt>
-File: qc5_1.png Graphic file (type png)
-<use qc5_1.png>
-Package pdftex.def Info: qc5_1.png  used on input line 109.
-(pdftex.def)             Requested size: 361.34999pt x 209.95898pt.
- [37 <./qc4_1.png> <./qc4.png>]
-<qc5_2.png, id=1054, 939.51pt x 382.42876pt>
-File: qc5_2.png Graphic file (type png)
-<use qc5_2.png>
-Package pdftex.def Info: qc5_2.png  used on input line 126.
-(pdftex.def)             Requested size: 361.34999pt x 147.08672pt.
-<qc5_3.png, id=1055, 664.4825pt x 363.3575pt>
-File: qc5_3.png Graphic file (type png)
-<use qc5_3.png>
-Package pdftex.def Info: qc5_3.png  used on input line 131.
-(pdftex.def)             Requested size: 361.34999pt x 197.5962pt.
-<qc5_4.png, id=1059, 814.04124pt x 572.1375pt>
-File: qc5_4.png Graphic file (type png)
-<use qc5_4.png>
-Package pdftex.def Info: qc5_4.png  used on input line 142.
-(pdftex.def)             Requested size: 361.34999pt x 253.96745pt.
-<qc5_5.png, id=1062, 377.775pt x 377.118pt>
-File: qc5_5.png Graphic file (type png)
-<use qc5_5.png>
-Package pdftex.def Info: qc5_5.png  used on input line 147.
-(pdftex.def)             Requested size: 289.07999pt x 288.59215pt.
-
-Overfull \hbox (3.94086pt too wide) in paragraph at lines 136--151
-\C70/rm/m/n/12.045/4e * \C70/rm/m/n/12.045/8b ˚ \C70/rm/m/n/12.045/51 ˙ \C70/rm
-/m/n/12.045/4f M \C70/rm/m/n/12.045/7f n \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12
-.045/58 û \C70/rm/m/n/12.045/76   \C70/rm/m/n/12.045/66 / \C70/rm/m/n/12.045/54
- & \C70/rm/m/n/12.045/4e ^^@ \C70/rm/m/n/12.045/81 Ù \C70/rm/m/n/12.045/66 / \C
-70/rm/m/n/12.045/97 ^ \C70/rm/m/n/12.045/5e 8 \C70/rm/m/n/12.045/5f ≈ \C70/rm/m
-/n/12.045/89 Å \C70/rm/m/n/12.045/76 Ñ|\C70/rm/m/n/12.045/30 ^^B| \C70/rm/m/n/1
-2.045/58 û \C70/rm/m/n/12.045/76   Ñ \C70/rm/m/n/12.045/57 G \C70/rm/m/n/12.045
-/53 ^^@ \C70/rm/m/n/12.045/4e ^^@ \C70/rm/m/n/12.045/81 Ù \C70/rm/m/n/12.045/60
- ' \C70/rm/m/n/12.045/68 ¿ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/76 Ñ \C70
-/rm/m/n/12.045/6d A \C70/rm/m/n/12.045/7a  \C70/rm/m/n/12.045/56 ˛ \C70/rm/m/n
-/12.045/59 Ç \C70/rm/m/n/12.045/56 ˛[]\T1/ntxtlf/m/n/12.045 4.13[]\C70/rm/m/n/1
-2.045/62 @
+] [30 <./QC2_1.png (PNG copy)> <./QC2_2.png> <./qc2_1.png> <./qc2_22.png>]
+Overfull \hbox (7.00914pt too wide) in paragraph at lines 64--66
+\C70/rm/m/n/12.045/75 Y\T1/ntxtlf/m/n/12.045 10\C70/rm/m/n/12.045/52 ^^F \C70/r
+m/m/n/12.045/94 ü|\C70/rm/m/n/12.045/ff ^^[| \C70/rm/m/n/12.045/7b , \C70/rm/m/
+n/12.045/4e å * \C70/rm/m/n/12.045/6a ! \C70/rm/m/n/12.045/5f ^^O \C70/rm/m/n/1
+2.045/66 / \C70/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 600V\C70/rm/m/n/12.045/
+9a ÿ \C70/rm/m/n/12.045/53 ã \C70/rm/m/n/12.045/50 \ \C70/rm/m/n/12.045/75 Y\T1
+/ntxtlf/m/n/12.045 15\C70/rm/m/n/12.045/52 ^^F \C70/rm/m/n/12.045/94 ü|\C70/rm/
+m/n/12.045/ff ^^[| \C70/rm/m/n/12.045/7b , \C70/rm/m/n/12.045/4e 	 * \C70/rm/m/
+n/12.045/6a ! \C70/rm/m/n/12.045/5f ^^O \C70/rm/m/n/12.045/66 / \C70/rm/m/n/12.
+045/57 (\T1/ntxtlf/m/n/12.045 100V\C70/rm/m/n/12.045/54 å\T1/ntxtlf/m/n/12.045 
+600V\C70/rm/m/n/12.045/4e K
  []
 
+<qc2_long.png, id=984, 657.05475pt x 428.802pt>
+File: qc2_long.png Graphic file (type png)
+<use qc2_long.png>
+Package pdftex.def Info: qc2_long.png  used on input line 72.
+(pdftex.def)             Requested size: 361.34999pt x 235.82874pt.
+<qc3_1.png, id=987, 861.2175pt x 340.27126pt>
+File: qc3_1.png Graphic file (type png)
+<use qc3_1.png>
+Package pdftex.def Info: qc3_1.png  used on input line 82.
+(pdftex.def)             Requested size: 289.07999pt x 114.21613pt.
+<qc3.png, id=988, 893.3375pt x 424.58624pt>
+File: qc3.png Graphic file (type png)
+<use qc3.png>
+Package pdftex.def Info: qc3.png  used on input line 87.
+(pdftex.def)             Requested size: 361.34999pt x 171.74269pt.
 
-Underfull \vbox (badness 2591) has occurred while \output is active []
+Overfull \hbox (7.21704pt too wide) in paragraph at lines 77--91
+\C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/90 ^^_ \C70/rm/m/n/12.045/73 á \C70/
+rm/m/n/12.045/4e :\T1/ntxtlf/m/n/12.045 3.44mbar/hour|\C70/rm/m/n/12.045/30 ^^B
+| \C70/rm/m/n/12.045/62 ^^Q \C70/rm/m/n/12.045/4e Ï \C70/rm/m/n/12.045/5b ö \C7
+0/rm/m/n/12.045/4e I ^^@ * \C70/rm/m/n/12.045/6c ^^T \C70/rm/m/n/12.045/5b ∆ \C
+70/rm/m/n/12.045/60 ' \C70/rm/m/n/12.045/82 o \C70/rm/m/n/12.045/59 } \C70/rm/m
+/n/12.045/76 Ñ \C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.0
+45/56 h \C70/rm/m/n/12.045/6f ^^O \C70/rm/m/n/12.045/6c ^^T \C70/rm/m/n/12.045/
+90 ^^_ \C70/rm/m/n/12.045/73 á \C70/rm/m/n/12.045/4e ^^M \C70/rm/m/n/12.045/59 
+' \C70/rm/m/n/12.045/4e é\T1/ntxtlf/m/n/12.045 1mbar/hour|\C70/rm/m/n/12.045/ff
+ ^^L|
+ []
 
- [38 <./qc5_1.png>] [39 <./qc5_2.png> <./qc5_3.png>]) [40 <./qc5_4.png>] [41 <.
-/qc5_5.png>]
+<qc4_1.png, id=991, 932.48375pt x 269.005pt>
+File: qc4_1.png Graphic file (type png)
+<use qc4_1.png>
+Package pdftex.def Info: qc4_1.png  used on input line 98.
+(pdftex.def)             Requested size: 289.07999pt x 83.39479pt.
+<qc4.png, id=992, 309.5565pt x 266.1945pt>
+File: qc4.png Graphic file (type png)
+<use qc4.png>
+Package pdftex.def Info: qc4.png  used on input line 103.
+(pdftex.def)             Requested size: 361.34999pt x 310.7558pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+[32 <./qc2_long.png> <./qc3_1.png> <./qc3.png>]
+<qc5_1.png, id=1009, 656.4525pt x 381.425pt>
+File: qc5_1.png Graphic file (type png)
+<use qc5_1.png>
+Package pdftex.def Info: qc5_1.png  used on input line 111.
+(pdftex.def)             Requested size: 361.34999pt x 209.95898pt.
+
+Overfull \hbox (13.19115pt too wide) in paragraph at lines 108--115
+\C70/rm/m/n/12.045/75 (\T1/ntxtlf/m/n/12.045 X\C70/rm/m/n/12.045/5c ^^D \C70/rm
+/m/n/12.045/7e ø \C70/rm/m/n/12.045/5b ˘ \C70/rm/m/n/12.045/68 Ø \C70/rm/m/n/12
+.045/5f b \C70/rm/m/n/12.045/7e ” \C70/rm/m/n/12.045/67 Ñ \C70/rm/m/n/12.045/76
+ Ñ\T1/ntxtlf/m/n/12.045 Triple-GEM\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d
+ K \C70/rm/m/n/12.045/56 h |\C70/rm/m/n/12.045/ff ^^H|\T1/ntxtlf/m/n/12.045 GE1
+/1\C70/rm/m/n/12.045/51 h \C70/rm/m/n/12.045/5c : \C70/rm/m/n/12.045/5b ¯ \C70/
+rm/m/n/12.045/68 7 \C70/rm/m/n/12.045/67 : \C70/rm/m/n/12.045/8f € \C70/rm/m/n/
+12.045/88 L \C70/rm/m/n/12.045/68 ¿ \C70/rm/m/n/12.045/6d K|\C70/rm/m/n/12.045/
+ff 	| \T1/ntxtlf/m/n/12.045 [[]43[]]|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.
+045/59 Ç \C70/rm/m/n/12.045/56 ˛[]\T1/ntxtlf/m/n/12.045 4.10[]\C70/rm/m/n/12.04
+5/62 @
+ []
+
+<qc5_2.png, id=1012, 939.51pt x 382.42876pt>
+File: qc5_2.png Graphic file (type png)
+<use qc5_2.png>
+Package pdftex.def Info: qc5_2.png  used on input line 128.
+(pdftex.def)             Requested size: 361.34999pt x 147.08672pt.
+<qc5_3.png, id=1013, 664.4825pt x 363.3575pt>
+File: qc5_3.png Graphic file (type png)
+<use qc5_3.png>
+Package pdftex.def Info: qc5_3.png  used on input line 133.
+(pdftex.def)             Requested size: 361.34999pt x 197.5962pt.
+[33 <./qc4_1.png>] [34 <./qc4.png> <./qc5_1.png>]
+<qc5_4.png, id=1036, 814.04124pt x 572.1375pt>
+File: qc5_4.png Graphic file (type png)
+<use qc5_4.png>
+Package pdftex.def Info: qc5_4.png  used on input line 144.
+(pdftex.def)             Requested size: 361.34999pt x 253.96745pt.
+<qc5_5.png, id=1039, 377.775pt x 377.118pt>
+File: qc5_5.png Graphic file (type png)
+<use qc5_5.png>
+Package pdftex.def Info: qc5_5.png  used on input line 149.
+(pdftex.def)             Requested size: 289.07999pt x 288.59215pt.
+
+Underfull \vbox (badness 1460) has occurred while \output is active []
+
+ [35 <./qc5_2.png> <./qc5_3.png>]) [36 <./qc5_4.png>] [37 <./qc5_5.png>]
 \openout2 = `chap/conclusion.aux'.
 
-(./chap/conclusion.tex [42
+
+(./chap/conclusion.tex [38
 
 
 
 ])
-Overfull \hbox (15.78099pt too wide) in paragraph at lines 14--105
-[]\C70/rm/m/n/12.045/6b d \C70/rm/m/n/12.045/59 ^^V|\C70/rm/m/n/12.045/ff ^^L| 
-\C70/rm/m/n/12.045/67 , \C70/rm/m/n/12.045/65 á \C70/rm/m/n/12.045/8f ÿ \C70/rm
-/m/n/12.045/4e À \C70/rm/m/n/12.045/7e Õ \C70/rm/m/n/12.045/4e Ü\T1/ntxtlf/m/n/
-12.045 GE1/1\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/
-56 h \C70/rm/m/n/12.045/62 y \C70/rm/m/n/12.045/91 œ \C70/rm/m/n/12.045/75 ^^_ 
-\C70/rm/m/n/12.045/4e ß \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/8d ( \C70/rm
-/m/n/12.045/91 œ \C70/rm/m/n/12.045/63 ß \C70/rm/m/n/12.045/52 6 \C70/rm/m/n/12
-.045/6d A \C70/rm/m/n/12.045/7a |\C70/rm/m/n/12.045/30 ^^B| \C70/rm/m/n/12.045
-/67 , \C70/rm/m/n/12.045/65 á \C70/rm/m/n/12.045/4e ; \C70/rm/m/n/12.045/89 Å \
-C70/rm/m/n/12.045/4e À \C70/rm/m/n/12.045/7e Õ \C70/rm/m/n/12.045/4e Ü\T1/ntxtl
-f/m/n/12.045 GEM\C70/rm/m/n/12.045/81 ú
+Overfull \hbox (13.64899pt too wide) in paragraph at lines 14--105
+\C70/rm/m/n/12.045/53 ã \C70/rm/m/n/12.045/52 ^^F \C70/rm/m/n/12.045/53 ã \C70/
+rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/8d Ô\T1/ntxtlf/m/n/12.045 I-V\C70/rm/m/n/
+12.045/66 Ú \C70/rm/m/n/12.045/7e ø \C70/rm/m/n/12.045/68 ¿ \C70/rm/m/n/12.045/
+6d K |\C70/rm/m/n/12.045/ff ^^H|\T1/ntxtlf/m/n/12.045 QC4|\C70/rm/m/n/12.045/ff
+ 	||\C70/rm/m/n/12.045/30 ^^A| \C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K 
+\C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/67 	 \C70/rm/m/n/12.045/65 H \C70/rm
+/m/n/12.045/58 û \C70/rm/m/n/12.045/76   \C70/rm/m/n/12.045/68 ¿ \C70/rm/m/n/12
+.045/6d K \C70/rm/m/n/12.045/53   \C70/rm/m/n/12.045/58 û \C70/rm/m/n/12.045/76
+   Ñ \C70/rm/m/n/12.045/57 G \C70/rm/m/n/12.045/53 ^^@ \C70/rm/m/n/12.045/4e ^^
+@ \C70/rm/m/n/12.045/81 Ù \C70/rm/m/n/12.045/60 ' \C70/rm/m/n/12.045/68 ¿ \C70/
+rm/m/n/12.045/6d K |\C70/rm/m/n/12.045/ff ^^H|\T1/ntxtlf/m/n/12.045 QC5|\C70/rm
+/m/n/12.045/ff 	||\C70/rm/m/n/12.045/30 ^^B|
  []
 
-[43] [44
+[39] [40
 
 
 ]
@@ -3491,7 +3492,7 @@ e
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.53937pt on input line 111.
-[45]
+[41]
 LaTeX Font Info:    Try loading font information for T1+ntxtt on input line 111
 .
  (/usr/share/texmf-dist/tex/latex/newtx/t1ntxtt.fd
@@ -3499,51 +3500,68 @@ File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 10.53937pt on input line 111.
- [46] [47] [48
+ [42] [43] [44
 
 ]
 \openout2 = `chap/achivement.aux'.
 
 
-(./chap/achivement.tex) [49
+(./chap/achivement.tex)
+Overfull \hbox (40.0757pt too wide) in paragraph at lines 13--117
+\T1/ntxtlf/m/n/12.045 1. |\C70/rm/m/n/12.045/30 
+|\C70/rm/m/n/12.045/65 ∞ \C70/rm/m/n/12.045/57 ã \C70/rm/m/n/12.045/5f Æ \C70/r
+m/m/n/12.045/7e ” \C70/rm/m/n/12.045/67 Ñ \C70/rm/m/n/12.045/6c ^^T \C70/rm/m/n
+/12.045/4f S \C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045
+/56 h \C70/rm/m/n/12.045/60 ' \C70/rm/m/n/12.045/80 ˝ \C70/rm/m/n/12.045/6a ! \
+C70/rm/m/n/12.045/62 ﬂ \C70/rm/m/n/12.045/78 ^^T \C70/rm/m/n/12.045/7a v|\C70/r
+m/m/n/12.045/30 ||\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/7b , \C70/rm/m
+/n/12.045/4e ^^C \C70/rm/m/n/12.045/5c J \C70/rm/m/n/12.045/51 h \C70/rm/m/n/12
+.045/56 ˝ \C70/rm/m/n/12.045/51 H \C70/rm/m/n/12.045/8f € \C70/rm/m/n/12.045/6c
+ ^^T \C70/rm/m/n/12.045/4f S \C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C
+70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/78 ^^T \C70/rm/m/n/12.045/8b ® \C70/rm
+/m/n/12.045/4f ^^Z|\C70/rm/m/n/12.045/ff ^^L|  \T1/ntxtlf/m/n/12.045 2017\C70/r
+m/m/n/12.045/5e t\T1/ntxtlf/m/n/12.045 12\C70/rm/m/n/12.045/67 ^^H|\C70/rm/m/n/
+12.045/ff ^^L|
+ []
+
+[45
 
 
 ]
 \openout2 = `chap/acknowledge.aux'.
 
- (./chap/acknowledge.tex [50
+ (./chap/acknowledge.tex [46
 
 
 
-] [51]) [52]
+] [47]) [48]
 \openout2 = `chap/originauth.aux'.
 
-
-(./chap/originauth.tex) [53
+ (./chap/originauth.tex) [49
 
 
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 122.
- (./thesis.aux (./chap/copyright.aux)
-(./chap/abstract.aux) (./chap/chap1.aux) (./chap/chap2.aux) (./chap/chap3.aux)
-(./chap/chap5.aux) (./chap/conclusion.aux) (./chap/achivement.aux)
-(./chap/acknowledge.aux) (./chap/originauth.aux))
+
+(./thesis.aux (./chap/copyright.aux) (./chap/abstract.aux) (./chap/chap1.aux)
+(./chap/chap2.aux) (./chap/chap3.aux) (./chap/chap5.aux) (./chap/conclusion.aux
+) (./chap/achivement.aux) (./chap/acknowledge.aux) (./chap/originauth.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 122.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 122.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: E8C8C9A6387D0CDF5B4EDD5E42240EF0;5253.
+(rerunfilecheck)             Checksum: 5129D7BA3527F4D67CF7A962F9BB5300;5285.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 47225 strings out of 492982
- 855257 string characters out of 6138579
- 1203072 words of memory out of 5000000
- 49236 multiletter control sequences out of 15000+600000
- 745873 words of font info for 545 fonts, out of 8000000 for 9000
+ 47216 strings out of 492982
+ 855121 string characters out of 6138579
+ 1203574 words of memory out of 5000000
+ 49241 multiletter control sequences out of 15000+600000
+ 750409 words of font info for 556 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,12n,102p,10519b,1551s stack positions out of 5000i,500n,10000p,200000b,80000s
 <simsun.ttc><simkai.ttf>{/usr/share/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-t
@@ -3559,12 +3577,12 @@ hei.ttf><simhei.ttf><simhei.ttf><simhei.ttf><simsun.ttc><simhei.ttf><simhei.ttf
 tf><simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sim
 sun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc
 ><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsu
-n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><
-simhei.ttf><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
+n.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><
+simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.
 ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><si
 msun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.tt
 c><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><sims
-un.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf>
+un.ttc><simsun.ttc><simsun.ttc><simhei.ttf><simhei.ttf><simsun.ttc><simsun.ttc>
 <simsun.ttc><simsun.ttc><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><si
 mhei.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simf
 ang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simfang.ttf><simhei.ttf><simhei
@@ -3584,10 +3602,10 @@ onts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr
 ts/type1/public/txfonts/txmia.pfb></usr/share/texmf-dist/fonts/type1/public/txf
 onts/txsya.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/
 share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (63 pages, 10028131 bytes).
+Output written on thesis.pdf (59 pages, 9697717 bytes).
 PDF statistics:
- 1724 PDF objects out of 1728 (max. 8388607)
- 1257 compressed objects within 13 object streams
- 211 named destinations out of 1000 (max. 500000)
- 920 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1691 PDF objects out of 1728 (max. 8388607)
+ 1234 compressed objects within 13 object streams
+ 204 named destinations out of 1000 (max. 500000)
+ 910 words of extra memory for PDF output out of 10000 (max. 10000000)
 
