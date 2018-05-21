@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  19 MAY 2018 15:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  21 MAY 2018 15:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3600,7 +3600,7 @@ onts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr
 ts/type1/public/txfonts/txmia.pfb></usr/share/texmf-dist/fonts/type1/public/txf
 onts/txsya.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/
 share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (59 pages, 9697271 bytes).
+Output written on thesis.pdf (59 pages, 9697283 bytes).
 PDF statistics:
  1691 PDF objects out of 1728 (max. 8388607)
  1234 compressed objects within 13 object streams
