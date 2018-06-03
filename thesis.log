@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  21 MAY 2018 15:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.16)  3 JUN 2018 12:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2408,16 +2408,31 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 8.0pt on input line 9.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.0pt on input line 9.
+
+Overfull \hbox (15.25099pt too wide) in paragraph at lines 6--16
+\C70/rm/m/n/12.045/56 h|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/75 1 \C70
+/rm/m/n/12.045/4e é \C70/rm/m/n/12.045/51 v \C70/rm/m/n/12.045/62 Â \C70/rm/m/n
+/12.045/67 	 Å \C70/rm/m/n/12.045/9a ÿ \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.0
+45/8b ° \C70/rm/m/n/12.045/65 p \C70/rm/m/n/12.045/73 á \C70/rm/m/n/12.045/62 ^
+^? \C70/rm/m/n/12.045/53 ◊ \C70/rm/m/n/12.045/80 ˝ \C70/rm/m/n/12.045/52 õ|\C70
+/rm/m/n/12.045/30 ^^A| \C70/rm/m/n/12.045/80 ^^P \C70/rm/m/n/12.045/8f ê \C70/r
+m/m/n/12.045/71 g \C70/rm/m/n/12.045/60 ' \C70/rm/m/n/12.045/80 ˝ \C70/rm/m/n/1
+2.045/4e Â \C70/rm/m/n/12.045/53   \C70/rm/m/n/12.045/65 ˆ \C70/rm/m/n/12.045/9
+5 Ù \C70/rm/m/n/12.045/54 å \C70/rm/m/n/12.045/4f M \C70/rm/m/n/12.045/7f n \C7
+0/rm/m/n/12.045/52 ^^F \C70/rm/m/n/12.045/8f ® \C70/rm/m/n/12.045/80 ˝ \C70/rm/
+m/n/12.045/52 õ|\C70/rm/m/n/12.045/ff ^^L| \T1/ntxtlf/m/n/12.045 MPDG\C70/rm/m/
+n/12.045/88 ´
+ []
+
 LaTeX Font Info:    Font shape `T1/ntxtlf/bx/n' in size <12.045> not available
 (Font)              Font shape `T1/ntxtlf/b/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.045pt on input line 23.
- [1
+[1
 
 
 
-]
-[2
+] [2
 
 ]
 LaTeX Font Info:    Try loading font information for T1+qhv on input line 25.
@@ -2437,8 +2452,8 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 ] [4
 
 
-] (./thesis.toc
-[5
+]
+(./thesis.toc [5
 
 ])
 \tf@toc=\write7
@@ -2822,6 +2837,17 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 64--77
 [][]  [] 
  []
 
+
+Overfull \hbox (3.18417pt too wide) in paragraph at lines 62--78
+[]\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/
+rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/5d Â \C70/rm/m/n/12.045/4f \ \C70/rm/m/n/
+12.045/6c ^^T \C70/rm/m/n/12.045/4f S \C70/rm/m/n/12.045/7e ƒ \C70/rm/m/n/12.04
+5/52 ^^F \C70/rm/m/n/12.045/4e :\T1/ntxtlf/m/n/12.045 Ar/CO$[]$=70/30\C70/rm/m/
+n/12.045/4e Â \C70/rm/m/n/12.045/53  \T1/ntxtlf/m/n/12.045 Ar/CO$[]$/CF4=45:15:
+40,\C70/rm/m/n/12.045/57 (\T1/ntxtlf/m/n/12.045 ANSYS\C70/rm/m/n/12.045/4e - \C
+70/rm/m/n/12.045/5b ˘ \C70/rm/m/n/12.045/63 ¢
+ []
+
 <ftm_ansys.png, id=719, 584.9052pt x 380.622pt>
 File: ftm_ansys.png Graphic file (type png)
 <use ftm_ansys.png>
@@ -2993,7 +3019,7 @@ Overfull \hbox (18.06741pt too wide) in paragraph at lines 162--175
  []
 
 [22]
-Overfull \hbox (8.87904pt too wide) in paragraph at lines 183--185
+Overfull \hbox (7.35655pt too wide) in paragraph at lines 183--185
 \C70/rm/m/n/12.045/95 Ù \C70/rm/m/n/12.045/52 ^^F \C70/rm/m/n/12.045/8f ® \C70/
 rm/m/n/12.045/62 ﬂ \C70/rm/m/n/12.045/54 ^^H \C70/rm/m/n/12.045/7e ” \C70/rm/m/
 n/12.045/67 ú \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/79 : \C70/rm/m/n/12.04
@@ -3003,7 +3029,7 @@ n/12.045/67 ú \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/79 : \C70/rm/m/n/12.04
 /rm/m/n/12.045/4e $ \C70/rm/m/n/12.045/5c B \C70/rm/m/n/12.045/76 Ñ\T1/ntxtlf/m
 /n/12.045 FTM\C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K \C70/rm/m/n/12.045
 /56 h \C70/rm/m/n/12.045/5d Â \C70/rm/m/n/12.045/4f \ \C70/rm/m/n/12.045/57 (\T
-1/ntxtlf/m/n/12.045 Ar/CO2 = 70/30\C70/rm/m/n/12.045/6c ^^T
+1/ntxtlf/m/n/12.045 Ar/CO$[]$ = 70/30\C70/rm/m/n/12.045/6c ^^T
  []
 
 Package epstopdf Info: Source file: <ftm_time_resolution.eps>
@@ -3229,18 +3255,19 @@ File: ftm_beam.png Graphic file (type png)
 Package pdftex.def Info: ftm_beam.png  used on input line 295.
 (pdftex.def)             Requested size: 289.07999pt x 206.32655pt.
 
-Overfull \hbox (0.60435pt too wide) in paragraph at lines 300--304
-\C70/rm/m/n/12.045/68 7 \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.045/5d Â \C70/rm
-/m/n/12.045/4f \ \C70/rm/m/n/12.045/67 a \C70/rm/m/n/12.045/4e ˆ  |\C70/rm/m/n
-/12.045/ff ^^H|\C70/rm/m/n/12.045/6f ^^B \C70/rm/m/n/12.045/79 ˚ \C70/rm/m/n/12
-.045/53 : \C70/rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/57 : \C70/rm/m/n/12.045/5f
- : \C70/rm/m/n/12.045/5e ¶ \C70/rm/m/n/12.045/62 ^^Q \C70/rm/m/n/12.045/4e Ï \C
-70/rm/m/n/12.045/63 ^^G \C70/rm/m/n/12.045/5b ö \C70/rm/m/n/12.045/4e :\T1/ntxt
-lf/m/n/12.045 4kV/cm|\C70/rm/m/n/12.045/ff 	||^^L| \C70/rm/m/n/12.045/6a ! \C70
-/rm/m/n/12.045/62 ﬂ \C70/rm/m/n/12.045/78 ^^T \C70/rm/m/n/12.045/7a v \C70/rm/m
-/n/12.045/7e Ÿ \C70/rm/m/n/12.045/51 ˙ \C70/rm/m/n/12.045/76 Ñ \C70/rm/m/n/12.0
-45/7e ” \C70/rm/m/n/12.045/67 ú \C70/rm/m/n/12.045/4e :\T1/ntxtlf/m/n/12.045 57
-$\OML/ntxmi/m/it/12.045 ^^V$\T1/ntxtlf/m/n/12.045 m|\C70/rm/m/n/12.045/ff ^^L|
+Overfull \hbox (62.40215pt too wide) in paragraph at lines 300--304
+\C70/rm/m/n/12.045/57 ( \T1/ntxtlf/m/n/12.045 Ar/CO$[]$\C70/rm/m/n/12.045/6c ^^
+T \C70/rm/m/n/12.045/4f S \C70/rm/m/n/12.045/7e ƒ \C70/rm/m/n/12.045/52 ^^F \C7
+0/rm/m/n/12.045/4e -|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/63 ¢ \C70/rm
+/m/n/12.045/6d K \C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/91 « \C70/rm/m/n/12
+.045/75 ( \C70/rm/m/n/12.045/67 a \C70/rm/m/n/12.045/72 ∂ \C70/rm/m/n/12.045/8b
+ ˚ \C70/rm/m/n/12.045/51 ˙|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.045/8b ˚ \
+C70/rm/m/n/12.045/51 ˙ \C70/rm/m/n/12.045/67 a \C70/rm/m/n/12.045/95 Ù \C70/rm/
+m/n/12.045/8d › \C70/rm/m/n/12.045/4e :\T1/ntxtlf/m/n/12.045 400$\OML/ntxmi/m/i
+t/12.045 ^^V$\T1/ntxtlf/m/n/12.045 m|\C70/rm/m/n/12.045/ff ^^L| \C70/rm/m/n/12.
+045/4f ^^? \C70/rm/m/n/12.045/75 ( \C70/rm/m/n/12.045/80 ˝ \C70/rm/m/n/12.045/9
+1 œ \C70/rm/m/n/12.045/4e :\T1/ntxtlf/m/n/12.045 150GeV\C70/rm/m/n/12.045/76 Ñ\
+T1/ntxtlf/m/n/12.045 Moun\C70/rm/m/n/12.045/67 _
  []
 
 [27 <./time_coparison-eps-converted-to.pdf> <./spatial_coparison-eps-converted-
@@ -3455,23 +3482,7 @@ Underfull \vbox (badness 1460) has occurred while \output is active []
 
 
 
-])
-Overfull \hbox (13.64899pt too wide) in paragraph at lines 14--105
-\C70/rm/m/n/12.045/53 ã \C70/rm/m/n/12.045/52 ^^F \C70/rm/m/n/12.045/53 ã \C70/
-rm/m/n/12.045/75 5 \C70/rm/m/n/12.045/8d Ô\T1/ntxtlf/m/n/12.045 I-V\C70/rm/m/n/
-12.045/66 Ú \C70/rm/m/n/12.045/7e ø \C70/rm/m/n/12.045/68 ¿ \C70/rm/m/n/12.045/
-6d K |\C70/rm/m/n/12.045/ff ^^H|\T1/ntxtlf/m/n/12.045 QC4|\C70/rm/m/n/12.045/ff
- 	||\C70/rm/m/n/12.045/30 ^^A| \C70/rm/m/n/12.045/63 ¢ \C70/rm/m/n/12.045/6d K 
-\C70/rm/m/n/12.045/56 h \C70/rm/m/n/12.045/67 	 \C70/rm/m/n/12.045/65 H \C70/rm
-/m/n/12.045/58 û \C70/rm/m/n/12.045/76   \C70/rm/m/n/12.045/68 ¿ \C70/rm/m/n/12
-.045/6d K \C70/rm/m/n/12.045/53   \C70/rm/m/n/12.045/58 û \C70/rm/m/n/12.045/76
-   Ñ \C70/rm/m/n/12.045/57 G \C70/rm/m/n/12.045/53 ^^@ \C70/rm/m/n/12.045/4e ^^
-@ \C70/rm/m/n/12.045/81 Ù \C70/rm/m/n/12.045/60 ' \C70/rm/m/n/12.045/68 ¿ \C70/
-rm/m/n/12.045/6d K |\C70/rm/m/n/12.045/ff ^^H|\T1/ntxtlf/m/n/12.045 QC5|\C70/rm
-/m/n/12.045/ff 	||\C70/rm/m/n/12.045/30 ^^B|
- []
-
-[39] [40
+]) [39] [40
 
 
 ]
@@ -3600,7 +3611,7 @@ onts/rtxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr
 ts/type1/public/txfonts/txmia.pfb></usr/share/texmf-dist/fonts/type1/public/txf
 onts/txsya.pfb></usr/share/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/
 share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (59 pages, 9697283 bytes).
+Output written on thesis.pdf (59 pages, 9697604 bytes).
 PDF statistics:
  1691 PDF objects out of 1728 (max. 8388607)
  1234 compressed objects within 13 object streams
